@@ -38,8 +38,7 @@ $$
 
 <p style="text-align: center;">
 Row<sub>2</sub>
-/
-2
+/2
 </p>
 $$
 \begin{equation}
