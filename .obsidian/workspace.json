@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6453bbc1a5b43c30",
+        "id": "9fb74ce2ba336200",
         "type": "tabs",
         "children": [
           {
-            "id": "4fd3b114ce23055a",
+            "id": "66efcbe760d2f6f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Existence and Uniqueness.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Existence and Uniqueness.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Existence and Uniqueness.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Existence and Uniqueness.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,27 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fd3b114ce23055a",
+  "active": "66efcbe760d2f6f3",
   "lastOpenFiles": [
+    "Pasted image 20230822122702.png",
+    "Pasted image 20230822122625.png",
+    "Pasted image 20230822122443.png",
+    "Pasted image 20230822122602.png",
+    "README.md",
+    "Untitled.md",
+    "README pics",
+    "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/pics/Pasted image 20230822105608.png",
-    "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Row Operations.md",
     "Linear Equations/Consistent Systems.md",
     "Pasted image 20230822105518.png",
     "Linear Equations/Echelon Form.md",
-    "README.md",
     "LICENSE.txt",
     "Linear Equations/pics/Pasted image 20230822084725.png",
     "Linear Equations/pics/Pasted image 20230822084603.png",
     "Linear Equations/pics/Pasted image 20230822084426.png",
     "Linear Equations/pics/Pasted image 20230822084359.png",
     "Linear Equations/pics/Pasted image 20230822083132.png",
-    "Linear Equations/pics/Pasted image 20230822083818.png",
-    "Linear Equations/pics/Pasted image 20230822082952.png",
     "Linear Equations/pics",
     "Linear Equations",
-    "MATH1554/Linear Equations/pics/Pasted image 20230822084603.png",
     "MATH1554/Linear Equations/Row Operations.md",
     "MATH1554/Linear Equations/Echelon Form.md",
     "MATH1554/Linear Equations/pics",
