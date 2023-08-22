@@ -21,3 +21,4 @@ $$\left( \begin{array}{c|c} A & \vec{b} \end{array} \right) =\left( \begin{array
 $$\left( \begin{array}{c|c} A & \vec{b} \end{array} \right) =\left( \begin{array}{cc|c} 1 & 0 & 0 \\ 0 & 1 & 1 \\ \end{array} \right)$$
 So A and $\vec{b}$ are consistent.
 A and C are not consistent.
+
