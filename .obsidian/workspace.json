@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "d8c4f5d659f50f03",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8d4c792a519eeb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8fd4d1e8bae6d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Equations/Echelon Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "168c656f148c93bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "38d99527007f9313",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52cda0946c10db9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f6881fa87fe5628",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82164e143f0b11b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3cab22d8107e0989",
+    "type": "split",
+    "children": [
+      {
+        "id": "1395ca6d036f5f6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "759919781eaccc48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linear Equations/Echelon Form.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24ce29f2d7157a40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linear Equations/Echelon Form.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06e98116a3032e4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b1b0b1c188d5f26d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linear Equations/Echelon Form.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e8fd4d1e8bae6d0a",
+  "lastOpenFiles": [
+    "Linear Equations/Consistent Systems.md",
+    "Linear Equations/Echelon Form.md",
+    "Linear Equations/Row Operations.md",
+    "Linear Equations/pics/Pasted image 20230822084359.png",
+    "Linear Equations/pics/Pasted image 20230822084725.png",
+    "Linear Equations/pics/Pasted image 20230822084603.png",
+    "Linear Equations/pics/Pasted image 20230822084426.png",
+    "Linear Equations/pics/Pasted image 20230822083818.png",
+    "Linear Equations/pics/Pasted image 20230822082952.png",
+    "Linear Equations/pics/Pasted image 20230822083132.png",
+    "Linear Equations/pics",
+    "Linear Equations"
+  ]
+}
