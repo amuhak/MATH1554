@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52cda0946c10db9b",
+  "active": "66efcbe760d2f6f3",
   "lastOpenFiles": [
+    "Linear Equations/Consistent Systems.md",
+    "pdf/Consistent Systems.pdf",
     "README.md",
     "pdf/Consistent Systems.md",
     "Linear Equations/Row Reduction Algorithm.md",
@@ -168,7 +170,6 @@
     "README pics/Pasted image 20230822122702.png",
     "README pics/Pasted image 20230822122625.png",
     "README pics",
-    "Linear Equations/Consistent Systems.md",
     "LICENSE.txt",
     "Linear Equations/pics",
     "Linear Equations",
@@ -177,7 +178,6 @@
     "MATH1554/Linear Equations/pics",
     "MATH1554/Linear Equations/Consistent Systems.md",
     "MATH1554/Linear Equations",
-    "MATH1554/LICENSE.txt",
-    "MATH1554"
+    "MATH1554/LICENSE.txt"
   ]
 }
