@@ -11,9 +11,11 @@
             "id": "66efcbe760d2f6f3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "README pics/Pasted image 20230822122443.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README pics/Pasted image 20230822122443.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README pics/Pasted image 20230822122443.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README pics/Pasted image 20230822122443.png"
+                "file": "README.md"
               }
             }
           }
@@ -146,6 +148,10 @@
   },
   "active": "52cda0946c10db9b",
   "lastOpenFiles": [
+    "pdf",
+    "New folder",
+    "README pics/Pasted image 20230822122443.png",
+    "Untitled.md",
     "README.md",
     "README pics/Pasted image 20230822123530.png",
     "README pics/Pasted image 20230822123447.png",
@@ -156,8 +162,6 @@
     "README pics/Pasted image 20230822122836.png",
     "README pics/Pasted image 20230822122702.png",
     "README pics/Pasted image 20230822122625.png",
-    "README pics/Pasted image 20230822122443.png",
-    "Untitled.md",
     "README pics",
     "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Row Reduction Algorithm.md",
