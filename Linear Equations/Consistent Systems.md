@@ -19,5 +19,5 @@ A and C are not row equivalent
 ![[Pasted image 20230822083132.png]]
 $$\left( \begin{array}{c|c} A & \vec{b} \end{array} \right) =\left( \begin{array}{cc|c} 1 & 1 & 1 \\ 0 & 1 & 1 \\ \end{array} \right)$$
 $$\left( \begin{array}{c|c} A & \vec{b} \end{array} \right) =\left( \begin{array}{cc|c} 1 & 0 & 0 \\ 0 & 1 & 1 \\ \end{array} \right)$$
-So A and $\vec{b}$ are consitent.
-A and C are not consitent.
+So A and $\vec{b}$ are consistent.
+A and C are not consistent.
