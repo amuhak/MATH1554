@@ -49,7 +49,15 @@
       "name": "Bibliography"
     }
   ],
-  "defaultExportDirectoryMode": "Auto",
+  "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
-  "env": {}
+  "env": {},
+  "lastExportDirectory": {
+    "win32": "C:\\Users\\amuly\\Documents\\MATH1554\\pdf"
+  },
+  "lastExportType": "Markdown",
+  "lastEditName": "PDF",
+  "customDefaultExportDirectory": {
+    "win32": "C:\\Users\\amuly\\Documents\\MATH1554\\pdf"
+  }
 }

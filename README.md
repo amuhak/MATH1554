@@ -9,22 +9,31 @@ The most important part of MATH 1554 linear algebra is calculating the output ve
 - [Download and install obsidian](https://obsidian.md/download) 
 - [Download and install git](https://git-scm.com/downloads) 
 - Clone the repo (ask for help if u don't know how to do this)
-- In Obsidian open the folder: ![[Pasted image 20230822122443.png]]
-- ### Now to setup git:
-	- Open settings on the bottom left:
-	  ![[Pasted image 20230822122625.png]]
-	- Press Community plugins 
-	  ![[Pasted image 20230822122702.png]]
-	  - Turn it on Community plugins
-	  - Press Browse
-	 ![[Pasted image 20230822122836.png]]
-	 - Search for 'git':
-	 ![[Pasted image 20230822123022.png]]
-	 - Install Obsidian git:
-	 ![[Pasted image 20230822123102.png]]
-	 -  Now back in Community plugins, near Obsidian Git, press the settings icon near the plus, heart, and x. Your Obsidian Git should be on like the below image. If you are having problems try closing and reopening the application (Obsidian).
-	 ![[Pasted image 20230822123207.png]]
-	 - Set up your setting like so:
-	 ![[Pasted image 20230822123447.png]]
-	 - Scroll down and set this up with your info:
-	 ![[Pasted image 20230822123530.png]]
+- In Obsidian open the folder: ![](README%20pics/Pasted%20image%2020230822122443.png)
+## Setting Up Git in Obsidian
+
+1. Open settings on the bottom left:
+   ![](README%20pics/Pasted%20image%2020230822122625.png)
+
+2. Press "Community plugins":
+   ![](README%20pics/Pasted%20image%2020230822122702.png)
+
+   - Turn on "Community plugins"
+   - Press "Browse":
+     ![](README%20pics/Pasted%20image%2020230822122836.png)
+
+   - Search for 'git':
+     ![](README%20pics/Pasted%20image%2020230822123022.png)
+
+   - Install "Obsidian git":
+     ![](README%20pics/Pasted%20image%2020230822123102.png)
+
+3. Now, back in "Community plugins," find "Obsidian Git" and press the settings icon (near the plus, heart, and x icons). Your "Obsidian Git" should be enabled, as shown in the image:
+   ![](README%20pics/Pasted%20image%2020230822123207.png)
+
+4. Set up your settings as follows:
+   ![](README%20pics/Pasted%20image%2020230822123447.png)
+
+5. Scroll down and set up your information:
+   ![](README%20pics/Pasted%20image%2020230822123530.png)
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linear Equations/Consistent Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linear Equations/Consistent Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linear Equations/Consistent Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linear Equations/Consistent Systems.md"
               }
             }
           }
@@ -148,11 +148,16 @@
   },
   "active": "52cda0946c10db9b",
   "lastOpenFiles": [
+    "README.md",
+    "pdf/Consistent Systems.md",
+    "Linear Equations/Row Reduction Algorithm.md",
+    "Linear Equations/Existence and Uniqueness.md",
+    "Linear Equations/Row Operations.md",
+    "Linear Equations/Echelon Form.md",
     "pdf",
     "New folder",
     "README pics/Pasted image 20230822122443.png",
     "Untitled.md",
-    "README.md",
     "README pics/Pasted image 20230822123530.png",
     "README pics/Pasted image 20230822123447.png",
     "README pics/Pasted image 20230822123207.png",
@@ -163,11 +168,7 @@
     "README pics/Pasted image 20230822122702.png",
     "README pics/Pasted image 20230822122625.png",
     "README pics",
-    "Linear Equations/Existence and Uniqueness.md",
-    "Linear Equations/Row Reduction Algorithm.md",
-    "Linear Equations/Row Operations.md",
     "Linear Equations/Consistent Systems.md",
-    "Linear Equations/Echelon Form.md",
     "LICENSE.txt",
     "Linear Equations/pics",
     "Linear Equations",
