@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52efbe2e681aab37",
+        "id": "f19f0ab92ea4e45d",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe30cf4bfe52f1d",
+            "id": "c8e06b00bac559ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fe30cf4bfe52f1d",
+  "active": "c8e06b00bac559ed",
   "lastOpenFiles": [
-    "Linear Equations/Consistent Systems.md",
+    "README.md",
     "Linear Equations/Row Reduction Algorithm.md",
+    "Linear Equations/Consistent Systems.md",
     "Linear Equations/Row Operations.md",
     "Linear Equations/Echelon Form.md",
     "LICENSE.txt",
