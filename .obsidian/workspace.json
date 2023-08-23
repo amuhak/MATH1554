@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aca6f8e07b9721fd",
+        "id": "ce04d73ad3260c7e",
         "type": "tabs",
         "children": [
           {
-            "id": "e6bbe16819b0ce21",
+            "id": "67ce5cf299d59a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linear Equations/Linear Combinations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linear Equations/Linear Combinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linear Equations/Linear Combinations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linear Equations/Linear Combinations.md"
               }
             }
           }
@@ -147,37 +147,39 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e6bbe16819b0ce21",
+  "active": "67ce5cf299d59a3f",
   "lastOpenFiles": [
-    "Linear Equations/Existence and Uniqueness.md",
-    "pdf/Existence and Uniqueness.pdf",
-    "Linear Equations/Row Reduction Algorithm.md",
-    "Linear Equations/Consistent Systems.md",
-    "README.md",
-    "pdf.md",
     "Linear Equations/Row Operations.md",
-    "pdf/Row Operations.pdf",
+    "Linear Equations/Linear Combinations.md",
+    "Linear Equations/Row Reduction Algorithm.md",
+    "pdf/1-Linear Combinations.pdf",
+    "pdf/2-Linear Combinations.pdf",
+    "1-Linear Combinations.png",
+    "Linear Combinations 1.png",
+    "1-Linear Combinations.png",
+    "Pasted image 20230823105246.png",
+    "Pasted image 20230823105239.png",
+    "Linear Combinations.png",
+    "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Vectors in R.md",
+    "Pasted image 20230823105118.png",
+    "Pasted image 20230823104632.png",
+    "Linear Combinations.png",
+    "Pasted image 20230823104747.png",
+    "README.md",
+    "pdf/Existence and Uniqueness.pdf",
+    "Linear Equations/Consistent Systems.md",
+    "pdf.md",
+    "pdf/Row Operations.pdf",
     "pdf/Row Reduction Algorithm.pdf",
     "pdf/Vectors in R.pdf",
-    "Linear Equations/pics/Vectors in R.png",
-    "Pasted image 20230822205057.png",
-    "Linear Equations/pics/Vectors in R 1.png",
-    "Pasted image 20230822204929.png",
-    "Pasted image 20230822204919.png",
     "Linear Equations/Echelon Form.md",
-    "Consistent Systems.png",
     "pdf/Consistent Systems.pdf",
     "pdf/Echelon Form.pdf",
-    "Linear Equations/pics/Pasted image 20230822082952.png",
-    "Linear Equations/pics/Pasted image 20230822105608.png",
     "pdf/Consistent Systems.md",
     "pdf",
     "New folder",
-    "README pics/Pasted image 20230822122443.png",
     "Untitled.md",
-    "README pics",
-    "LICENSE.txt",
     "MATH1554/Linear Equations/Row Operations.md",
     "MATH1554/Linear Equations/Echelon Form.md",
     "MATH1554/Linear Equations/Consistent Systems.md"
