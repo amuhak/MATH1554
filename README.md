@@ -6,7 +6,9 @@ The most important part of MATH 1554 linear algebra is calculating the output ve
 ***
 # How To Run
 [Look at the PDFs](./pdf/)
+
 **OR**
+
 - [Download and install obsidian](https://obsidian.md/download) 
 - [Download and install git](https://git-scm.com/downloads) 
 - Clone the repo (ask for help if u don't know how to do this)

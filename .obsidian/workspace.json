@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linear Equations/Consistent Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linear Equations/Consistent Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linear Equations/Consistent Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linear Equations/Consistent Systems.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "e6bbe16819b0ce21",
   "lastOpenFiles": [
-    "pdf.md",
     "README.md",
+    "pdf.md",
     "Linear Equations/Row Operations.md",
     "pdf/Row Operations.pdf",
     "Linear Equations/Row Reduction Algorithm.md",
