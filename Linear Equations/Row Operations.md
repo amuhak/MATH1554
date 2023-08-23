@@ -40,6 +40,7 @@ $$
 Row<sub>2</sub>
 /2
 </p>
+
 $$
 \begin{equation}
     \begin{cases}
@@ -54,6 +55,7 @@ Row<sub>3</sub>
 -
 5 Row<sub>1</sub>
 </p>
+
 $$
 \begin{equation}
     \begin{cases}
@@ -63,6 +65,7 @@ $$
     \end{cases}
 \end{equation}
 $$
+
 **Note: $\text{Row}_1$ represents the original $\text{Row}_1$ not the modified $\text{Row}_1$ 
 
 <p style="text-align: center;">
@@ -70,6 +73,7 @@ Row<sub>3</sub>
 -
 10 Row<sub>2</sub>
 </p>
+
 $$
 \begin{equation}
     \begin{cases}
@@ -79,10 +83,13 @@ $$
     \end{cases}
 \end{equation}
 $$
+
 $$x_3=-1$$
+
 <p style="text-align: center;">
 Substiution
 </p>
+
 $$
 x_1=1 
 $$
