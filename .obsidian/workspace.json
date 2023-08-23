@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "Linear Equations/Existence and Uniqueness.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "consistent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "Linear Equations/Existence and Uniqueness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "Linear Equations/Existence and Uniqueness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md"
+                "file": "Linear Equations/Existence and Uniqueness.md"
               }
             }
           }
@@ -149,11 +149,14 @@
   },
   "active": "e6bbe16819b0ce21",
   "lastOpenFiles": [
+    "pdf/Existence and Uniqueness.pdf",
+    "Linear Equations/Existence and Uniqueness.md",
+    "Linear Equations/Row Reduction Algorithm.md",
+    "Linear Equations/Consistent Systems.md",
     "README.md",
     "pdf.md",
     "Linear Equations/Row Operations.md",
     "pdf/Row Operations.pdf",
-    "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/Vectors in R.md",
     "pdf/Row Reduction Algorithm.pdf",
     "pdf/Vectors in R.pdf",
@@ -162,13 +165,10 @@
     "Linear Equations/pics/Vectors in R 1.png",
     "Pasted image 20230822204929.png",
     "Pasted image 20230822204919.png",
-    "Linear Equations/Consistent Systems.md",
     "Linear Equations/Echelon Form.md",
-    "Linear Equations/Existence and Uniqueness.md",
     "Consistent Systems.png",
     "pdf/Consistent Systems.pdf",
     "pdf/Echelon Form.pdf",
-    "pdf/Existence and Uniqueness.pdf",
     "Linear Equations/pics/Pasted image 20230822082952.png",
     "Linear Equations/pics/Pasted image 20230822105608.png",
     "pdf/Consistent Systems.md",
