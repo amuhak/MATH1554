@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c72b16b410cf6646",
+        "id": "54378c1a02ebaf9d",
         "type": "tabs",
         "children": [
           {
-            "id": "1dfc5d0702c5ef57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Equations/Linear Combinations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8d42875dea0482b",
+            "id": "43b844362e82529f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,27 +147,28 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "1dfc5d0702c5ef57",
+  "active": "43b844362e82529f",
   "lastOpenFiles": [
-    "pdf/Row Reduction Algorithm.pdf",
-    "Linear Equations/Consistent Systems.md",
-    "Linear Equations/Linear Combinations.md",
-    "pdf/Linear Combinations-1.pdf",
     "Linear Equations/Row Operations.md",
     "Linear Equations/Row Reduction Algorithm.md",
+    "Linear Equations/pics/Linear Combinations 1.png",
+    "Linear Equations/Linear Combinations.md",
+    "pdf/Linear Combinations.pdf",
+    "pdf/Linear Combinations-1.pdf",
+    "pdf/Row Reduction Algorithm.pdf",
+    "Linear Equations/Consistent Systems.md",
     "pdf/1-Linear Combinations.pdf",
     "pdf/2-Linear Combinations.pdf",
-    "1-Linear Combinations.png",
-    "Linear Combinations 1.png",
-    "1-Linear Combinations.png",
+    "Linear Equations/pics/1-Linear Combinations.png",
+    "Linear Equations/pics/1-Linear Combinations.png",
     "Pasted image 20230823105246.png",
     "Pasted image 20230823105239.png",
-    "Linear Combinations.png",
+    "Linear Equations/pics/Linear Combinations.png",
     "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Vectors in R.md",
     "Pasted image 20230823105118.png",
     "Pasted image 20230823104632.png",
-    "Linear Combinations.png",
+    "Linear Equations/pics/Linear Combinations.png",
     "Pasted image 20230823104747.png",
     "README.md",
     "pdf/Existence and Uniqueness.pdf",
@@ -190,7 +179,6 @@
     "pdf/Consistent Systems.pdf",
     "pdf/Echelon Form.pdf",
     "pdf/Consistent Systems.md",
-    "pdf",
     "Untitled.md",
     "MATH1554/Linear Equations/Row Operations.md",
     "MATH1554/Linear Equations/Echelon Form.md",

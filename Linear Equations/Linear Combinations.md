@@ -17,4 +17,5 @@ $$
 Same question, can $\vec{y}$ be represented as a linear combination of $\vec{v_1} \text{ and } \vec{v_2}$:
 ![[1-Linear Combinations.png|300]]
 ![[Linear Combinations.png]]
+
 Thus, the system is **inconsistent** (no consistent).
