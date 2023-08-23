@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Existence and Uniqueness.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Existence and Uniqueness.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Existence and Uniqueness.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Existence and Uniqueness.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "e6bbe16819b0ce21",
   "lastOpenFiles": [
-    "pdf/Existence and Uniqueness.pdf",
     "Linear Equations/Existence and Uniqueness.md",
+    "pdf/Existence and Uniqueness.pdf",
     "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/Consistent Systems.md",
     "README.md",
