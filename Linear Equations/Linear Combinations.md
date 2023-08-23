@@ -9,11 +9,12 @@ So,
 $$\begin{bmatrix} c_1   \\ c_1   \end{bmatrix}  +  \begin{bmatrix} -c_2  \\ c_2  \end{bmatrix} = \begin{bmatrix} 1 \\ 3 \end{bmatrix}$$
 So finally, 
 $$
-{c_1 - c_2 =1}$$$$
+{c_1 - c_2 =1}
+$$
+$$
 {c_1+c_2=3}
 $$
 Same question, can $\vec{y}$ be represented as a linear combination of $\vec{v_1} \text{ and } \vec{v_2}$:
 ![[1-Linear Combinations.png|300]]
 ![[Linear Combinations.png]]
-
-Thus, the system is inconsistent.
+Thus, the system is **inconsistent** (no consistent).

@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ce04d73ad3260c7e",
+        "id": "c72b16b410cf6646",
         "type": "tabs",
         "children": [
           {
-            "id": "67ce5cf299d59a3f",
+            "id": "1dfc5d0702c5ef57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Equations/Linear Combinations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8d42875dea0482b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +159,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "67ce5cf299d59a3f",
+  "active": "1dfc5d0702c5ef57",
   "lastOpenFiles": [
-    "Linear Equations/Row Operations.md",
+    "pdf/Row Reduction Algorithm.pdf",
+    "Linear Equations/Consistent Systems.md",
     "Linear Equations/Linear Combinations.md",
+    "pdf/Linear Combinations-1.pdf",
+    "Linear Equations/Row Operations.md",
     "Linear Equations/Row Reduction Algorithm.md",
     "pdf/1-Linear Combinations.pdf",
     "pdf/2-Linear Combinations.pdf",
@@ -168,17 +183,14 @@
     "Pasted image 20230823104747.png",
     "README.md",
     "pdf/Existence and Uniqueness.pdf",
-    "Linear Equations/Consistent Systems.md",
     "pdf.md",
     "pdf/Row Operations.pdf",
-    "pdf/Row Reduction Algorithm.pdf",
     "pdf/Vectors in R.pdf",
     "Linear Equations/Echelon Form.md",
     "pdf/Consistent Systems.pdf",
     "pdf/Echelon Form.pdf",
     "pdf/Consistent Systems.md",
     "pdf",
-    "New folder",
     "Untitled.md",
     "MATH1554/Linear Equations/Row Operations.md",
     "MATH1554/Linear Equations/Echelon Form.md",
