@@ -16,7 +16,7 @@ Feal free to make a pull request to contribute
 
 - [Download and install obsidian](https://obsidian.md/download) 
 - [Download and install git](https://git-scm.com/downloads) 
-- Clone the repo (ask for help if u don't know how to do this)
+- [Clone the repo (ask for help if u don't know how to do this)](https://youtu.be/Vz0z7cS4H44?si=tcIEy3i_U2F2gMdS&t=90)
 - In Obsidian open the folder: ![](README%20pics/Pasted%20image%2020230822122443.png)
 ## Setting Up Git in Obsidian (This is optional)
 
