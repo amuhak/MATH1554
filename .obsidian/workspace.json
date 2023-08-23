@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54378c1a02ebaf9d",
+        "id": "027678da9d940b1d",
         "type": "tabs",
         "children": [
           {
-            "id": "43b844362e82529f",
+            "id": "282a61f2f0e327dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Span.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "862cb7a695c184b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "Linear Equations/Vectors in R.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Span.md",
+                "file": "Linear Equations/Vectors in R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Span.md",
+                "file": "Linear Equations/Vectors in R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Span.md"
+                "file": "Linear Equations/Vectors in R.md"
               }
             }
           }
@@ -159,17 +147,18 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "43b844362e82529f",
+  "active": "282a61f2f0e327dc",
   "lastOpenFiles": [
-    "pdf/Span.pdf",
-    "Linear Equations/Consistent Systems.md",
-    "Linear Equations/Echelon Form.md",
-    "Linear Equations/Linear Combinations.md",
     "Linear Equations/Span.md",
-    "Span.png",
-    "Span.png",
+    "pdf/Span.pdf",
     "Linear Equations/Row Operations.md",
     "Linear Equations/Row Reduction Algorithm.md",
+    "pdf/Echelon Form.pdf",
+    "Linear Equations/Echelon Form.md",
+    "Linear Equations/Consistent Systems.md",
+    "Linear Equations/Linear Combinations.md",
+    "Span.png",
+    "Span.png",
     "Linear Equations/pics/Linear Combinations 1.png",
     "pdf/Linear Combinations.pdf",
     "pdf/Linear Combinations-1.pdf",
@@ -190,8 +179,6 @@
     "pdf.md",
     "pdf/Row Operations.pdf",
     "pdf/Vectors in R.pdf",
-    "pdf/Consistent Systems.pdf",
-    "pdf/Echelon Form.pdf",
     "pdf/Consistent Systems.md",
     "Untitled.md",
     "MATH1554/Linear Equations/Row Operations.md",
