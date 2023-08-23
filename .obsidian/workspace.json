@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Linear Combinations.md",
+                "file": "Linear Equations/Span.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "862cb7a695c184b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Equations/Consistent Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Linear Combinations.md",
+                "file": "Linear Equations/Span.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Linear Combinations.md",
+                "file": "Linear Equations/Span.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Linear Combinations.md"
+                "file": "Linear Equations/Span.md"
               }
             }
           }
@@ -149,14 +161,18 @@
   },
   "active": "43b844362e82529f",
   "lastOpenFiles": [
+    "Linear Equations/Consistent Systems.md",
+    "Linear Equations/Echelon Form.md",
+    "Linear Equations/Linear Combinations.md",
+    "Linear Equations/Span.md",
+    "Span.png",
+    "Span.png",
     "Linear Equations/Row Operations.md",
     "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/pics/Linear Combinations 1.png",
-    "Linear Equations/Linear Combinations.md",
     "pdf/Linear Combinations.pdf",
     "pdf/Linear Combinations-1.pdf",
     "pdf/Row Reduction Algorithm.pdf",
-    "Linear Equations/Consistent Systems.md",
     "pdf/1-Linear Combinations.pdf",
     "pdf/2-Linear Combinations.pdf",
     "Linear Equations/pics/1-Linear Combinations.png",
@@ -168,14 +184,11 @@
     "Linear Equations/Vectors in R.md",
     "Pasted image 20230823105118.png",
     "Pasted image 20230823104632.png",
-    "Linear Equations/pics/Linear Combinations.png",
-    "Pasted image 20230823104747.png",
     "README.md",
     "pdf/Existence and Uniqueness.pdf",
     "pdf.md",
     "pdf/Row Operations.pdf",
     "pdf/Vectors in R.pdf",
-    "Linear Equations/Echelon Form.md",
     "pdf/Consistent Systems.pdf",
     "pdf/Echelon Form.pdf",
     "pdf/Consistent Systems.md",
