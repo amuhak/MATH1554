@@ -10,7 +10,7 @@ The most important part of MATH 1554 linear algebra is calculating the output ve
 - [Download and install git](https://git-scm.com/downloads) 
 - Clone the repo (ask for help if u don't know how to do this)
 - In Obsidian open the folder: ![](README%20pics/Pasted%20image%2020230822122443.png)
-## Setting Up Git in Obsidian
+## Setting Up Git in Obsidian (This is optional)
 
 1. Open settings on the bottom left:
    ![](README%20pics/Pasted%20image%2020230822122625.png)
