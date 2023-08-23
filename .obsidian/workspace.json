@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c01bbc146582cd43",
+        "id": "a74f2047d73ebaf8",
         "type": "tabs",
         "children": [
           {
-            "id": "565b2816a7eafc51",
+            "id": "bd861889d5dc8010",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Linear Equations/Vectors in R.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7b851ac6ba62791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Equations/Consistent Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,22 +147,26 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "565b2816a7eafc51",
+  "active": "bd861889d5dc8010",
   "lastOpenFiles": [
-    "Vectors in R.png",
-    "Linear Equations/Consistent Systems.md",
+    "Linear Equations/pics/Vectors in R.png",
     "Linear Equations/Vectors in R.md",
-    "Linear Equations/Echelon Form.md",
-    "Linear Equations/Existence and Uniqueness.md",
+    "Pasted image 20230822205057.png",
+    "Linear Equations/pics/Vectors in R 1.png",
+    "Pasted image 20230822204929.png",
+    "Pasted image 20230822204919.png",
     "Linear Equations/Row Operations.md",
     "Linear Equations/Row Reduction Algorithm.md",
+    "pdf/Row Operations.pdf",
+    "pdf/Row Reduction Algorithm.pdf",
+    "Linear Equations/Consistent Systems.md",
+    "Linear Equations/Echelon Form.md",
+    "Linear Equations/Existence and Uniqueness.md",
     "README.md",
     "Consistent Systems.png",
-    "pdf/Row Operations.pdf",
     "pdf/Consistent Systems.pdf",
     "pdf/Echelon Form.pdf",
     "pdf/Existence and Uniqueness.pdf",
-    "pdf/Row Reduction Algorithm.pdf",
     "Linear Equations/pics/Pasted image 20230822082952.png",
     "Linear Equations/pics/Pasted image 20230822105608.png",
     "pdf/Consistent Systems.md",
@@ -182,11 +174,6 @@
     "New folder",
     "README pics/Pasted image 20230822122443.png",
     "Untitled.md",
-    "README pics/Pasted image 20230822123530.png",
-    "README pics/Pasted image 20230822123447.png",
-    "README pics/Pasted image 20230822123207.png",
-    "README pics/Pasted image 20230822123150.png",
-    "README pics/Pasted image 20230822123102.png",
     "README pics",
     "LICENSE.txt",
     "Linear Equations/pics",
