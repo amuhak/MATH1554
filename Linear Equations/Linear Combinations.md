@@ -19,3 +19,4 @@ Same question, can $\vec{y}$ be represented as a linear combination of $\vec{v_1
 ![[Linear Combinations.png]]
 
 Thus, the system is **inconsistent** (no consistent).
+
