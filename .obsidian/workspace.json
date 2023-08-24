@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Span.md",
+                "file": "Linear Equations/Linear Combinations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Span.md",
+                "file": "Linear Equations/Linear Combinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Span.md",
+                "file": "Linear Equations/Linear Combinations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Span.md"
+                "file": "Linear Equations/Linear Combinations.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "282a61f2f0e327dc",
   "lastOpenFiles": [
-    "Linear Equations/Row Reduction Algorithm.md",
-    "Linear Equations/Row Operations.md",
-    "Linear Equations/Linear Combinations.md",
+    "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Echelon Form.md",
     "Linear Equations/Consistent Systems.md",
     "Linear Equations/Span.md",
+    "Linear Equations/Row Reduction Algorithm.md",
+    "Linear Equations/Row Operations.md",
+    "Linear Equations/Linear Combinations.md",
     "Linear Equations/pics/Span.png",
     "Linear Equations/Vectors in R.md",
-    "Linear Equations/Existence and Uniqueness.md",
     "pdf/Span.pdf",
     "pdf/Echelon Form.pdf",
     "Linear Equations/pics/Linear Combinations 1.png",
