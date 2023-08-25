@@ -7,4 +7,3 @@
 - Swap the first row with a lower one so the leftmost nonzero entry is in the first row.
 - Scale the 1st row so that its leading entry is equal to 1.
 - Use row replacement so all entries above and below this leading entry (if any) are equal to zero.
- 

@@ -11,3 +11,5 @@
 - All leading entries, if any, are equal to 1.
 - Leading entries are the only nonzero entry in their respective column.
 - ![[Pasted image 20230822084359.png]]
+
+Each matrix is row equivalent to one and only one reduced echelon matrix.

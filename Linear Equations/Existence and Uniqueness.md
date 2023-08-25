@@ -15,4 +15,4 @@ If you see something like this:
 $$
 \left( \begin{array}{ccccc|c} 0 & 0 & 0 & ... & 0 & 1 \end{array} \right)
 $$
-~~RUN~~ you **don't** have a [[Consistent Systems]]. 
+~~RUN~~ you **don't** have a [[Consistent Systems|Consistent System]]. 

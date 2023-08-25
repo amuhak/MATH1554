@@ -19,3 +19,4 @@ Row<sub>3</sub>
 $$\left( \begin{array}{cc|c} 1 & 0 & 19 \\ 0 & 1 & -6 \\ 0 & 0 & 1 \\ \end{array} \right)$$
 
 So $y$ is not in span $\{ \vec{v_1}, \vec{v_2}\}$ 
+Look at [[Row Operations]]
