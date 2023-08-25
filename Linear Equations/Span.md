@@ -1,4 +1,4 @@
-Given vectors $\vec{v_1},\vec{v_2}, . . . , \vec{v_p} \in \mathbb{R}^n$, and scalars $c_1, c_2, . . . , c_p.$ The set of all linear combinations of $\vec{v_1},\vec{v_2}, . . . , \vec{v_p}$ is called the **span** of $\vec{v_1},\vec{v_2}, . . . , \vec{v_p}$
+Given vectors $\vec{v_1},\vec{v_2}, . . . , \vec{v_p} \in \mathbb{R}^n$, and scalars $c_1, c_2, . . . , c_p.$ The set of all linear combinations of $\vec{v_1},\vec{v_2}, . . . , \vec{v_p}$ and $c_1, c_2, . . . , c_p.$ is called the **span** of $\vec{v_1},\vec{v_2}, . . . , \vec{v_p}$
 
 ![[Span.png]]
 
