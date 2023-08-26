@@ -1,5 +1,9 @@
 Given vectors $\vec{v_1},\vec{v_2}, . . . , \vec{v_p} \in \mathbb{R}^n$. The set of all linear combinations of $\vec{v_1},\vec{v_2}, . . . , \vec{v_p}$ is called the **span** of $\vec{v_1},\vec{v_2}, . . . , \vec{v_p}$.
 
+Thus, $span\{\vec{v_1},\vec{v_2}, \dots, \vec{v_p}\}$ can be represented like this:
+$$c_1\vec{v_1},c_2\vec{v_2}, . . . , c_p\vec{v_p}$$
+Where $c_1, c_2, . . . , c_p$ are scalars.
+
 ![[Span.png]]
 
 $$c_1  \begin{bmatrix} 1 \\ -2 \\ -3 \end{bmatrix}  + c_2  \begin{bmatrix} 2 \\ 5 \\ 6 \end{bmatrix} = \begin{bmatrix} 7 \\ 4 \\ 15 \end{bmatrix}$$
