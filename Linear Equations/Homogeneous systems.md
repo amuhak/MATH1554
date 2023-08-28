@@ -18,3 +18,11 @@ x_2+x_3=0 \\
 0=0
 }
 $$
+$$ \array{
+x_1 = 2x_3 \\
+x_2=-x_3 \\
+x_3 = x_3
+}
+$$
+$$\text{Solution set} = \textbf{x}= \left( \array{2x_3 \\ -x_3 \\ x_3} \right) = x_3\left( \array{2 \\ -1 \\ 1} \right)$$
+
