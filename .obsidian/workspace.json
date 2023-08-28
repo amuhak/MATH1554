@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28c8eca97e8c774e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Equations/Consistent Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -152,11 +164,12 @@
     "Linear Equations/Consistent Systems.md",
     "Linear Equations/Matrix Vector Product.md",
     "Linear Equations/Echelon Form.md",
-    "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Linear Combinations.md",
+    "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Row Operations.md",
-    "Linear Equations/Span.md",
     "Linear Equations/Row Reduction Algorithm.md",
+    "Matrix Vector Product.png",
+    "Linear Equations/Span.md",
     "Linear Equations/Vectors in R.md",
     "Linear Equations/pics/Pasted image 20230822084359.png",
     "2023-08-25.md",
@@ -178,7 +191,6 @@
     "Pasted image 20230823105239.png",
     "Linear Equations/pics/Linear Combinations.png",
     "Pasted image 20230823105118.png",
-    "Pasted image 20230823104632.png",
     "pdf.md",
     "pdf/Row Operations.pdf",
     "pdf/Vectors in R.pdf",

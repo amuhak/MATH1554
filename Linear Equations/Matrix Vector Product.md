@@ -16,10 +16,8 @@ $$A \vec{x} = \left( \matrix{| & | & \dots & | \\ \vec{a_1} & \vec{a_2} & \dots 
 The equation $A \vec{x} = \vec{b}$ has a solution if and only if $\vec{b}$ is a linear combination of the columns of $A$.
 
 ### Example
-$$\vec{b}=\left( \matrix {b_1 \\ b_2 \\ b_3}  \right)$$
+For what vectors $\vec{b}=\left( \matrix {b_1 \\ b_2 \\ b_3}  \right)$ does the equation have a solution?
+![[Matrix Vector Product.png|300]]
 
-
-
-
-
-
+$$\left( \begin{array}{ccc|c}1 &3&4&b_1\\2&8&4&b_2\\0&1&-2&b_3 \end{array} \right)$$
+$$\left( \begin{matrix} 1 & 3 & 4 \\ 2 & 8 & 4 \\ 0 & 1 & -2 \\ \end{matrix} \right)$$
