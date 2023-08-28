@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\\vec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8ef503b01cf8eb05",
+  "active": "7f6881fa87fe5628",
   "lastOpenFiles": [
     "Linear Equations/Homogeneous systems.md",
     "Linear Equations/Consistent Systems.md",
