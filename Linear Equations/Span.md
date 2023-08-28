@@ -1,7 +1,7 @@
-Given vectors $\vec{v_1},\vec{v_2}, . . . , \vec{v_p} \in \mathbb{R}^n$. The set of all linear combinations of $\vec{v_1},\vec{v_2}, . . . , \vec{v_p}$ is called the **span** of $\vec{v_1},\vec{v_2}, . . . , \vec{v_p}$.
+Given vectors $\mathbf{v_1},\mathbf{v_2}, . . . , \mathbf{v_p} \in \mathbb{R}^n$. The set of all linear combinations of $\mathbf{v_1},\mathbf{v_2}, . . . , \mathbf{v_p}$ is called the **span** of $\mathbf{v_1},\mathbf{v_2}, . . . , \mathbf{v_p}$.
 
-Thus, $span\{\vec{v_1},\vec{v_2}, \dots, \vec{v_p}\}$ can be represented like this:
-$$c_1\vec{v_1},c_2\vec{v_2}, . . . , c_p\vec{v_p}$$
+Thus, $span\{\mathbf{v_1},\mathbf{v_2}, \dots, \mathbf{v_p}\}$ can be represented like this:
+$$c_1\mathbf{v_1},c_2\mathbf{v_2}, . . . , c_p\mathbf{v_p}$$
 Where $c_1, c_2, . . . , c_p$ are scalars.
 
 ![[Span.png]]
@@ -22,5 +22,5 @@ Row<sub>3</sub>
 
 $$\left( \begin{array}{cc|c} 1 & 0 & 19 \\ 0 & 1 & -6 \\ 0 & 0 & 1 \\ \end{array} \right)$$
 
-So $y$ is not in span $\{ \vec{v_1}, \vec{v_2}\}$ 
+So $y$ is not in span $\{ \mathbf{v_1}, \mathbf{v_2}\}$ 
 Look at [[Row Operations]]

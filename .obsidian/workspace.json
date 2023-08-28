@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c460c26e72cd2b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Equations/Existence and Uniqueness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\vec",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,20 +159,24 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7f6881fa87fe5628",
+  "active": "8ef503b01cf8eb05",
   "lastOpenFiles": [
-    "Linear Equations/Homogeneous systems.md",
-    "Linear Equations/Consistent Systems.md",
-    "Linear Equations/Matrix Vector Product.md",
-    "pdf/Matrix Vector Product.pdf",
-    "Linear Equations/Echelon Form.md",
-    "Linear Equations/Linear Combinations.md",
     "Linear Equations/Existence and Uniqueness.md",
+    "Linear Equations/Homogeneous systems.md",
+    "Linear Equations/Echelon Form.md",
+    "Homogeneous systems-1.png",
+    "Pasted image 20230828105104.png",
+    "Homogeneous systems.png",
+    "Linear Equations/Linear Combinations.md",
+    "Linear Equations/Matrix Vector Product.md",
     "Linear Equations/Row Operations.md",
     "Linear Equations/Row Reduction Algorithm.md",
-    "Matrix Vector Product.png",
-    "Linear Equations/Span.md",
     "Linear Equations/Vectors in R.md",
+    "Linear Equations/Span.md",
+    "Linear Equations/Consistent Systems.md",
+    "pdf/Homogeneous systems.pdf",
+    "pdf/Matrix Vector Product.pdf",
+    "Matrix Vector Product.png",
     "Linear Equations/pics/Pasted image 20230822084359.png",
     "2023-08-25.md",
     "Untitled.canvas",
@@ -179,11 +194,7 @@
     "Linear Equations/pics/1-Linear Combinations.png",
     "Linear Equations/pics/1-Linear Combinations.png",
     "Pasted image 20230823105246.png",
-    "Pasted image 20230823105239.png",
-    "Linear Equations/pics/Linear Combinations.png",
-    "Pasted image 20230823105118.png",
     "pdf.md",
-    "pdf/Row Operations.pdf",
     "pdf/Consistent Systems.md",
     "Untitled.md",
     "MATH1554/Linear Equations/Row Operations.md",
