@@ -17,7 +17,6 @@ The equation $A \vec{x} = \vec{b}$ has a solution if and only if $\vec{b}$ is a 
 
 ### Example
 For what vectors $\vec{b}=\left( \matrix {b_1 \\ b_2 \\ b_3}  \right)$ does the equation have a solution?
-![[Matrix Vector Product.png|300]]
 
 $$\left( \begin{array}{ccc|c}1 &3&4&b_1\\2&8&4&b_2\\0&1&-2&b_3 \end{array} \right)$$
 $$\left( \begin{array}{ccc|c} 1 & 3 & 4 & b_1 \\ 0 & 2 & -4 & b_2-2b_1 \\ 0 & 0 & 0 & b_3- \frac{1}{2}b_2 + b_1\\ \end{array} \right)$$
