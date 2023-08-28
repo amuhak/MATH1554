@@ -11,6 +11,13 @@ If $A \in \mathbb{R}^{m \times n}$ has vectors $\vec{a_1} , \dots , \vec{a_n}$ a
 $$A \vec{x} = \left( \matrix{| & | & \dots & | \\ \vec{a_1} & \vec{a_2} & \dots & \vec{a_n} \\ | & | & \dots & |} \right) \left( \matrix {x_1 \\ x_2 \\ \vdots \\ x_n}  \right) = x_1\vec{a_1} + x_2\vec{a_2} + \dots +x_n\vec{a_n} = \left( \matrix{ \vdots   \\ x_1\vec{a_1} + x_2\vec{a_2} + \dots +x_n\vec{a_n} \\  \vdots } \right)$$
 **NOTE: $A \vec{x}$ is always in the span of $A$**
 
+# Existence of Solutions
+
+The equation $A \vec{x} = \vec{b}$ has a solution if and only if $\vec{b}$ is a linear combination of the columns of $A$.
+
+### Example
+$$\vec{b}=\left( \matrix {b_1 \\ b_2 \\ b_3}  \right)$$
+
 
 
 
