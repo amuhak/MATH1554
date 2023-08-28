@@ -12,4 +12,9 @@ Identify the free variables, and the solution set, of the system.
 ![[Homogeneous systems-1.png|400]]
 In [[Echelon Form]]: 
 $$\left( \begin{array}{ccc|c} 1 &0&-2&0 \\ 0&1&1&0 \\ 0 &0&0&0 \end{array} \right)$$
-
+$$ \array{
+x_1 + -2x_3 = 0 \\
+x_2+x_3=0 \\
+0=0
+}
+$$
