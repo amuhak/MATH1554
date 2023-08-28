@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "Linear Equations/Matrix Vector Product.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "run",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "Linear Equations/Matrix Vector Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "Linear Equations/Matrix Vector Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md"
+                "file": "Linear Equations/Matrix Vector Product.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "92bde45833867aa8",
   "lastOpenFiles": [
+    "Linear Equations/Consistent Systems.md",
+    "Linear Equations/Matrix Vector Product.md",
     "Linear Equations/Echelon Form.md",
     "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Linear Combinations.md",
@@ -156,7 +158,6 @@
     "Linear Equations/Span.md",
     "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/Vectors in R.md",
-    "Linear Equations/Consistent Systems.md",
     "Linear Equations/pics/Pasted image 20230822084359.png",
     "2023-08-25.md",
     "Untitled.canvas",
