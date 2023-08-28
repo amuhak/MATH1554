@@ -14,3 +14,5 @@ $$A \vec{x} = \left( \matrix{| & | & \dots & | \\ \vec{a_1} & \vec{a_2} & \dots 
 
 
 
+
+
