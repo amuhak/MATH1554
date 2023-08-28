@@ -20,4 +20,7 @@ For what vectors $\vec{b}=\left( \matrix {b_1 \\ b_2 \\ b_3}  \right)$ does the 
 ![[Matrix Vector Product.png|300]]
 
 $$\left( \begin{array}{ccc|c}1 &3&4&b_1\\2&8&4&b_2\\0&1&-2&b_3 \end{array} \right)$$
-$$\left( \begin{matrix} 1 & 3 & 4 \\ 2 & 8 & 4 \\ 0 & 1 & -2 \\ \end{matrix} \right)$$
+$$\left( \begin{array}{ccc|c} 1 & 3 & 4 & b_1 \\ 0 & 2 & -4 & b_2-2b_1 \\ 0 & 0 & 0 & b_3- \frac{1}{2}b_2 + b_1\\ \end{array} \right)$$
+Solving for $b_1$,
+$$b_1=\frac{1}{2}-b_3$$
+$$\boxed{\vec{b}=\left( \array{\frac{1}{2}-b_3 \\ b_2 \\ b_3} \right)}$$
