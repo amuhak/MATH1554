@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Parametric Vector Form.md",
+                "file": "Linear Equations/Linear Independence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Parametric Vector Form.md",
+                "file": "Linear Equations/Linear Independence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Parametric Vector Form.md",
+                "file": "Linear Equations/Linear Independence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Parametric Vector Form.md"
+                "file": "Linear Equations/Linear Independence.md"
               }
             }
           }
@@ -147,11 +147,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "52cda0946c10db9b",
+  "active": "8ef503b01cf8eb05",
   "lastOpenFiles": [
+    "Linear Equations/Parametric Vector Form.md",
+    "Linear Equations/Linear Independence.md",
     "README.md",
     "Linear Equations/Homogeneous systems.md",
-    "Linear Equations/Parametric Vector Form.md",
     "pdf/Parametric Vector Form.pdf",
     "Linear Equations/Echelon Form.md",
     "Linear Equations/pics/Parametric Vector Form.png",
