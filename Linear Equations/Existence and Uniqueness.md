@@ -13,6 +13,6 @@ A linear system is **consistent** if it has at least one solution.
 ## Note
 If you see something like this (b is a non-zero number): 
 $$
-\left( \begin{array}{ccccc|c} 0 & 0 & 0 & ... & 0 & b \end{array} \right)
+\left[ \begin{array}{ccccc|c} 0 & 0 & 0 & ... & 0 & b \end{array} \right]
 $$
 ~~RUN~~ you **don't** have a [[Consistent Systems|Consistent System]]. 

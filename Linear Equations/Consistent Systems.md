@@ -9,7 +9,7 @@ $$
 \end{equation}
 $$
 Becomes:
-$$\left( \begin{array}{ccc|c} 1 & -2 & 1 & 0 \\ 0 & 2 & -8 & 7 \\ \end{array} \right)$$
+$$\left[ \begin{array}{ccc|c} 1 & -2 & 1 & 0 \\ 0 & 2 & -8 & 7 \\ \end{array} \right]$$
 A linear system is **consistent** if it has at least one solution.
 Two matrices are **row equivalent** if a sequence of row operations transforms one matrix into the other.
 
@@ -17,8 +17,8 @@ Two matrices are **row equivalent** if a sequence of row operations transforms o
 A and B are row equivalent
 A and C are not row equivalent
 ![[Pasted image 20230822083132.png]]
-$$\left( \begin{array}{c|c} A & \mathbf{b} \end{array} \right) =\left( \begin{array}{cc|c} 1 & 1 & 1 \\ 0 & 1 & 1 \\ \end{array} \right)$$
-$$\left( \begin{array}{c|c} A & \mathbf{b} \end{array} \right) =\left( \begin{array}{cc|c} 1 & 0 & 0 \\ 0 & 1 & 1 \\ \end{array} \right)$$
+$$\left[ \begin{array}{c|c} A & \mathbf{b} \end{array} \right] =\left[ \begin{array}{cc|c} 1 & 1 & 1 \\ 0 & 1 & 1 \\ \end{array} \right]$$
+$$\left[ \begin{array}{c|c} A & \mathbf{b} \end{array} \right] =\left[ \begin{array}{cc|c} 1 & 0 & 0 \\ 0 & 1 & 1 \\ \end{array} \right]$$
 So A and $\mathbf{b}$ are consistent.
 A and C are not consistent.
 
