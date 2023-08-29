@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Vectors in R.md",
+                "file": "Linear Equations/Parametric Vector Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7493b997aa6162ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Equations/Homogeneous systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Vectors in R.md",
+                "file": "Linear Equations/Parametric Vector Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Vectors in R.md",
+                "file": "Linear Equations/Parametric Vector Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Vectors in R.md"
+                "file": "Linear Equations/Parametric Vector Form.md"
               }
             }
           }
@@ -149,18 +161,19 @@
   },
   "active": "8ef503b01cf8eb05",
   "lastOpenFiles": [
+    "Linear Equations/Homogeneous systems.md",
+    "Linear Equations/Parametric Vector Form.md",
+    "Linear Equations/Echelon Form.md",
+    "Parametric Vector Form.png",
+    "Linear Equations/Matrix Vector Product.md",
+    "Linear Equations/Vectors in R.md",
     "Linear Equations/Span.md",
     "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/Row Operations.md",
-    "Linear Equations/Parametric Vector Form.md",
-    "Linear Equations/Matrix Vector Product.md",
     "Linear Equations/Linear Combinations.md",
-    "Linear Equations/Homogeneous systems.md",
     "Linear Equations/Existence and Uniqueness.md",
-    "Linear Equations/Echelon Form.md",
     "Linear Equations/Consistent Systems.md",
     "Linear Equations/pics/Homogeneous systems.png",
-    "Linear Equations/Vectors in R.md",
     "Linear Equations/pics/Homogeneous systems-1.png",
     "Pasted image 20230828105104.png",
     "pdf/Homogeneous systems.pdf",
@@ -182,7 +195,6 @@
     "pdf/2-Linear Combinations.pdf",
     "Linear Equations/pics/1-Linear Combinations.png",
     "Linear Equations/pics/1-Linear Combinations.png",
-    "Pasted image 20230823105246.png",
     "pdf.md",
     "pdf/Consistent Systems.md",
     "Untitled.md",
