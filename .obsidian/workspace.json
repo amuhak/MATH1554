@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Homogeneous systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c460c26e72cd2b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Equations/Existence and Uniqueness.md",
+                "file": "Linear Equations/Matrix Vector Product.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Homogeneous systems.md",
+                "file": "Linear Equations/Matrix Vector Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Homogeneous systems.md",
+                "file": "Linear Equations/Matrix Vector Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Homogeneous systems.md"
+                "file": "Linear Equations/Matrix Vector Product.md"
               }
             }
           }
@@ -161,16 +149,17 @@
   },
   "active": "8ef503b01cf8eb05",
   "lastOpenFiles": [
-    "Linear Equations/Existence and Uniqueness.md",
+    "Linear Equations/Parametric Vector Form.md",
     "Linear Equations/Homogeneous systems.md",
+    "Linear Equations/Matrix Vector Product.md",
+    "Linear Equations/Row Reduction Algorithm.md",
+    "Linear Equations/Row Operations.md",
+    "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Echelon Form.md",
     "Homogeneous systems-1.png",
     "Pasted image 20230828105104.png",
     "Homogeneous systems.png",
     "Linear Equations/Linear Combinations.md",
-    "Linear Equations/Matrix Vector Product.md",
-    "Linear Equations/Row Operations.md",
-    "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/Vectors in R.md",
     "Linear Equations/Span.md",
     "Linear Equations/Consistent Systems.md",
