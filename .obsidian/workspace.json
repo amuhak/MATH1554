@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Span.md",
+                "file": "Linear Equations/Parametric Vector Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,17 +161,17 @@
   },
   "active": "8ef503b01cf8eb05",
   "lastOpenFiles": [
-    "pdf/Linear Independence.pdf",
-    "Linear Equations/Span.md",
-    "Linear Equations/Linear Independence.md",
     "Linear Equations/Parametric Vector Form.md",
+    "Linear Equations/Linear Independence.md",
+    "Linear Equations/Matrix Vector Product.md",
+    "Linear Equations/Span.md",
+    "pdf/Linear Independence.pdf",
     "Linear Equations/Homogeneous systems.md",
     "Linear Equations/Linear Combinations.md",
     "README.md",
     "pdf/Parametric Vector Form.pdf",
     "Linear Equations/Echelon Form.md",
     "Linear Equations/pics/Parametric Vector Form.png",
-    "Linear Equations/Matrix Vector Product.md",
     "Linear Equations/Vectors in R.md",
     "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/Row Operations.md",
@@ -194,7 +194,6 @@
     "pdf/Echelon Form.pdf",
     "Linear Equations/pics/Linear Combinations 1.png",
     "pdf/Linear Combinations-1.pdf",
-    "pdf/1-Linear Combinations.pdf",
     "Linear Equations/pics/1-Linear Combinations.png",
     "Linear Equations/pics/1-Linear Combinations.png",
     "pdf.md",
