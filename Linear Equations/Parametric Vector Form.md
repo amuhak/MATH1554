@@ -17,3 +17,4 @@ $$\mathbf{x}= \left[ \array{1+2x_3 \\ 1-x_3 \\0+ x_3} \right]=\left[ \array{1 \\
 $$\text{if, }\mathbf{x}= \left[ \array{1+2x_3 \\ 1-x_3 \\0+ x_3} \right]$$
 $$\text{in parametric vector form}, \mathbf{x}= \left[ \array{1 \\ 1 \\0} \right]+x_3\left[  \array{2 \\ -1 \\1} \right] $$
 
+
