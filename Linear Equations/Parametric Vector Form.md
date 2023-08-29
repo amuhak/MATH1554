@@ -14,7 +14,7 @@ x_3 = x_3
 $$
 $$\mathbf{x}= \left[ \array{1+2x_3 \\ 1-x_3 \\0+ x_3} \right]=\left[ \array{1 \\ 1 \\0} \right]+\left[ \array{2x_3 \\ -x_3 \\x_3} \right]=\left[ \array{1 \\ 1 \\0} \right]+x_3\left[  \array{2 \\ -1 \\1} \right]$$
 
-$$\text{if, }\mathbf{x}= \left[ \array{1+2x_3 \\ 1-x_3 \\0+ x_3} \right]$$
-$$\text{in parametric vector form}, \mathbf{x}= \left[ \array{1 \\ 1 \\0} \right]+x_3\left[  \array{2 \\ -1 \\1} \right] $$
+$$\text{if, }\mathbf{x}= \left[ \begin{array} \\ 1+2x_3 \\ 1-x_3 \\0+ x_3 \end{array} \right]$$
+$$\text{in parametric vector form}, \mathbf{x}= \left[ \begin{array} \\1  \\ 1 \\0 \end{array} \right]+x_3\left[  \begin{array} \\2 \\ -1 \\1 \end{array} \right] $$
 
 
