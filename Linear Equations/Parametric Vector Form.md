@@ -18,3 +18,4 @@ $$\text{if, }\mathbf{x}= \left[ \begin{array} \\ 1+2x_3 \\ 1-x_3 \\0+ x_3 \end{a
 $$\text{in parametric vector form}, \mathbf{x}= \left[ \begin{array} \\1  \\ 1 \\0 \end{array} \right]+x_3\left[  \begin{array} \\2 \\ -1 \\1 \end{array} \right] $$
 
 
+

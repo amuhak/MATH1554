@@ -9,3 +9,6 @@ And a [[Homogeneous systems|nontrivial solution]] ($c_1,c_2,\dots,c_k \neq \left
 
 What is the smallest number of vectors needed in a parametric solution to a linear system?
 
+### Vectors are dependent if:
+- One of the vectors is a 0 vector.
+- They are in each others [[Span]] ($c*v_1 = v_2 \text{When  } c \neq \mathbf{0}$) 
