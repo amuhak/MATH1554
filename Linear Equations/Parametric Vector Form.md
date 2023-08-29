@@ -1,7 +1,6 @@
 In general, suppose the free variables for $A \textbf{x}=\textbf{0}$ are $x_k, \dots, x_n$. Then all the solutions to $A \textbf{x}=\textbf{0}$ can be written as:
 $$\textbf{x}=x_k\textbf{v}_k+x_{k+1}\textbf{v}_{k+1}+\dots+x_n\textbf{v}_n$$
 For some $\textbf{v}_k, \dots, \text{v}_n$.  
-
 This is **Parametric Vector Form**. 
 
 ![[Parametric Vector Form.png|400]]
