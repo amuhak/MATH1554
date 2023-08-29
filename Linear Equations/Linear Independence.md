@@ -11,4 +11,6 @@ What is the smallest number of vectors needed in a parametric solution to a line
 
 ### Vectors are dependent if:
 - One of the vectors is a 0 vector.
-- They are in each others [[Span]] ($c*v_1 = v_2 \text{When  } c \neq \mathbf{0}$) 
+- They are in each others [[Span]] ($cv_1 = v_2 \text{When  } c \neq \mathbf{0}$) 
+# Theorems
+- **More Vectors Than Elements**: The vectors must be linearly dependent as column cannot be pivotal so there are free variables 
