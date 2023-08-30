@@ -1,6 +1,8 @@
 Given vectors $\mathbf{v_1},\mathbf{v_2}, . . . , \mathbf{v_p} \in \mathbb{R}^n$, and scalars $c_1, c_2, . . . , c_p,$ the vector $\mathbf{y}$ where
 $$\mathbf{y}=c_1 \mathbf{v_1}+c_2 \mathbf{v_2}+ ... + c_p \mathbf{v_p}$$
 is called a linear combination of $\mathbf{v_1},\mathbf{v_2}, . . . , \mathbf{v_p}$ with the weights $c_1, c_2, . . . , c_p.$ 
+This is also called a vector equation.
+
 ![[Linear Combinations.png]]
 We need $c_1 \text{ and } c_2$ such that:
 $$c_1  \begin{bmatrix} 1 \\ 1 \end{bmatrix}  + c_2  \begin{bmatrix} -1 \\ 1 \end{bmatrix} = \begin{bmatrix} 1 \\ 3 \end{bmatrix}$$
