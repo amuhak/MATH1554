@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "homogeneous ",
+                "query": "free",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c58aa4d8b3d90487",
+  "active": "7f6881fa87fe5628",
   "lastOpenFiles": [
     "Linear Equations/Linear Combinations.md",
     "Linear Equations/Homogeneous systems.md",
