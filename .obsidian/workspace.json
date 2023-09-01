@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c28c3fdbc231b86c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "free",
+                "query": "homogeneous",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,10 +159,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7f6881fa87fe5628",
+  "active": "c28c3fdbc231b86c",
   "lastOpenFiles": [
-    "Linear Equations/Linear Combinations.md",
+    "Linear Equations/Consistent Systems.md",
     "Linear Equations/Homogeneous systems.md",
+    "Linear Equations/Linear Combinations.md",
     "Linear Equations/Matrix Vector Product.md",
     "Linear Equations/Parametric Vector Form.md",
     "Linear Equations/Linear Independence.md",
@@ -165,7 +177,6 @@
     "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/Row Operations.md",
     "Linear Equations/Existence and Uniqueness.md",
-    "Linear Equations/Consistent Systems.md",
     "Linear Equations/pics/Homogeneous systems.png",
     "Linear Equations/pics/Homogeneous systems-1.png",
     "Pasted image 20230828105104.png",
