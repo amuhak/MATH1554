@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Homogeneous systems.md",
+                "file": "Linear Equations/Parametric Vector Form.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c28c3fdbc231b86c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Homogeneous systems.md",
+                "file": "Linear Equations/Parametric Vector Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Homogeneous systems.md",
+                "file": "Linear Equations/Parametric Vector Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Homogeneous systems.md"
+                "file": "Linear Equations/Parametric Vector Form.md"
               }
             }
           }
@@ -159,11 +147,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c28c3fdbc231b86c",
+  "active": "c58aa4d8b3d90487",
   "lastOpenFiles": [
-    "Linear Equations/Consistent Systems.md",
-    "Linear Equations/Homogeneous systems.md",
+    "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Linear Combinations.md",
+    "Linear Equations/Homogeneous systems.md",
+    "Linear Equations/Consistent Systems.md",
     "Linear Equations/Matrix Vector Product.md",
     "Linear Equations/Parametric Vector Form.md",
     "Linear Equations/Linear Independence.md",
@@ -176,7 +165,6 @@
     "Linear Equations/Vectors in R.md",
     "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/Row Operations.md",
-    "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/pics/Homogeneous systems.png",
     "Linear Equations/pics/Homogeneous systems-1.png",
     "Pasted image 20230828105104.png",
