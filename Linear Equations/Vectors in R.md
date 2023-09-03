@@ -12,3 +12,5 @@ Vectors properties:
 
 ![[Vectors in R 1.png]]
 
+
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Parametric Vector Form.md",
+                "file": "Linear Equations/Vectors in R.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Parametric Vector Form.md",
+                "file": "Linear Equations/Vectors in R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Parametric Vector Form.md",
+                "file": "Linear Equations/Vectors in R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Parametric Vector Form.md"
+                "file": "Linear Equations/Vectors in R.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "c58aa4d8b3d90487",
   "lastOpenFiles": [
+    "Linear Equations/Parametric Vector Form.md",
     "Linear Equations/Consistent Systems.md",
     "Linear Equations/Echelon Form.md",
     "Linear Equations/Homogeneous systems.md",
@@ -156,7 +157,6 @@
     "Linear Equations/Linear Combinations.md",
     "Linear Equations/Linear Independence.md",
     "Linear Equations/Matrix Vector Product.md",
-    "Linear Equations/Parametric Vector Form.md",
     "Linear Equations/Span.md",
     "Linear Equations/Vectors in R.md",
     "Linear Equations/Row Reduction Algorithm.md",
