@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Vocabulary.md",
+                "file": "Linear Equations/Linear Transformations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Vocabulary.md",
+                "file": "Linear Equations/Linear Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Vocabulary.md",
+                "file": "Linear Equations/Linear Transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Vocabulary.md"
+                "file": "Linear Equations/Linear Transformations.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "c58aa4d8b3d90487",
   "lastOpenFiles": [
-    "Linear Equations/Untitled.md",
-    "Linear Equations/Consistent Systems.md",
+    "Linear Transformations.png",
     "Linear Equations/Vocabulary.md",
+    "Linear Equations/Linear Transformations.md",
+    "Linear Equations/Consistent Systems.md",
     "pdf/Vocabulary.pdf",
     "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/Row Operations.md",
