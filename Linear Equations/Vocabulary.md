@@ -10,10 +10,10 @@
 | Row operations | Addition, Interchange, Scaling |
 | Pivot position | a leading 1 in the RREF of A |
 | Pivot column | is a column of A that contains a pivot position |
-| Domain | $T: \mathbb{R}^n$ $\rightarrow \mathbb{R}^m$;$\mathbb{R}^n$ is the domain of $T$ |
-| Codomain | $T: \mathbb{R}^n$ $\rightarrow \mathbb{R}^m$;$\mathbb{R}^m$ is the codomain of $T$ |
+| Domain | $T: \mathbb{R}^n$ $\rightarrow \mathbb{R}^m$; $\mathbb{R}^n$ is the domain of $T$ |
+| Codomain | $T: \mathbb{R}^n$ $\rightarrow \mathbb{R}^m$; $\mathbb{R}^m$ is the codomain of $T$ |
 | Image | The vector $T(\vec{x})$ is the image of $\vec{x}$ under $T$ |
-| Range | The set of all possible images $T(\vec{x})$ |
+| Range | The set of all possible images $T(\vec{x})$ or simply the **span of A** |
 
 
 
