@@ -139,3 +139,13 @@ T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} 0 \\ 1 \end{bmatr
 $$
 So,
 $$A = \begin{bmatrix} 1 & 0 \\ k & 1 \end{bmatrix}$$
+## Projections
+### On to the $x_1-\text{Axis}$
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &=  \begin{bmatrix} 1 \\ 0 \end{bmatrix} \\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} 0 \\ 0 \end{bmatrix} 
+\end{aligned}
+$$
+So,
+$$A = \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}$$
