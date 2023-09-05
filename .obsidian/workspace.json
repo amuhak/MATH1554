@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e39e248efc99531e",
+        "id": "873bc73b899c4968",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "Linear Equations/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "Linear Equations/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md",
+                "file": "Linear Equations/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Consistent Systems.md"
+                "file": "Linear Equations/Untitled.md"
               }
             }
           }
@@ -150,24 +149,27 @@
   },
   "active": "c58aa4d8b3d90487",
   "lastOpenFiles": [
-    "Linear Equations/Vectors in R.md",
-    "Linear Equations/test.md",
-    "Linear Equations/Linear Equations_GlossaryIndex.md",
-    "Linear Equations/Parametric Vector Form.md",
     "Linear Equations/Consistent Systems.md",
-    "Linear Equations/Echelon Form.md",
+    "Linear Equations/Vocabulary.md",
+    "pdf/Vocabulary.pdf",
+    "Linear Equations/Untitled.md",
+    "Linear Equations/Row Reduction Algorithm.md",
+    "Linear Equations/Row Operations.md",
+    "Linear Equations/Parametric Vector Form.md",
+    "Linear Equations/Matrix Vector Product.md",
+    "Linear Equations/Linear Independence.md",
+    "Linear Equations/Linear Combinations.md",
     "Linear Equations/Homogeneous systems.md",
     "Linear Equations/Existence and Uniqueness.md",
-    "Linear Equations/Linear Combinations.md",
-    "Linear Equations/Linear Independence.md",
-    "Linear Equations/Matrix Vector Product.md",
+    "Linear Equations/Echelon Form.md",
+    "Linear Equations/Vectors in R.md",
     "Linear Equations/Span.md",
-    "Linear Equations/Row Reduction Algorithm.md",
+    "Linear Equations/test.md",
+    "Linear Equations/Linear Equations_GlossaryIndex.md",
     "pdf/Linear Independence.pdf",
     "README.md",
     "pdf/Parametric Vector Form.pdf",
     "Linear Equations/pics/Parametric Vector Form.png",
-    "Linear Equations/Row Operations.md",
     "Linear Equations/pics/Homogeneous systems.png",
     "Linear Equations/pics/Homogeneous systems-1.png",
     "Pasted image 20230828105104.png",
@@ -184,7 +186,6 @@
     "pdf/Span.pdf",
     "pdf/Echelon Form.pdf",
     "Linear Equations/pics/Linear Combinations 1.png",
-    "pdf/Linear Combinations-1.pdf",
     "Linear Equations/pics/1-Linear Combinations.png",
     "Linear Equations/pics/1-Linear Combinations.png",
     "pdf.md",
