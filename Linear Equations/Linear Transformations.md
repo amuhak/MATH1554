@@ -20,3 +20,122 @@ $$
 {A = \begin{bmatrix} \cos{ \theta} & -\sin{ \theta} \\ \sin{ \theta}  & \cos{ \theta} \end{bmatrix}}
 $$
 
+# Geometric Transformations
+## Reflections
+### Through $x_1-\text{axis}$ 
+$$
+T ( \begin{bmatrix} 1 \\ 1  \end{bmatrix} ) =  \begin{bmatrix} 1 \\ -1  \end{bmatrix} 
+$$
+So,
+$$A = \begin{bmatrix} 1 & 0 \\ 0 & -1 \end{bmatrix}$$
+### Through $x_2-\text{axis}$ 
+$$
+T ( \begin{bmatrix} 1 \\ 1  \end{bmatrix} ) = \begin{bmatrix} -1 \\ 1  \end{bmatrix}
+$$
+So,
+$$A = \begin{bmatrix} -1 & 0 \\ 0 & 1 \end{bmatrix}$$
+### Through $x_2=x_1$ 
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &= \begin{bmatrix} 0 \\ 1 \end{bmatrix}\\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &= \begin{bmatrix} 1 \\ 0 \end{bmatrix}
+\end{aligned}
+$$
+So,
+$$A = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix}$$
+### Through $x_2=-x_1$ 
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &= \begin{bmatrix} 0 \\ -1 \end{bmatrix}\\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} -1 \\ 0 \end{bmatrix} 
+\end{aligned}
+$$
+
+So,
+$$A = \begin{bmatrix} 0 & -1 \\ -1 & 0 \end{bmatrix}$$
+## Contractions and Expansions
+### Horizontal
+#### Contractions (${|k|}<1$)
+
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &=  \begin{bmatrix} k \\ 0 \end{bmatrix} \\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} 0 \\ 1 \end{bmatrix} 
+\end{aligned}
+$$
+So,
+$$A = \begin{bmatrix} k & 0 \\ 0 & 1 \end{bmatrix}$$
+#### Expansions(${|k|}>1$)
+
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &=  \begin{bmatrix} k \\ 0 \end{bmatrix} \\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} 0 \\ 1 \end{bmatrix} 
+\end{aligned}
+$$
+
+So,
+$$A = \begin{bmatrix} k & 0 \\ 0 & 1 \end{bmatrix}$$
+### Vertical
+#### Contractions (${|k|}<1$)
+
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &=  \begin{bmatrix} 1 \\ 0 \end{bmatrix} \\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} 0 \\ k \end{bmatrix} 
+\end{aligned}
+$$
+So,
+$$A = \begin{bmatrix} 1 & 0 \\ 0 & k \end{bmatrix}$$
+#### Expansions(${|k|}>1$)
+
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &=  \begin{bmatrix} 1 \\ 0 \end{bmatrix} \\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} 0 \\ k \end{bmatrix} 
+\end{aligned}
+$$
+So,
+$$A = \begin{bmatrix} 1 & 0 \\ 0 & k \end{bmatrix}$$
+
+## Shears
+### Horizontal Shear
+#### Left($k<0$)
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &=  \begin{bmatrix} 1 \\ 0 \end{bmatrix} \\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} k \\ 1 \end{bmatrix} 
+\end{aligned}
+$$
+So,
+$$A = \begin{bmatrix} 1 & k \\ 0 & 1 \end{bmatrix}$$
+#### Right($k>0$)
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &=  \begin{bmatrix} 1 \\ 0 \end{bmatrix} \\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} k \\ 1 \end{bmatrix} 
+\end{aligned}
+$$
+So,
+$$A = \begin{bmatrix} 1 & k \\ 0 & 1 \end{bmatrix}$$
+
+### Vertical Shear
+#### Down($k<0$)
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &=  \begin{bmatrix} 1 \\ k \end{bmatrix} \\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} 0 \\ 1 \end{bmatrix} 
+\end{aligned}
+$$
+So,
+$$A = \begin{bmatrix} 1 & 0 \\ k & 1 \end{bmatrix}$$
+#### Up($k>0$)
+
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &=  \begin{bmatrix} 1 \\ k \end{bmatrix} \\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} 0 \\ 1 \end{bmatrix} 
+\end{aligned}
+$$
+So,
+$$A = \begin{bmatrix} 1 & 0 \\ k & 1 \end{bmatrix}$$
