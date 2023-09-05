@@ -149,3 +149,13 @@ T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} 0 \\ 0 \end{bmatr
 $$
 So,
 $$A = \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}$$
+### On to the $x_2-\text{Axis}$
+$$
+\begin{aligned}
+T ( \begin{bmatrix} 1 \\ 0 \end{bmatrix} ) &=  \begin{bmatrix} 0 \\ 0 \end{bmatrix} \\
+T ( \begin{bmatrix} 0 \\ 1 \end{bmatrix} ) &=  \begin{bmatrix} 0 \\ 1 \end{bmatrix} 
+\end{aligned}
+$$
+So,
+$$A = \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix}$$
+
