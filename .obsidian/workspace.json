@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Linear Equations/Linear Transformations.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -162,8 +163,8 @@
   "active": "c58aa4d8b3d90487",
   "lastOpenFiles": [
     "Linear Equations/Vocabulary.md",
-    "Linear Equations/Linear Transformations.md",
     "pdf/Linear Transformations.pdf",
+    "Linear Equations/Linear Transformations.md",
     "Linear Transformations.png",
     "Linear Equations/Consistent Systems.md",
     "pdf/Vocabulary.pdf",
