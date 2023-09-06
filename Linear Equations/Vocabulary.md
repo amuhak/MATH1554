@@ -14,7 +14,7 @@
 | Codomain | $T: \mathbb{R}^n$ $\rightarrow \mathbb{R}^m$; $\mathbb{R}^m$ is the codomain of $T$ |
 | Image | The vector $T(\vec{x})$ is the image of $\vec{x}$ under $T$ |
 | Range | The set of all possible images $T(\vec{x})$ or simply the **span of A** |
-|Standard vectors| The normal axes you would use (think $\begin{bmatrix}1 \\ 0\end{bmatrix}$ and $\begin{bmatrix} 0 \\ 1\end{bmatrix}$)|
+|Standard vectors| The column of the identity matrix (think $\begin{bmatrix}1 \\ 0\end{bmatrix}$ and $\begin{bmatrix} 0 \\ 1\end{bmatrix}$)|
 
 
 
