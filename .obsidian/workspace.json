@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Linear Equations/Linear Transformations.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Vocabulary.md",
+                "file": "Linear Equations/Linear Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Vocabulary.md",
+                "file": "Linear Equations/Linear Transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Vocabulary.md"
+                "file": "Linear Equations/Linear Transformations.md"
               }
             }
           }
@@ -161,10 +160,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "21945ef645bfd17a",
+  "active": "c58aa4d8b3d90487",
   "lastOpenFiles": [
     "Linear Equations/Linear Transformations.md",
     "Linear Equations/Vocabulary.md",
+    "README.md",
     "pdf/Linear Transformations.pdf",
     "Linear Transformations.png",
     "Linear Equations/Consistent Systems.md",
@@ -183,7 +183,6 @@
     "Linear Equations/test.md",
     "Linear Equations/Linear Equations_GlossaryIndex.md",
     "pdf/Linear Independence.pdf",
-    "README.md",
     "pdf/Parametric Vector Form.pdf",
     "Linear Equations/pics/Parametric Vector Form.png",
     "Linear Equations/pics/Homogeneous systems.png",
