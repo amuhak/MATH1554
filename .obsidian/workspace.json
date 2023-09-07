@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Linear Transformations.md",
+                "file": "Linear Equations/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Linear Transformations.md",
+                "file": "Linear Equations/Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Linear Transformations.md"
+                "file": "Linear Equations/Vocabulary.md"
               }
             }
           }
@@ -160,10 +161,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c58aa4d8b3d90487",
+  "active": "21945ef645bfd17a",
   "lastOpenFiles": [
-    "Linear Equations/Vocabulary.md",
     "Linear Equations/Linear Transformations.md",
+    "Linear Equations/Vocabulary.md",
     "README.md",
     "pdf/Linear Transformations.pdf",
     "Linear Transformations.png",
