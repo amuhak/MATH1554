@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "873bc73b899c4968",
+        "id": "4349fe3e46e60be9",
         "type": "tabs",
         "children": [
           {
-            "id": "21945ef645bfd17a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Equations/Vocabulary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eaf0256d53ae071",
+            "id": "311b7325d9837718",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Linear Transformations (path:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +147,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7f6881fa87fe5628",
+  "active": "311b7325d9837718",
   "lastOpenFiles": [
     "Linear Equations/Vocabulary.md",
     "Linear Equations/Linear Transformations.md",
