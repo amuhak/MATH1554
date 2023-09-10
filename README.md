@@ -6,7 +6,7 @@ The most important part of MATH 1554 linear algebra is calculating the output ve
 ***
 # Contribute
 
-Feel free to make a pull request to contribute! I will take care of compiling the markdown files to $\LaTeX$
+Feel free to make a pull request to contribute! I will take care of compiling the markdown files to a $\LaTeX$ PDF 
 
 ***
 # How To Run
