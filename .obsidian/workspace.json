@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:Linear Transformations (path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "9eaf0256d53ae071",
+  "active": "7f6881fa87fe5628",
   "lastOpenFiles": [
     "Linear Equations/Vocabulary.md",
     "Linear Equations/Linear Transformations.md",
