@@ -11,8 +11,12 @@
             "id": "549217e79aa55725",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/Linear Transformations.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/Linear Transformations.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/Linear Transformations.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -143,17 +147,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "52cda0946c10db9b",
+  "active": "549217e79aa55725",
   "lastOpenFiles": [
+    "Linear Equations/Consistent Systems.md",
+    "Linear Equations/Row Operations.md",
+    "Linear Equations/Row Reduction Algorithm.md",
+    "README.md",
     "Linear Equations/Linear Transformations.md",
     "Linear Equations/Vocabulary.md",
-    "README.md",
     "pdf/Linear Transformations.pdf",
     "Linear Transformations.png",
-    "Linear Equations/Consistent Systems.md",
     "pdf/Vocabulary.pdf",
-    "Linear Equations/Row Reduction Algorithm.md",
-    "Linear Equations/Row Operations.md",
     "Linear Equations/Parametric Vector Form.md",
     "Linear Equations/Matrix Vector Product.md",
     "Linear Equations/Linear Independence.md",

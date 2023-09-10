@@ -21,19 +21,24 @@ Feel free to make a pull request to contribute! I will take care of compiling th
 ## Setting Up Git in Obsidian (This is optional)
 
 1. Open settings on the bottom left:
+
    ![](README%20pics/Pasted%20image%2020230822122625.png)
 
 2. Press "Community plugins":
+
    ![](README%20pics/Pasted%20image%2020230822122702.png)
 
    - Turn on "Community plugins"
    - Press "Browse":
+   
      ![](README%20pics/Pasted%20image%2020230822122836.png)
 
    - Search for 'git':
+   
      ![](README%20pics/Pasted%20image%2020230822123022.png)
 
    - Install "Obsidian git":
+   
      ![](README%20pics/Pasted%20image%2020230822123102.png)
 
 3. Now, back in "Community plugins," find "Obsidian Git" and press the settings icon (near the plus, heart, and x icons). Your "Obsidian Git" should be enabled, as shown in the image:
