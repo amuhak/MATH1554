@@ -17,8 +17,6 @@
 |Standard vectors| The column of the identity matrix (think $\begin{bmatrix}1 \\ 0\end{bmatrix}$ and $\begin{bmatrix} 0 \\ 1\end{bmatrix}$)|
 | Onto | All the elements in the codomain are mapped to. (A spans the entire codomain), Every **row** is pivital |
 | One-To-One | Each mapping is unique (2 vectors can **NOT** map to the same vector), Every **column** is pivital|
-
-
-
-
+| Transpose | the matrix whose columns are the rows of $A$ |
+| Invertible | $A \in \mathbb{R}^{n \times n}$ is invertible if there is a $C \in \mathbb{R}^{n \times n}$ such that: $AC=CA=I_n$ |
 
