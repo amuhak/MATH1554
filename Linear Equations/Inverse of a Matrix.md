@@ -30,4 +30,5 @@ $$
 A^{-1} &= \left[ \begin{array}{ccc} 0&1&-3\\1&0&-2\\0&0&1 \end{array} \right]
 \end{aligned}
 $$
-
+Some properties:
+![[Inverse of a Matrix.png]]

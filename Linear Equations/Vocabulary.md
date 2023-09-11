@@ -19,4 +19,4 @@
 | One-To-One | Each mapping is unique (2 vectors can **NOT** map to the same vector), Every **column** is pivital|
 | Transpose | the matrix whose columns are the rows of $A$ |
 | Invertible | $A \in \mathbb{R}^{n \times n}$ is invertible if there is a $C \in \mathbb{R}^{n \times n}$ such that: $AC=CA=I_n$ |
-
+| Elementary Matrix | Differs from $I_n$ by one row operation. |
