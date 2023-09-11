@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c1db813f26687d63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Equations/Formulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "79e16edddd6dce1d",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,8 +174,9 @@
   },
   "active": "79e16edddd6dce1d",
   "lastOpenFiles": [
-    "Linear Equations/Vocabulary.md",
+    "Linear Equations/Formulas.md",
     "Linear Equations/Inverse of a Matrix.md",
+    "Linear Equations/Vocabulary.md",
     "Linear Equations/Matrix Transpose and Powers.md",
     "Linear Equations/Matrix Multiplication.md",
     "Linear Equations/Matrix Addition and Scalar Multiplication.md",
@@ -206,7 +220,6 @@
     "Untitled.canvas",
     "pdf.md",
     "pdf/Consistent Systems.md",
-    "MATH1554/Linear Equations/Row Operations.md",
-    "MATH1554/Linear Equations/Echelon Form.md"
+    "MATH1554/Linear Equations/Row Operations.md"
   ]
 }
