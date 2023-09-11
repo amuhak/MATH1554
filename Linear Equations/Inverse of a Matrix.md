@@ -25,6 +25,9 @@ For example to find $\left[ \begin{array} \\ 0 &1&2\\1&0&3\\0&0&1 \end{array} \r
 $$
 \begin{aligned}
 &=\left[ \begin{array}{ccc|ccc} 0 &1&2&1&0&0\\1&0&3&0&1&0\\0&0&1&0&0&1 \end{array} \right] \\
-&=\left[ \begin{array}{ccc|ccc} 0 &1&2&1&0&0\\1&0&3&0&1&0\\0&0&1&0&0&1 \end{array} \right] \\
+&=\left[ \begin{array}{ccc|ccc} 1 &0&0&0&1&-3\\0&1&0&1&0&-2\\0&0&1&0&0&1 \end{array} \right] \\
+&=(I_3\ |\ A^{-1})\\
+A^{-1} &= \left[ \begin{array}{ccc} 0&1&-3\\1&0&-2\\0&0&1 \end{array} \right]
 \end{aligned}
 $$
+
