@@ -9,6 +9,8 @@ AB &= \left[ \begin{array}  \\ 1 & 0\\1&1 \end{array} \right] \left[ \begin{arra
 &=\left[ \begin{array} \\ 4&0&0\\5&4&0 \end{array} \right]
 \end{aligned}
 $$
+(Note: This is very similar to [[Matrix Vector Product]])
+
 ![[Matrix Multiplication.png]]
 
 ![[Matrix Multiplication-1.png]]
