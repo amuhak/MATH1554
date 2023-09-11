@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "de49ad7c949505e4",
+        "id": "aad3766e474454b3",
         "type": "tabs",
         "children": [
           {
-            "id": "549217e79aa55725",
+            "id": "a4807b2b35ffd6c3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/Matrix Vector Product.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -36,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/Matrix Vector Product.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/Matrix Vector Product.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pdf/Matrix Vector Product.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,27 +139,29 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "549217e79aa55725",
+  "active": "a4807b2b35ffd6c3",
   "lastOpenFiles": [
+    "Linear Equations/Linear Transformations.md",
+    "Linear Equations/Vectors in R.md",
+    "Linear Equations/Vocabulary.md",
+    "Matrix Addition and Scalar Multiplication.md",
+    "Linear Equations/Row Reduction Algorithm.md",
+    "Linear Equations/Parametric Vector Form.md",
+    "Linear Equations/Linear Combinations.md",
+    "pdf/Matrix Vector Product.pdf",
     "pdf/Echelon Form.pdf",
     "pdf/Consistent Systems.pdf",
     "README.md",
     "Linear Equations/Consistent Systems.md",
     "Linear Equations/Row Operations.md",
-    "Linear Equations/Row Reduction Algorithm.md",
-    "Linear Equations/Linear Transformations.md",
-    "Linear Equations/Vocabulary.md",
     "pdf/Linear Transformations.pdf",
     "Linear Transformations.png",
     "pdf/Vocabulary.pdf",
-    "Linear Equations/Parametric Vector Form.md",
     "Linear Equations/Matrix Vector Product.md",
     "Linear Equations/Linear Independence.md",
-    "Linear Equations/Linear Combinations.md",
     "Linear Equations/Homogeneous systems.md",
     "Linear Equations/Existence and Uniqueness.md",
     "Linear Equations/Echelon Form.md",
-    "Linear Equations/Vectors in R.md",
     "Linear Equations/Span.md",
     "Linear Equations/test.md",
     "Linear Equations/Linear Equations_GlossaryIndex.md",
@@ -176,20 +172,17 @@
     "Linear Equations/pics/Homogeneous systems-1.png",
     "Pasted image 20230828105104.png",
     "pdf/Homogeneous systems.pdf",
-    "pdf/Matrix Vector Product.pdf",
     "Matrix Vector Product.png",
     "Linear Equations/pics/Pasted image 20230822084359.png",
     "2023-08-25.md",
     "Untitled.canvas",
     "pdf/Existence and Uniqueness.pdf",
     "pdf/Linear Combinations.pdf",
-    "pdf/Row Reduction Algorithm.pdf",
     "Linear Equations/pics/Span.png",
     "Linear Equations/pics/Linear Combinations 1.png",
     "Linear Equations/pics/1-Linear Combinations.png",
     "pdf.md",
     "pdf/Consistent Systems.md",
-    "Untitled.md",
     "MATH1554/Linear Equations/Row Operations.md",
     "MATH1554/Linear Equations/Echelon Form.md",
     "MATH1554/Linear Equations/Consistent Systems.md"
