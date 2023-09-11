@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Matrix Multiplication.md",
+                "file": "Linear Equations/Matrix Transpose and Powers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Matrix Multiplication.md",
+                "file": "Linear Equations/Matrix Transpose and Powers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Matrix Multiplication.md",
+                "file": "Linear Equations/Matrix Transpose and Powers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Matrix Multiplication.md"
+                "file": "Linear Equations/Matrix Transpose and Powers.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "79e16edddd6dce1d",
   "lastOpenFiles": [
-    "Linear Equations/Matrix Addition and Scalar Multiplication.md",
     "Linear Equations/Matrix Multiplication.md",
+    "Linear Equations/Matrix Transpose and Powers.md",
+    "Linear Equations/Matrix Addition and Scalar Multiplication.md",
     "Linear Equations/pics/Matrix Multiplication-1.png",
     "Linear Equations/pics/Matrix Multiplication.png",
     "pdf/Matrix Multiplication.pdf",
