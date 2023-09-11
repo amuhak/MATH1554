@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "79e16edddd6dce1d",
+            "id": "1345870be8db4992",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Inverse of a Matrix.md",
+                "file": "Linear Equations/Elementary Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Inverse of a Matrix.md",
+                "file": "Linear Equations/Elementary Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Inverse of a Matrix.md",
+                "file": "Linear Equations/Elementary Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Inverse of a Matrix.md"
+                "file": "Linear Equations/Elementary Matrices.md"
               }
             }
           }
@@ -172,11 +172,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "79e16edddd6dce1d",
+  "active": "1345870be8db4992",
   "lastOpenFiles": [
-    "Linear Equations/Vocabulary.md",
     "Linear Equations/Inverse of a Matrix.md",
+    "Linear Equations/Elementary Matrices.md",
     "Linear Equations/Formulas.md",
+    "Linear Equations/Vocabulary.md",
     "pdf/Inverse of a Matrix.pdf",
     "pdf/Formulas.pdf",
     "Linear Equations/Matrix Transpose and Powers.md",
