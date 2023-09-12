@@ -32,15 +32,19 @@
             }
           },
           {
-            "id": "c8aa17b7e5324317",
+            "id": "6d613fd89c19384d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linear Equations/Matrix Multiplication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linear Equations/Elementary Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linear Equations/Elementary Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linear Equations/Elementary Matrices.md"
+              }
             }
           }
         ]
@@ -156,24 +164,26 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "c8aa17b7e5324317",
+  "active": "1345870be8db4992",
   "lastOpenFiles": [
-    "Linear Equations/Elementary Matrices.md",
     "Linear Equations/Formulas.md",
+    "Linear Equations/Elementary Matrices.md",
+    "Linear Equations/Matrix Multiplication.md",
+    "pdf/Elementary Matrices.pdf",
+    "Linear Equations/Inverse of a Matrix.md",
+    "Linear Equations/Row Reduction Algorithm.md",
     "pdf/Inverse of a Matrix.pdf",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
-    "Linear Equations/Matrix Multiplication.md",
     "Linear Equations/Vocabulary.md",
-    "Linear Equations/Inverse of a Matrix.md",
     "Linear Equations/Row Operations.md",
     "pdf/Formulas.pdf",
     "Linear Equations/Matrix Transpose and Powers.md",
@@ -186,7 +196,6 @@
     "pdf/Matrix Addition and Scalar Multiplication.pdf",
     "Linear Equations/Linear Transformations.md",
     "Linear Equations/Vectors in R.md",
-    "Linear Equations/Row Reduction Algorithm.md",
     "Linear Equations/Parametric Vector Form.md",
     "Linear Equations/Linear Combinations.md",
     "pdf/Matrix Vector Product.pdf",
@@ -205,7 +214,6 @@
     "Linear Equations/Span.md",
     "Linear Equations/test.md",
     "Linear Equations/Linear Equations_GlossaryIndex.md",
-    "pdf/Linear Independence.pdf",
     "Linear Equations/pics/Parametric Vector Form.png",
     "Linear Equations/pics/Homogeneous systems.png",
     "Linear Equations/pics/Homogeneous systems-1.png",

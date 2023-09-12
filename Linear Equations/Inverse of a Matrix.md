@@ -18,7 +18,7 @@ I\vec{x}&=A^{-1}b \\
 $$
 
 # Computing $A^{-1}$
-1. Row reduce the augmented matrix $\left( A\ |\ I_n \right)$ to [[Row Reduction Algorithm|RREF]] 
+1. Row reduce the augmented matrix $\left( A\ |\ I_n \right)$ to [[Row Reduction Algorithm|RREF]]. 
 2. If the reduction is in the form, $(I_n\ |\ B)$ then $A$ is invertible and $B=A^{-1}$. Else, $A$ is not invertible.
 
 For example to find $\left[ \begin{array} \\ 0 &1&2\\1&0&3\\0&0&1 \end{array} \right]^{-1}:$
@@ -30,5 +30,17 @@ $$
 A^{-1} &= \left[ \begin{array}{ccc} 0&1&-3\\1&0&-2\\0&0&1 \end{array} \right]
 \end{aligned}
 $$
+## Why does this work?
+Using [[Elementary Matrices|elementary matrices]] we can see that when we row reduce the augmented matrix $\left( A\ |\ I_n \right)$ to [[Row Reduction Algorithm|RREF]], we are simple applying row operation, in other words we are simple applying [[Elementary Matrices#What Do They Represent| transformations]] using elementary matrices.
+So if,
+$$
+\begin{aligned}
+(E_k \cdots E_3E_2E_1)A&=I_n \\
+E_k \cdots E_3E_2E_1 &= A^{-1} \\
+\text{as,} \\
+A^{-1}A&=I_n
+\end{aligned}
+$$
+
 Some properties:
 ![[Inverse of a Matrix.png]]
