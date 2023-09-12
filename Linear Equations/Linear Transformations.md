@@ -55,7 +55,7 @@ So,
 $$A = \begin{bmatrix} 0 & -1 \\ -1 & 0 \end{bmatrix}$$
 ## Contractions and Expansions
 ### Horizontal
-#### Contractions \left(${|k|}<1$\right)
+#### Contractions (${|k|}<1$)
 
 $$
 \begin{aligned}
@@ -65,7 +65,7 @@ T \left( \begin{bmatrix} 0 \\ 1 \end{bmatrix} \right) &=  \begin{bmatrix} 0 \\ 1
 $$
 So,
 $$A = \begin{bmatrix} k & 0 \\ 0 & 1 \end{bmatrix}$$
-#### Expansions\left(${|k|}>1$\right)
+#### Expansions (${|k|}>1$)
 
 $$
 \begin{aligned}
@@ -77,7 +77,7 @@ $$
 So,
 $$A = \begin{bmatrix} k & 0 \\ 0 & 1 \end{bmatrix}$$
 ### Vertical
-#### Contractions \left(${|k|}<1$\right)
+#### Contractions (${|k|}<1$)
 
 $$
 \begin{aligned}
@@ -87,7 +87,7 @@ T \left( \begin{bmatrix} 0 \\ 1 \end{bmatrix} \right) &=  \begin{bmatrix} 0 \\ k
 $$
 So,
 $$A = \begin{bmatrix} 1 & 0 \\ 0 & k \end{bmatrix}$$
-#### Expansions\left(${|k|}>1$\right)
+#### Expansions (${|k|}>1$)
 
 $$
 \begin{aligned}
@@ -100,7 +100,7 @@ $$A = \begin{bmatrix} 1 & 0 \\ 0 & k \end{bmatrix}$$
 
 ## Shears
 ### Horizontal Shear
-#### Left\left($k<0$\right)
+#### Left($k<0$)
 $$
 \begin{aligned}
 T \left( \begin{bmatrix} 1 \\ 0 \end{bmatrix} \right) &=  \begin{bmatrix} 1 \\ 0 \end{bmatrix} \\
@@ -109,7 +109,7 @@ T \left( \begin{bmatrix} 0 \\ 1 \end{bmatrix} \right) &=  \begin{bmatrix} k \\ 1
 $$
 So,
 $$A = \begin{bmatrix} 1 & k \\ 0 & 1 \end{bmatrix}$$
-#### Right\left($k>0$\right)
+#### Right($k>0$)
 $$
 \begin{aligned}
 T \left( \begin{bmatrix} 1 \\ 0 \end{bmatrix} \right) &=  \begin{bmatrix} 1 \\ 0 \end{bmatrix} \\
@@ -120,7 +120,7 @@ So,
 $$A = \begin{bmatrix} 1 & k \\ 0 & 1 \end{bmatrix}$$
 
 ### Vertical Shear
-#### Down\left($k<0$\right)
+#### Down($k<0$)
 $$
 \begin{aligned}
 T \left( \begin{bmatrix} 1 \\ 0 \end{bmatrix} \right) &=  \begin{bmatrix} 1 \\ k \end{bmatrix} \\
@@ -129,7 +129,7 @@ T \left( \begin{bmatrix} 0 \\ 1 \end{bmatrix} \right) &=  \begin{bmatrix} 0 \\ 1
 $$
 So,
 $$A = \begin{bmatrix} 1 & 0 \\ k & 1 \end{bmatrix}$$
-#### Up\left($k>0$\right)
+#### Up($k>0$)
 
 $$
 \begin{aligned}

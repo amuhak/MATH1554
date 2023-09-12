@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Vocabulary.md",
-                "mode": "source",
+                "file": "Linear Equations/Linear Transformations.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "cc5a973a93141440",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
               }
             }
           },
@@ -32,16 +42,6 @@
             }
           },
           {
-            "id": "da82a2a678dc3c54",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
-          },
-          {
             "id": "6d613fd89c19384d",
             "type": "leaf",
             "state": {
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/The Invertible Matrix Theorem.md",
+                "file": "Linear Equations/Linear Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/The Invertible Matrix Theorem.md",
+                "file": "Linear Equations/Linear Transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/The Invertible Matrix Theorem.md"
+                "file": "Linear Equations/Linear Transformations.md"
               }
             }
           },
@@ -192,12 +192,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "da82a2a678dc3c54",
+  "active": "cc5a973a93141440",
   "lastOpenFiles": [
-    "pdf/The Invertible Matrix Theorem.pdf",
-    "Linear Equations/Vocabulary.md",
-    "Linear Equations/Formulas.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
+    "Linear Equations/Linear Transformations.md",
+    "Linear Equations/Vocabulary.md",
+    "pdf/The Invertible Matrix Theorem.pdf",
+    "Linear Equations/Formulas.md",
     "Linear Equations/Matrix Multiplication.md",
     "Linear Equations/Elementary Matrices.md",
     "pdf/Elementary Matrices.pdf",
@@ -216,7 +217,6 @@
     "Linear Equations/pics/Matrix Addition and Scalar Multiplication.png",
     "Linear Equations/pics/Matrix Addition and Scalar Multiplication-1.png",
     "pdf/Matrix Addition and Scalar Multiplication.pdf",
-    "Linear Equations/Linear Transformations.md",
     "Linear Equations/Vectors in R.md",
     "Linear Equations/Parametric Vector Form.md",
     "Linear Equations/Linear Combinations.md",
@@ -227,7 +227,6 @@
     "Linear Equations/Consistent Systems.md",
     "pdf/Linear Transformations.pdf",
     "Linear Transformations.png",
-    "pdf/Vocabulary.pdf",
     "Linear Equations/Matrix Vector Product.md",
     "Linear Equations/Linear Independence.md",
     "Linear Equations/Homogeneous systems.md",
