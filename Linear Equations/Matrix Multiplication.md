@@ -12,5 +12,6 @@ $$
 (Note: This is very similar to [[Matrix Vector Product]])
 ![[Matrix Multiplication.png]]
 
+# Important! 
 ![[Matrix Multiplication-1.png]]
 

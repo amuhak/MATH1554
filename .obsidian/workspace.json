@@ -8,53 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1db813f26687d63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Equations/Linear Transformations.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc5a973a93141440",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "1345870be8db4992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Equations/The Invertible Matrix Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6d613fd89c19384d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Matrix Multiplication.md",
+                "file": "Linear Equations/Matrix Addition and Scalar Multiplication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Linear Transformations.md",
+                "file": "Linear Equations/Matrix Addition and Scalar Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Linear Transformations.md",
+                "file": "Linear Equations/Matrix Addition and Scalar Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Linear Transformations.md"
+                "file": "Linear Equations/Matrix Addition and Scalar Multiplication.md"
               }
             }
           },
@@ -192,24 +157,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cc5a973a93141440",
+  "active": "6d613fd89c19384d",
   "lastOpenFiles": [
+    "Linear Equations/Matrix Transpose and Powers.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
+    "Linear Equations/Inverse of a Matrix.md",
+    "Linear Equations/Matrix Multiplication.md",
     "Linear Equations/Linear Transformations.md",
     "Linear Equations/Vocabulary.md",
     "pdf/The Invertible Matrix Theorem.pdf",
     "Linear Equations/Formulas.md",
-    "Linear Equations/Matrix Multiplication.md",
     "Linear Equations/Elementary Matrices.md",
     "pdf/Elementary Matrices.pdf",
-    "Linear Equations/Inverse of a Matrix.md",
     "Linear Equations/Row Reduction Algorithm.md",
     "pdf/Inverse of a Matrix.pdf",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
     "Linear Equations/Row Operations.md",
     "pdf/Formulas.pdf",
-    "Linear Equations/Matrix Transpose and Powers.md",
     "Linear Equations/Matrix Addition and Scalar Multiplication.md",
     "Linear Equations/pics/Matrix Multiplication-1.png",
     "Linear Equations/pics/Matrix Multiplication.png",
