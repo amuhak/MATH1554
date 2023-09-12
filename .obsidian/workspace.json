@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "da82a2a678dc3c54",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
+          },
+          {
             "id": "6d613fd89c19384d",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,6 +163,16 @@
                 "file": "Linear Equations/The Invertible Matrix Theorem.md"
               }
             }
+          },
+          {
+            "id": "e8ea0bb11567def2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -172,8 +192,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1345870be8db4992",
+  "active": "da82a2a678dc3c54",
   "lastOpenFiles": [
+    "pdf/The Invertible Matrix Theorem.pdf",
     "Linear Equations/Vocabulary.md",
     "Linear Equations/Formulas.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
@@ -219,7 +240,6 @@
     "Linear Equations/pics/Homogeneous systems.png",
     "Linear Equations/pics/Homogeneous systems-1.png",
     "2023-08-25.md",
-    "Untitled.canvas",
-    "pdf.md"
+    "Untitled.canvas"
   ]
 }
