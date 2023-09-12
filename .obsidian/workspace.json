@@ -32,15 +32,11 @@
             }
           },
           {
-            "id": "4429f8c88c7e0d57",
+            "id": "c8aa17b7e5324317",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Equations/Matrix Multiplication.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Matrix Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Matrix Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linear Equations/Matrix Multiplication.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,18 +164,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4429f8c88c7e0d57",
+  "active": "c8aa17b7e5324317",
   "lastOpenFiles": [
-    "Linear Equations/Vocabulary.md",
     "Linear Equations/Elementary Matrices.md",
     "Linear Equations/Formulas.md",
+    "pdf/Inverse of a Matrix.pdf",
+    "pdf/Inverse of a Matrix.png",
+    "Linear Equations/pics/Inverse of a Matrix.png",
+    "Linear Equations/Matrix Multiplication.md",
+    "Linear Equations/Vocabulary.md",
     "Linear Equations/Inverse of a Matrix.md",
     "Linear Equations/Row Operations.md",
-    "Inverse of a Matrix.png",
-    "pdf/Inverse of a Matrix.pdf",
     "pdf/Formulas.pdf",
     "Linear Equations/Matrix Transpose and Powers.md",
-    "Linear Equations/Matrix Multiplication.md",
     "Linear Equations/Matrix Addition and Scalar Multiplication.md",
     "Linear Equations/pics/Matrix Multiplication-1.png",
     "Linear Equations/pics/Matrix Multiplication.png",
@@ -216,7 +209,6 @@
     "Linear Equations/pics/Parametric Vector Form.png",
     "Linear Equations/pics/Homogeneous systems.png",
     "Linear Equations/pics/Homogeneous systems-1.png",
-    "Pasted image 20230828105104.png",
     "2023-08-25.md",
     "Untitled.canvas",
     "pdf.md"
