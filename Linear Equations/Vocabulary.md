@@ -20,3 +20,4 @@
 | Transpose | the matrix whose columns are the rows of $A$ |
 | Invertible | $A \in \mathbb{R}^{n \times n}$ is invertible if there is a $C \in \mathbb{R}^{n \times n}$ such that: $AC=CA=I_n$ |
 | Elementary Matrix | Differs from $I_n$ by one row operation. |
+| Singular | A matrix that is not invertible ($A^{-1}$ DNE)|

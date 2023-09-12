@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Formulas.md",
+                "file": "Linear Equations/Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,10 +174,10 @@
   },
   "active": "1345870be8db4992",
   "lastOpenFiles": [
-    "Linear Equations/Matrix Multiplication.md",
+    "Linear Equations/Vocabulary.md",
     "Linear Equations/Formulas.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
-    "Linear Equations/Vocabulary.md",
+    "Linear Equations/Matrix Multiplication.md",
     "Linear Equations/Elementary Matrices.md",
     "pdf/Elementary Matrices.pdf",
     "Linear Equations/Inverse of a Matrix.md",
