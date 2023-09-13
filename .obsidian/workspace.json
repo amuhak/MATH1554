@@ -14,21 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Linear Equations/Matrix Transpose and Powers.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "72ab5d877e407a97",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linear Equations/Matrix Transpose and Powers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linear Equations/Matrix Transpose and Powers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linear Equations/Matrix Transpose and Powers.md"
+              }
             }
           },
           {
@@ -162,18 +157,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "72ab5d877e407a97",
+  "active": "6d613fd89c19384d",
   "lastOpenFiles": [
-    "Linear Equations/Matrix Transpose and Powers.md",
+    "Linear Equations/Vectors in R.md",
     "Linear Equations/Matrix Addition and Scalar Multiplication.md",
-    "Linear Equations/The Invertible Matrix Theorem.md",
-    "Linear Equations/Inverse of a Matrix.md",
-    "Linear Equations/Matrix Multiplication.md",
-    "Linear Equations/Linear Transformations.md",
-    "Linear Equations/Vocabulary.md",
-    "pdf/The Invertible Matrix Theorem.pdf",
     "Linear Equations/Formulas.md",
     "Linear Equations/Elementary Matrices.md",
+    "Linear Equations/Inverse of a Matrix.md",
+    "Linear Equations/The Invertible Matrix Theorem.md",
+    "Linear Equations/Vocabulary.md",
+    "Linear Equations/Linear Transformations.md",
+    "Linear Equations/Matrix Multiplication.md",
+    "Linear Equations/Matrix Transpose and Powers.md",
+    "pdf/Linear Transformations.pdf",
+    "pdf/Matrix Transpose and Powers.pdf",
+    "pdf/The Invertible Matrix Theorem.pdf",
     "pdf/Elementary Matrices.pdf",
     "Linear Equations/Row Reduction Algorithm.md",
     "pdf/Inverse of a Matrix.pdf",
@@ -187,15 +185,12 @@
     "Linear Equations/pics/Matrix Addition and Scalar Multiplication.png",
     "Linear Equations/pics/Matrix Addition and Scalar Multiplication-1.png",
     "pdf/Matrix Addition and Scalar Multiplication.pdf",
-    "Linear Equations/Vectors in R.md",
     "Linear Equations/Parametric Vector Form.md",
     "Linear Equations/Linear Combinations.md",
     "pdf/Matrix Vector Product.pdf",
     "pdf/Echelon Form.pdf",
-    "pdf/Consistent Systems.pdf",
     "README.md",
     "Linear Equations/Consistent Systems.md",
-    "pdf/Linear Transformations.pdf",
     "Linear Transformations.png",
     "Linear Equations/Matrix Vector Product.md",
     "Linear Equations/Linear Independence.md",
