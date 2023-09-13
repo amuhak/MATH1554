@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Matrix Transpose and Powers.md",
-                "mode": "preview",
+                "file": "Linear Equations/Vocabulary.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Matrix Transpose and Powers.md",
+                "file": "Linear Equations/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Matrix Transpose and Powers.md",
+                "file": "Linear Equations/Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Equations/Matrix Transpose and Powers.md"
+                "file": "Linear Equations/Vocabulary.md"
               }
             }
           },
@@ -159,16 +159,16 @@
   },
   "active": "6d613fd89c19384d",
   "lastOpenFiles": [
-    "Linear Equations/Vectors in R.md",
-    "Linear Equations/Matrix Addition and Scalar Multiplication.md",
-    "Linear Equations/Formulas.md",
-    "Linear Equations/Elementary Matrices.md",
     "Linear Equations/Inverse of a Matrix.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
     "Linear Equations/Vocabulary.md",
     "Linear Equations/Linear Transformations.md",
     "Linear Equations/Matrix Multiplication.md",
     "Linear Equations/Matrix Transpose and Powers.md",
+    "Linear Equations/Vectors in R.md",
+    "Linear Equations/Matrix Addition and Scalar Multiplication.md",
+    "Linear Equations/Formulas.md",
+    "Linear Equations/Elementary Matrices.md",
     "pdf/Linear Transformations.pdf",
     "pdf/Matrix Transpose and Powers.pdf",
     "pdf/The Invertible Matrix Theorem.pdf",
