@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Equations/Matrix Addition and Scalar Multiplication.md",
+                "file": "Linear Equations/Matrix Transpose and Powers.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "72ab5d877e407a97",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Equations/Matrix Addition and Scalar Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Equations/Matrix Addition and Scalar Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linear Equations/Matrix Addition and Scalar Multiplication.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,9 +162,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6d613fd89c19384d",
+  "active": "72ab5d877e407a97",
   "lastOpenFiles": [
     "Linear Equations/Matrix Transpose and Powers.md",
+    "Linear Equations/Matrix Addition and Scalar Multiplication.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
     "Linear Equations/Inverse of a Matrix.md",
     "Linear Equations/Matrix Multiplication.md",
@@ -175,7 +181,6 @@
     "Linear Equations/pics/Inverse of a Matrix.png",
     "Linear Equations/Row Operations.md",
     "pdf/Formulas.pdf",
-    "Linear Equations/Matrix Addition and Scalar Multiplication.md",
     "Linear Equations/pics/Matrix Multiplication-1.png",
     "Linear Equations/pics/Matrix Multiplication.png",
     "pdf/Matrix Multiplication.pdf",
