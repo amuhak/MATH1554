@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Formulas.md",
+                "file": "Linear Systems/Existence and Uniqueness.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "run",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Formulas.md",
+                "file": "Linear Systems/Existence and Uniqueness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Formulas.md",
+                "file": "Linear Systems/Existence and Uniqueness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Formulas.md"
+                "file": "Linear Systems/Existence and Uniqueness.md"
               }
             }
           },
@@ -159,6 +160,12 @@
   },
   "active": "6d613fd89c19384d",
   "lastOpenFiles": [
+    "Linear Systems/Span.md",
+    "Linear Systems/Row Operations.md",
+    "Linear Systems/Echelon Form.md",
+    "Linear Systems/Existence and Uniqueness.md",
+    "Linear Systems/Matrix Vector Product.md",
+    "Matrix Algebra/Formulas.md",
     "pdf/Matrix Algebra/Formulas.pdf",
     "Vocabulary.md",
     "test.md",
@@ -176,22 +183,15 @@
     "Linear Systems/Row Reduction Algorithm.md",
     "Linear Systems/Linear Transformations.md",
     "pdf/Linear Systems/Linear Transformations.pdf",
-    "Matrix Algebra/Formulas.md",
     "pdf/Linear Systems/Formulas.pdf",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "pdf/Linear Systems/Matrix Addition and Scalar Multiplication.pdf",
     "Linear Systems/Vectors in R.md",
-    "pdf/Linear Systems/Vectors in R.pdf",
     "Linear Systems/Parametric Vector Form.md",
     "Linear Systems/Linear Combinations.md",
     "Linear Systems/Linear Independence.md",
     "Linear Systems/Homogeneous systems.md",
     "Linear Systems/Consistent Systems.md",
-    "Linear Systems/Existence and Uniqueness.md",
-    "Linear Systems/Matrix Vector Product.md",
-    "Linear Systems/Span.md",
-    "Linear Systems/Echelon Form.md",
-    "Linear Systems/Row Operations.md",
     "Linear Equations/Inverse of a Matrix.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
     "Linear Equations/Vocabulary.md",
