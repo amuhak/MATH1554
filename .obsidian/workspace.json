@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8ac8b40fb2e8fbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
+                "file": "Matrix Algebra/Formulas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Matrix Algebra/Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Matrix Algebra/Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Matrix Algebra/Formulas.md"
               }
             }
           },
@@ -170,8 +157,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f8ac8b40fb2e8fbe",
+  "active": "6d613fd89c19384d",
   "lastOpenFiles": [
+    "pdf/Matrix Algebra/Formulas.pdf",
     "Vocabulary.md",
     "test.md",
     "pdf/Vocabulary.pdf",
@@ -188,7 +176,7 @@
     "Linear Systems/Row Reduction Algorithm.md",
     "Linear Systems/Linear Transformations.md",
     "pdf/Linear Systems/Linear Transformations.pdf",
-    "Linear Systems/Formulas.md",
+    "Matrix Algebra/Formulas.md",
     "pdf/Linear Systems/Formulas.pdf",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "pdf/Linear Systems/Matrix Addition and Scalar Multiplication.pdf",
@@ -207,7 +195,6 @@
     "Linear Equations/Inverse of a Matrix.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
     "Linear Equations/Vocabulary.md",
-    "Linear Equations/Linear Transformations.md",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
     "Linear Equations/pics/Matrix Multiplication-1.png",
