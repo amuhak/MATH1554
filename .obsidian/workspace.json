@@ -11,11 +11,28 @@
             "id": "6d613fd89c19384d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8ac8b40fb2e8fbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test.md"
+              }
             }
           },
           {
@@ -149,53 +170,54 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6d613fd89c19384d",
+  "active": "f8ac8b40fb2e8fbe",
   "lastOpenFiles": [
+    "Vocabulary.md",
+    "test.md",
+    "pdf/Vocabulary.pdf",
+    "Matrix Algebra/Elementary Matrices.md",
+    "pdf/Matrix Algebra/Elementary Matrices.pdf",
+    "Matrix Algebra/Inverse of a Matrix.md",
+    "pdf/Matrix Algebra/Inverse of a Matrix.pdf",
+    "Matrix Algebra/The Invertible Matrix Theorem.md",
+    "pdf/Matrix Algebra/The Invertible Matrix Theorem.pdf",
+    "Matrix Algebra/Matrix Multiplication.md",
+    "pdf/Matrix Algebra/Matrix Multiplication.pdf",
+    "Matrix Algebra/Matrix Transpose and Powers.md",
+    "pdf/Matrix Algebra/Matrix Transpose and Powers.pdf",
+    "Linear Systems/Row Reduction Algorithm.md",
+    "Linear Systems/Linear Transformations.md",
+    "pdf/Linear Systems/Linear Transformations.pdf",
+    "Linear Systems/Formulas.md",
+    "pdf/Linear Systems/Formulas.pdf",
+    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
+    "pdf/Linear Systems/Matrix Addition and Scalar Multiplication.pdf",
+    "Linear Systems/Vectors in R.md",
+    "pdf/Linear Systems/Vectors in R.pdf",
+    "Linear Systems/Parametric Vector Form.md",
+    "Linear Systems/Linear Combinations.md",
+    "Linear Systems/Linear Independence.md",
+    "Linear Systems/Homogeneous systems.md",
+    "Linear Systems/Consistent Systems.md",
+    "Linear Systems/Existence and Uniqueness.md",
+    "Linear Systems/Matrix Vector Product.md",
+    "Linear Systems/Span.md",
+    "Linear Systems/Echelon Form.md",
+    "Linear Systems/Row Operations.md",
     "Linear Equations/Inverse of a Matrix.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
     "Linear Equations/Vocabulary.md",
     "Linear Equations/Linear Transformations.md",
-    "Linear Equations/Matrix Multiplication.md",
-    "Linear Equations/Matrix Transpose and Powers.md",
-    "Linear Equations/Vectors in R.md",
-    "Linear Equations/Matrix Addition and Scalar Multiplication.md",
-    "Linear Equations/Formulas.md",
-    "Linear Equations/Elementary Matrices.md",
-    "pdf/Linear Transformations.pdf",
-    "pdf/Matrix Transpose and Powers.pdf",
-    "pdf/The Invertible Matrix Theorem.pdf",
-    "pdf/Elementary Matrices.pdf",
-    "Linear Equations/Row Reduction Algorithm.md",
-    "pdf/Inverse of a Matrix.pdf",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
-    "Linear Equations/Row Operations.md",
-    "pdf/Formulas.pdf",
     "Linear Equations/pics/Matrix Multiplication-1.png",
     "Linear Equations/pics/Matrix Multiplication.png",
-    "pdf/Matrix Multiplication.pdf",
     "Linear Equations/pics/Matrix Addition and Scalar Multiplication.png",
     "Linear Equations/pics/Matrix Addition and Scalar Multiplication-1.png",
-    "pdf/Matrix Addition and Scalar Multiplication.pdf",
-    "Linear Equations/Parametric Vector Form.md",
-    "Linear Equations/Linear Combinations.md",
-    "pdf/Matrix Vector Product.pdf",
-    "pdf/Echelon Form.pdf",
-    "README.md",
-    "Linear Equations/Consistent Systems.md",
     "Linear Transformations.png",
-    "Linear Equations/Matrix Vector Product.md",
-    "Linear Equations/Linear Independence.md",
-    "Linear Equations/Homogeneous systems.md",
-    "Linear Equations/Existence and Uniqueness.md",
-    "Linear Equations/Echelon Form.md",
-    "Linear Equations/Span.md",
-    "Linear Equations/test.md",
-    "Linear Equations/Linear Equations_GlossaryIndex.md",
     "Linear Equations/pics/Parametric Vector Form.png",
     "Linear Equations/pics/Homogeneous systems.png",
     "Linear Equations/pics/Homogeneous systems-1.png",
-    "2023-08-25.md",
     "Untitled.canvas"
   ]
 }
