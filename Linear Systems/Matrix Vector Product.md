@@ -20,6 +20,6 @@ For what vectors $\mathbf{b}=\left[ \matrix {b_1 \\ b_2 \\ b_3}  \right]$ does t
 
 $$\left[ \begin{array}{ccc|c}1 &3&4&b_1\\2&8&4&b_2\\0&1&-2&b_3 \end{array} \right]$$
 $$\left[ \begin{array}{ccc|c} 1 & 3 & 4 & b_1 \\ 0 & 2 & -4 & b_2-2b_1 \\ 0 & 0 & 0 & b_3- \frac{1}{2}b_2 + b_1\\ \end{array} \right]$$
-Solving for $b_1$,
+Solving for $b_1$ from the last row,
 $$b_1=\frac{1}{2}-b_3$$
 $$\boxed{\mathbf{b}=\left[ \array{\frac{1}{2}-b_3 \\ b_2 \\ b_3} \right]}$$
