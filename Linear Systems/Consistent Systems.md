@@ -19,6 +19,6 @@ A and C are not row equivalent
 ![[Pasted image 20230822083132.png]]
 $$\left[ \begin{array}{c|c} A & \mathbf{b} \end{array} \right] =\left[ \begin{array}{cc|c} 1 & 1 & 1 \\ 0 & 1 & 1 \\ \end{array} \right]$$
 $$\left[ \begin{array}{c|c} A & \mathbf{b} \end{array} \right] =\left[ \begin{array}{cc|c} 1 & 0 & 0 \\ 0 & 1 & 1 \\ \end{array} \right]$$
-So A and $\mathbf{b}$ are consistent.
-A and C are not consistent.
+So $\left[ \begin{array}{c|c} A & \mathbf{b} \end{array} \right]$ are consistent.
+And $\left[ \begin{array}{c|c} C & \mathbf{b} \end{array} \right]$ are not consistent.
 
