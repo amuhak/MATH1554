@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -157,7 +158,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8fd27e68120cadfb",
+  "active": "52cda0946c10db9b",
   "lastOpenFiles": [
     "Vocabulary.md",
     "Linear Systems/Matrix Vector Product.md",

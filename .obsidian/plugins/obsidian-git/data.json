@@ -1,5 +1,5 @@
 {
-  "commitMessage": "{{date}} changed {{numFiles}}",
+  "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "{{date}} changed {{numFiles}}"
+  "autoCommitMessage": "vault backup: {{date}}"
 }
