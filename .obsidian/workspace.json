@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linear Systems/Parametric Vector Form.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "002e14c0a9c49931",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linear Systems/Parametric Vector Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linear Systems/Parametric Vector Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linear Systems/Parametric Vector Form.md"
               }
             }
           },
@@ -158,8 +168,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "52cda0946c10db9b",
+  "active": "002e14c0a9c49931",
   "lastOpenFiles": [
+    "README.md",
     "Vocabulary.md",
     "Linear Systems/Matrix Vector Product.md",
     "Linear Systems/Existence and Uniqueness.md",
