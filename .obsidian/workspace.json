@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Systems/Parametric Vector Form.md",
+                "file": "Linear Systems/Row Operations.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "002e14c0a9c49931",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Systems/Parametric Vector Form.md",
+                "file": "Linear Systems/Row Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Systems/Parametric Vector Form.md",
+                "file": "Linear Systems/Row Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Systems/Parametric Vector Form.md"
+                "file": "Linear Systems/Row Operations.md"
               }
             }
           },
@@ -168,16 +157,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "002e14c0a9c49931",
+  "active": "8fd27e68120cadfb",
   "lastOpenFiles": [
+    "Linear Systems/Matrix Vector Product.md",
+    "Linear Systems/Parametric Vector Form.md",
+    "Parametric Vector Form.pdf",
     "README.md",
     "Vocabulary.md",
-    "Linear Systems/Matrix Vector Product.md",
     "Linear Systems/Existence and Uniqueness.md",
     "Linear Systems/Homogeneous systems.md",
     "Linear Systems/Linear Combinations.md",
     "Linear Systems/Linear Independence.md",
-    "Linear Systems/Parametric Vector Form.md",
     "Linear Systems/Vectors in R.md",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "Linear Systems/Linear Transformations.md",
@@ -202,10 +192,8 @@
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "pdf/Matrix Algebra/Matrix Transpose and Powers.pdf",
     "pdf/Linear Systems/Linear Transformations.pdf",
-    "pdf/Linear Systems/Formulas.pdf",
     "Linear Equations/Inverse of a Matrix.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
-    "Linear Equations/Vocabulary.md",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
     "Linear Equations/pics/Matrix Multiplication-1.png",
