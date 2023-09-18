@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Systems/Parametric Vector Form.md",
-                "mode": "preview",
+                "file": "Linear Systems/Span.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Systems/Parametric Vector Form.md",
+                "file": "Linear Systems/Span.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Systems/Parametric Vector Form.md",
+                "file": "Linear Systems/Span.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Systems/Parametric Vector Form.md"
+                "file": "Linear Systems/Span.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "8fd27e68120cadfb",
   "lastOpenFiles": [
-    "Linear Systems/Echelon Form.md",
+    "Span.pdf",
+    "Linear Systems/Span.md",
     "Linear Systems/Parametric Vector Form.md",
+    "Linear Systems/Echelon Form.md",
     "Linear Systems/Matrix Vector Product.md",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "Linear Systems/Vectors in R.md",
@@ -176,7 +178,6 @@
     "Linear Systems/Linear Independence.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "pdf/Matrix Algebra/Consistent Systems.pdf",
-    "Linear Systems/Span.md",
     "Matrix Algebra/Formulas.md",
     "pdf/Matrix Algebra/Formulas.pdf",
     "test.md",
@@ -191,7 +192,6 @@
     "pdf/Matrix Algebra/Matrix Multiplication.pdf",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "pdf/Matrix Algebra/Matrix Transpose and Powers.pdf",
-    "pdf/Linear Systems/Linear Transformations.pdf",
     "Linear Equations/Inverse of a Matrix.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
     "pdf/Inverse of a Matrix.png",
