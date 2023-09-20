@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Vocabulary.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "8fd27e68120cadfb",
   "lastOpenFiles": [
-    "Vocabulary.md",
     "README.md",
+    "Vocabulary.md",
     "Linear Systems/Parametric Vector Form.md",
     "Linear Systems/Matrix Vector Product.md",
     "Parametric Vector Form.pdf",
