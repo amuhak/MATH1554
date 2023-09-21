@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Linear Systems/Row Operations.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Linear Systems/Row Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Linear Systems/Row Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Linear Systems/Row Operations.md"
               }
             }
           },
@@ -159,23 +159,23 @@
   },
   "active": "8fd27e68120cadfb",
   "lastOpenFiles": [
-    "README.md",
-    "Vocabulary.md",
-    "Linear Systems/Parametric Vector Form.md",
+    "Linear Systems/Echelon Form.md",
+    "Linear Systems/Existence and Uniqueness.md",
+    "Linear Systems/Homogeneous systems.md",
+    "Linear Systems/Linear Independence.md",
+    "Linear Systems/Linear Combinations.md",
+    "Linear Systems/Vectors in R.md",
+    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
+    "Linear Systems/Linear Transformations.md",
     "Linear Systems/Matrix Vector Product.md",
+    "Linear Systems/Parametric Vector Form.md",
+    "Vocabulary.md",
+    "README.md",
     "Parametric Vector Form.pdf",
     "Linear Systems/Span.md",
     "Span.pdf",
-    "Linear Systems/Echelon Form.md",
-    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
-    "Linear Systems/Vectors in R.md",
-    "Linear Systems/Linear Transformations.md",
     "Linear Systems/Consistent Systems.md",
     "Linear Systems/Row Operations.md",
-    "Linear Systems/Existence and Uniqueness.md",
-    "Linear Systems/Homogeneous systems.md",
-    "Linear Systems/Linear Combinations.md",
-    "Linear Systems/Linear Independence.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "pdf/Matrix Algebra/Consistent Systems.pdf",
     "Matrix Algebra/Formulas.md",
