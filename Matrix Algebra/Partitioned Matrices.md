@@ -6,7 +6,7 @@ A&= \begin{bmatrix} \begin{bmatrix} 1&0&0\\0&1&0\\0&0&1 \end{bmatrix} &\begin{bm
 &=\begin{bmatrix}  I_3 & U \\ V & X \end{bmatrix}
 \end{aligned}
 $$
-We can even perform matrix multiplication,
+We can even perform [[Matrix Multiplication|matrix multiplication]],
 $$\begin{bmatrix} 1&0&1\\0&1&1 \end{bmatrix} \begin{bmatrix} 2&-1\\0&-1\\0&1 \end{bmatrix}$$
 $$
 \begin{aligned}
@@ -18,3 +18,9 @@ $$
 \end{aligned}
 $$
 
+# [[Inverse of a Matrix|Find the Inverse]]
+Compute the inverse $\begin{bmatrix} A & B \\ 0 & C \end{bmatrix}$.
+
+$$
+\begin{bmatrix} A & B \\ 0 & C \end{bmatrix}\begin{bmatrix} W & X \\ Y & Z \end{bmatrix}=I=\begin{bmatrix} I_n & 0 \\ 0 & I_n \end{bmatrix}
+$$
