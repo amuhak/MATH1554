@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Systems/Row Operations.md",
-                "mode": "preview",
+                "file": "Matrix Algebra/Partitioned Matrices.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Systems/Row Operations.md",
+                "file": "Matrix Algebra/Partitioned Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Systems/Row Operations.md",
+                "file": "Matrix Algebra/Partitioned Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Systems/Row Operations.md"
+                "file": "Matrix Algebra/Partitioned Matrices.md"
               }
             }
           },
@@ -157,8 +158,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8fd27e68120cadfb",
+  "active": "52cda0946c10db9b",
   "lastOpenFiles": [
+    "Matrix Algebra/Matrix Transpose and Powers.md",
+    "Matrix Algebra/Partitioned Matrices.md",
+    "Linear Systems/Row Operations.md",
     "Linear Systems/Echelon Form.md",
     "Linear Systems/Existence and Uniqueness.md",
     "Linear Systems/Homogeneous systems.md",
@@ -175,7 +179,6 @@
     "Linear Systems/Span.md",
     "Span.pdf",
     "Linear Systems/Consistent Systems.md",
-    "Linear Systems/Row Operations.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "pdf/Matrix Algebra/Consistent Systems.pdf",
     "Matrix Algebra/Formulas.md",
@@ -190,7 +193,6 @@
     "pdf/Matrix Algebra/The Invertible Matrix Theorem.pdf",
     "Matrix Algebra/Matrix Multiplication.md",
     "pdf/Matrix Algebra/Matrix Multiplication.pdf",
-    "Matrix Algebra/Matrix Transpose and Powers.md",
     "pdf/Matrix Algebra/Matrix Transpose and Powers.pdf",
     "Linear Equations/Inverse of a Matrix.md",
     "Linear Equations/The Invertible Matrix Theorem.md",
