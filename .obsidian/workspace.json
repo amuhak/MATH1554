@@ -158,8 +158,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "52cda0946c10db9b",
+  "active": "8fd27e68120cadfb",
   "lastOpenFiles": [
+    "pdf/Matrix Algebra/Partitioned Matrices.pdf",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Partitioned Matrices.md",
     "Linear Systems/Row Operations.md",
@@ -195,7 +196,6 @@
     "pdf/Matrix Algebra/Matrix Multiplication.pdf",
     "pdf/Matrix Algebra/Matrix Transpose and Powers.pdf",
     "Linear Equations/Inverse of a Matrix.md",
-    "Linear Equations/The Invertible Matrix Theorem.md",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
     "Linear Equations/pics/Matrix Multiplication-1.png",
