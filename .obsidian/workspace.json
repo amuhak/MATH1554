@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Partitioned Matrices.md",
+                "file": "Matrix Algebra/LU Factorization.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Partitioned Matrices.md",
+                "file": "Matrix Algebra/LU Factorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Partitioned Matrices.md",
+                "file": "Matrix Algebra/LU Factorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Partitioned Matrices.md"
+                "file": "Matrix Algebra/LU Factorization.md"
               }
             }
           },
@@ -161,6 +160,7 @@
   "active": "8fd27e68120cadfb",
   "lastOpenFiles": [
     "Matrix Algebra/Partitioned Matrices.md",
+    "Matrix Algebra/LU Factorization.md",
     "pdf/Matrix Algebra/Partitioned Matrices.pdf",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Linear Systems/Row Operations.md",
