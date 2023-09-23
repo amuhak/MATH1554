@@ -159,8 +159,11 @@
   },
   "active": "8fd27e68120cadfb",
   "lastOpenFiles": [
-    "Matrix Algebra/Partitioned Matrices.md",
+    "LU Factorization-1.png",
+    "LU Factorization.png",
     "Matrix Algebra/LU Factorization.md",
+    "Matrix Algebra/Pics",
+    "Matrix Algebra/Partitioned Matrices.md",
     "pdf/Matrix Algebra/Partitioned Matrices.pdf",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Linear Systems/Row Operations.md",
@@ -193,8 +196,6 @@
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "pdf/Matrix Algebra/The Invertible Matrix Theorem.pdf",
     "Matrix Algebra/Matrix Multiplication.md",
-    "pdf/Matrix Algebra/Matrix Multiplication.pdf",
-    "Linear Equations/Inverse of a Matrix.md",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
     "Linear Equations/pics/Matrix Multiplication-1.png",
@@ -204,7 +205,6 @@
     "Linear Transformations.png",
     "Linear Equations/pics/Parametric Vector Form.png",
     "Linear Equations/pics/Homogeneous systems.png",
-    "Linear Equations/pics/Homogeneous systems-1.png",
     "Untitled.canvas"
   ]
 }
