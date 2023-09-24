@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md"
+                "file": "Matrix Algebra/Leontif Input-Output Model.md"
               }
             }
           },
@@ -159,12 +159,17 @@
   },
   "active": "8fd27e68120cadfb",
   "lastOpenFiles": [
-    "LU Factorization-2.png",
+    "Matrix Algebra/Leontif Input-Output Model.md",
     "Matrix Algebra/LU Factorization.md",
+    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
+    "LU Factorization-3.png",
+    "Matrix Algebra/Partitioned Matrices.md",
+    "pdf/Matrix Algebra/LU Factorization.pdf",
+    "Vocabulary.md",
+    "LU Factorization-2.png",
     "LU Factorization-1.png",
     "LU Factorization.png",
     "Matrix Algebra/Pics",
-    "Matrix Algebra/Partitioned Matrices.md",
     "pdf/Matrix Algebra/Partitioned Matrices.pdf",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Linear Systems/Row Operations.md",
@@ -174,11 +179,9 @@
     "Linear Systems/Linear Independence.md",
     "Linear Systems/Linear Combinations.md",
     "Linear Systems/Vectors in R.md",
-    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "Linear Systems/Linear Transformations.md",
     "Linear Systems/Matrix Vector Product.md",
     "Linear Systems/Parametric Vector Form.md",
-    "Vocabulary.md",
     "README.md",
     "Parametric Vector Form.pdf",
     "Linear Systems/Span.md",
@@ -195,7 +198,6 @@
     "Matrix Algebra/Inverse of a Matrix.md",
     "pdf/Matrix Algebra/Inverse of a Matrix.pdf",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
-    "pdf/Matrix Algebra/The Invertible Matrix Theorem.pdf",
     "Matrix Algebra/Matrix Multiplication.md",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
@@ -203,7 +205,6 @@
     "Linear Equations/pics/Matrix Multiplication.png",
     "Linear Equations/pics/Matrix Addition and Scalar Multiplication.png",
     "Linear Equations/pics/Matrix Addition and Scalar Multiplication-1.png",
-    "Linear Transformations.png",
     "Untitled.canvas"
   ]
 }

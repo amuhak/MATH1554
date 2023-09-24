@@ -33,6 +33,64 @@ $$
 
 Get [[LU Factorization#Computing LU|LU]]
 Then solve $L\vec{y}=\vec{b}$ for $\vec{y}$ 
-Finaly use that $\vec{y}$ to solve for $\vec{x}$ in $U\vec{x}=\vec{y}$
+Finally use that $\vec{y}$ to solve for $\vec{x}$ in $U\vec{x}=\vec{y}$
 
 # Computing LU
+**You are not allowed to swap rows.**
+Also [[Matrix Addition and Scalar Multiplication|Scalar Multiplication]] is not needed. 
+$$E_p \cdots E_1A = U$$
+$E_j$ are matrices that perform elementary row operations. Because we did not swap rows, each $E_j$ happens to be lower triangular and invertible
+
+$$
+\begin{equation*} 
+\begin{split}
+E_p \cdots E_1A &= U \\
+L E_p \cdots E_1A&= LU \\
+L L^{-1} A&= LU\\
+A&= LU
+\end{split}
+\end{equation*}
+$$
+$$\boxed{E_p \cdots E_1 = L^{-1} }$$
+To compute the $LU$ decomposition:
+1. Reduce $A$ to an echelon form $U$ by a sequence of row replacement operations, if possible.
+2. Place entries in $L$ such that the same sequence of row operations reduces $L$ to $I$.
+
+## Example
+Compute the $LU$ factorization of:
+$$
+A=
+\begin{bmatrix}
+4&-3&-1&5\\
+-16&12&2&-17\\
+8&-6&-12&22
+\end{bmatrix}
+$$
+Reducing it to [[Echelon Form|echelon form]] we get:
+$$\boxed
+{U=
+\begin{bmatrix}
+4&-3&-1&5\\
+0&0&-2&3\\
+0&0&0&-3
+\end{bmatrix}}
+$$
+To reduce it we use the fallowing row operations:
+$$
+\begin{equation*} 
+\begin{split}
+R_2&+\textcolor{red}{4}R_1 \\
+R_3&-\textcolor{blue}{2}R_1 \\
+R_3&-\textcolor{green}{5}R_2
+\end{split}
+\end{equation*}
+$$
+So $L$ will be such that the same sequence of row operations reduces $L$ to $I$.
+$$\boxed
+{L=
+\begin{bmatrix}
+1&0&0\\
+\textcolor{red}{-4}&1&0\\
+\textcolor{blue}{2}&\textcolor{green}{5}&1
+\end{bmatrix}}
+$$
