@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "c3f115b21212879c",
+        "id": "7f24a7c38d875438",
         "type": "tabs",
         "children": [
           {
-            "id": "4c2b7afec1a5b2dd",
+            "id": "208b8c5ae97b3bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87cf8c4c5e9e5e7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Matrix Algebra/LU Factorization.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md"
+                "file": "Matrix Algebra/Leontif Input-Output Model.md"
               }
             }
           },
@@ -157,12 +170,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4c2b7afec1a5b2dd",
+  "active": "208b8c5ae97b3bd0",
   "lastOpenFiles": [
-    "Matrix Algebra/Pics/LU Factorization.png",
+    "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Matrix Algebra/LU Factorization.md",
-    "LU Factorization-3.png",
     "Matrix Algebra/Leontif Input-Output Model.md",
+    "Leontif Input-Output Model.png",
+    "Matrix Algebra/Pics/LU Factorization.png",
+    "LU Factorization-3.png",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "LU Factorization-3.png",
     "Matrix Algebra/Partitioned Matrices.md",
@@ -203,7 +218,6 @@
     "Linear Equations/pics/Inverse of a Matrix.png",
     "Linear Equations/pics/Matrix Multiplication-1.png",
     "Linear Equations/pics/Matrix Multiplication.png",
-    "Linear Equations/pics/Matrix Addition and Scalar Multiplication.png",
     "Untitled.canvas"
   ]
 }
