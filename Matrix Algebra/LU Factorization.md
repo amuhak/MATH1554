@@ -31,3 +31,8 @@ $$
 ## Algorithm
 ![[LU Factorization-2.png]]
 
+Get [[LU Factorization#Computing LU|LU]]
+Then solve $L\vec{y}=\vec{b}$ for $\vec{y}$ 
+Finaly use that $\vec{y}$ to solve for $\vec{x}$ in $U\vec{x}=\vec{y}$
+
+# Computing LU

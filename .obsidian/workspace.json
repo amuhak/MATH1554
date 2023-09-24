@@ -11,9 +11,11 @@
             "id": "8fd27e68120cadfb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "LU Factorization-2.png"
+                "file": "Matrix Algebra/LU Factorization.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LU Factorization-2.png",
+                "file": "Matrix Algebra/LU Factorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LU Factorization-2.png",
+                "file": "Matrix Algebra/LU Factorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LU Factorization-2.png"
+                "file": "Matrix Algebra/LU Factorization.md"
               }
             }
           },
@@ -155,10 +157,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "52cda0946c10db9b",
+  "active": "8fd27e68120cadfb",
   "lastOpenFiles": [
-    "Matrix Algebra/LU Factorization.md",
     "LU Factorization-2.png",
+    "Matrix Algebra/LU Factorization.md",
     "LU Factorization-1.png",
     "LU Factorization.png",
     "Matrix Algebra/Pics",
