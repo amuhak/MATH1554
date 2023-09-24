@@ -29,8 +29,12 @@ LU
 \end{bmatrix}
 $$
 ## Algorithm
-![[LU Factorization-2.png]]
+To solve $A\vec{x}=\vec{b}$  for $\vec{x}$:
+1. Construct the $LU$ decomposition of $A$ to obtain $L$ and $U$.
+2. Set $U\vec{x}=\vec{y}$. Forward solve for $\vec{x}$ in $L\vec{y}=\vec{b}$.
+3. Backwards solve for $\vec{x}$ in $U\vec{x}=\vec{y}$.
 
+In other words:
 Get [[LU Factorization#Computing LU|LU]]
 Then solve $L\vec{y}=\vec{b}$ for $\vec{y}$ 
 Finally use that $\vec{y}$ to solve for $\vec{x}$ in $U\vec{x}=\vec{y}$
