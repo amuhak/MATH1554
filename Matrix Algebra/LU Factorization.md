@@ -17,7 +17,17 @@ If $A$ is an $m \times n$ matrix that can be row reduced to echelon form without
 For example the $LU$ factorization of $A \in \mathbb{R}^{3\times 2}$  would look like:
 
 $$
+A
+=
+LU
+=
 \begin{bmatrix}
 1&0&0 \\ *&1&0 \\ * & * & 1
 \end{bmatrix}
+\begin{bmatrix}
+*&* \\ 0&* \\ 0&0 
+\end{bmatrix}
 $$
+## Algorithm
+![[LU Factorization-2.png]]
+

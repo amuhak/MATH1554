@@ -11,11 +11,9 @@
             "id": "8fd27e68120cadfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
-                "mode": "source",
-                "source": false
+                "file": "LU Factorization-2.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "LU Factorization-2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "LU Factorization-2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md"
+                "file": "LU Factorization-2.png"
               }
             }
           },
@@ -157,11 +155,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8fd27e68120cadfb",
+  "active": "52cda0946c10db9b",
   "lastOpenFiles": [
+    "Matrix Algebra/LU Factorization.md",
+    "LU Factorization-2.png",
     "LU Factorization-1.png",
     "LU Factorization.png",
-    "Matrix Algebra/LU Factorization.md",
     "Matrix Algebra/Pics",
     "Matrix Algebra/Partitioned Matrices.md",
     "pdf/Matrix Algebra/Partitioned Matrices.pdf",
@@ -203,8 +202,6 @@
     "Linear Equations/pics/Matrix Addition and Scalar Multiplication.png",
     "Linear Equations/pics/Matrix Addition and Scalar Multiplication-1.png",
     "Linear Transformations.png",
-    "Linear Equations/pics/Parametric Vector Form.png",
-    "Linear Equations/pics/Homogeneous systems.png",
     "Untitled.canvas"
   ]
 }
