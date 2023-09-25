@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Matrix Multiplication.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "mode": "preview",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Matrix Multiplication.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Matrix Multiplication.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Matrix Multiplication.md"
+                "file": "Matrix Algebra/Leontif Input-Output Model.md"
               }
             }
           },
@@ -162,6 +160,8 @@
   "active": "b59c49f9aa3abb97",
   "lastOpenFiles": [
     "Matrix Algebra/LU Factorization.md",
+    "Matrix Algebra/Partitioned Matrices.md",
+    "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
     "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Leontif Input-Output Model.png",
@@ -169,7 +169,6 @@
     "LU Factorization-3.png",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "LU Factorization-3.png",
-    "Matrix Algebra/Partitioned Matrices.md",
     "pdf/Matrix Algebra/LU Factorization.pdf",
     "Vocabulary.md",
     "LU Factorization-2.png",
