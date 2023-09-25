@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d34349333766ac8",
+        "id": "a57c3d3712537437",
         "type": "tabs",
         "children": [
           {
-            "id": "b59c49f9aa3abb97",
+            "id": "d9d95e843ae09ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Leontif Input-Output Model.md",
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Leontif Input-Output Model.md",
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Leontif Input-Output Model.md",
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Leontif Input-Output Model.md"
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md"
               }
             }
           },
@@ -157,12 +157,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b59c49f9aa3abb97",
+  "active": "d9d95e843ae09ea0",
   "lastOpenFiles": [
+    "Matrix Algebra/Inverse of a Matrix.md",
     "Matrix Algebra/LU Factorization.md",
+    "pdf/Vocabulary.pdf",
+    "Matrix Algebra/Leontif Input-Output Model.md",
     "Matrix Algebra/Partitioned Matrices.md",
     "Matrix Algebra/Matrix Multiplication.md",
-    "Matrix Algebra/Leontif Input-Output Model.md",
     "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Leontif Input-Output Model.png",
     "Matrix Algebra/Pics/LU Factorization.png",
@@ -196,11 +198,8 @@
     "Matrix Algebra/Formulas.md",
     "pdf/Matrix Algebra/Formulas.pdf",
     "test.md",
-    "pdf/Vocabulary.pdf",
     "Matrix Algebra/Elementary Matrices.md",
     "pdf/Matrix Algebra/Elementary Matrices.pdf",
-    "Matrix Algebra/Inverse of a Matrix.md",
-    "Matrix Algebra/The Invertible Matrix Theorem.md",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
     "Linear Equations/pics/Matrix Multiplication-1.png",
