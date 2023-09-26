@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Leontif Input-Output Model.md",
+                "file": "Matrix Algebra/LU Factorization.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Leontif Input-Output Model.md",
+                "file": "Matrix Algebra/LU Factorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Leontif Input-Output Model.md",
+                "file": "Matrix Algebra/LU Factorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Leontif Input-Output Model.md"
+                "file": "Matrix Algebra/LU Factorization.md"
               }
             }
           },
@@ -159,12 +159,12 @@
   },
   "active": "d9d95e843ae09ea0",
   "lastOpenFiles": [
-    "Matrix Algebra/LU Factorization.md",
+    "Matrix Algebra/Partitioned Matrices.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
+    "Matrix Algebra/LU Factorization.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Inverse of a Matrix.md",
     "pdf/Vocabulary.pdf",
-    "Matrix Algebra/Partitioned Matrices.md",
     "Matrix Algebra/Matrix Multiplication.md",
     "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Leontif Input-Output Model.png",
