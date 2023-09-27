@@ -8,7 +8,24 @@ $(x,y) \rightarrow (x+h,y+k)$ can be represented by,
 
 Now rotate a triangle ($(1,1),(2,4),(3,1)$) by $\frac{\pi}{2}$ radians counterclockwise about the point $(0,1)$.
 $$
-\being{aligned}
-d= \\``
+\begin{aligned}
+d&=
+\begin{bmatrix}
+1&2&3\\
+1&4&1\\
+1&1&1
+\end{bmatrix}\\
+\text{Shift up by 1},\\
+\begin{bmatrix}
+1&0&0\\
+0&1&-1\\
+0&0&1
+\end{bmatrix}d&=
+\begin{bmatrix}
+1&2&3\\
+0&3&0\\
+1&1&1
+\end{bmatrix}\\
+
 \end{aligned}
 $$
