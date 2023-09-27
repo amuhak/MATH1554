@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Matrix Multiplication.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b4bfcb32f484001",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Matrix Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Matrix Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md"
+                "file": "Matrix Algebra/Matrix Multiplication.md"
               }
             }
           },
@@ -157,8 +168,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d9d95e843ae09ea0",
+  "active": "0b4bfcb32f484001",
   "lastOpenFiles": [
+    "Matrix Algebra/Inverse of a Matrix.md",
+    "Matrix Algebra/The Invertible Matrix Theorem.md",
+    "Matrix Algebra/Homogeneous Coordinates.md",
     "Linear Systems/Row Operations.md",
     "Linear Systems/Echelon Form.md",
     "Linear Systems/Existence and Uniqueness.md",
@@ -173,10 +187,7 @@
     "Linear Systems/Matrix Vector Product.md",
     "Linear Systems/Parametric Vector Form.md",
     "Linear Systems/Span.md",
-    "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Formulas.md",
-    "Matrix Algebra/Inverse of a Matrix.md",
-    "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Partitioned Matrices.md",
