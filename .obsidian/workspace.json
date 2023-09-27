@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md"
+                "file": "Matrix Algebra/Formulas.md"
               }
             }
           },
@@ -159,11 +159,12 @@
   },
   "active": "d9d95e843ae09ea0",
   "lastOpenFiles": [
+    "Matrix Algebra/Homogeneous Coordinates.md",
+    "Matrix Algebra/Formulas.md",
     "Homogeneous Coordinates.png",
     "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Inverse of a Matrix.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
-    "Matrix Algebra/Homogeneous Coordinates.md",
     "Linear Systems/Row Operations.md",
     "Linear Systems/Echelon Form.md",
     "Linear Systems/Existence and Uniqueness.md",
@@ -178,7 +179,6 @@
     "Linear Systems/Matrix Vector Product.md",
     "Linear Systems/Parametric Vector Form.md",
     "Linear Systems/Span.md",
-    "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Partitioned Matrices.md",
     "Matrix Algebra/LU Factorization.md",
@@ -204,7 +204,6 @@
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
     "Linear Equations/pics/Matrix Multiplication-1.png",
-    "Linear Equations/pics/Matrix Multiplication.png",
     "Untitled.canvas"
   ]
 }
