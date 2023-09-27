@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
-                "mode": "preview",
+                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Matrix Algebra/Homogeneous Coordinates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Matrix Algebra/Homogeneous Coordinates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md"
+                "file": "Matrix Algebra/Homogeneous Coordinates.md"
               }
             }
           },
@@ -159,26 +159,6 @@
   },
   "active": "d9d95e843ae09ea0",
   "lastOpenFiles": [
-    "Matrix Algebra/Partitioned Matrices.md",
-    "Matrix Algebra/Leontif Input-Output Model.md",
-    "Matrix Algebra/LU Factorization.md",
-    "Matrix Algebra/The Invertible Matrix Theorem.md",
-    "Matrix Algebra/Inverse of a Matrix.md",
-    "pdf/Vocabulary.pdf",
-    "Matrix Algebra/Matrix Multiplication.md",
-    "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
-    "Leontif Input-Output Model.png",
-    "Matrix Algebra/Pics/LU Factorization.png",
-    "LU Factorization-3.png",
-    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
-    "LU Factorization-3.png",
-    "pdf/Matrix Algebra/LU Factorization.pdf",
-    "Vocabulary.md",
-    "LU Factorization-2.png",
-    "Matrix Algebra/Pics/LU Factorization-1.png",
-    "Matrix Algebra/Pics",
-    "pdf/Matrix Algebra/Partitioned Matrices.pdf",
-    "Matrix Algebra/Matrix Transpose and Powers.md",
     "Linear Systems/Row Operations.md",
     "Linear Systems/Echelon Form.md",
     "Linear Systems/Existence and Uniqueness.md",
@@ -186,20 +166,40 @@
     "Linear Systems/Linear Independence.md",
     "Linear Systems/Linear Combinations.md",
     "Linear Systems/Vectors in R.md",
+    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "Linear Systems/Linear Transformations.md",
+    "Linear Systems/Row Reduction Algorithm.md",
+    "Linear Systems/Consistent Systems.md",
     "Linear Systems/Matrix Vector Product.md",
     "Linear Systems/Parametric Vector Form.md",
+    "Linear Systems/Span.md",
+    "Matrix Algebra/Homogeneous Coordinates.md",
+    "Matrix Algebra/Formulas.md",
+    "Matrix Algebra/Inverse of a Matrix.md",
+    "Matrix Algebra/The Invertible Matrix Theorem.md",
+    "Matrix Algebra/Matrix Multiplication.md",
+    "Matrix Algebra/Matrix Transpose and Powers.md",
+    "Matrix Algebra/Partitioned Matrices.md",
+    "Matrix Algebra/LU Factorization.md",
+    "Matrix Algebra/Leontif Input-Output Model.md",
+    "Matrix Algebra/Elementary Matrices.md",
+    "pdf/Vocabulary.pdf",
+    "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
+    "Leontif Input-Output Model.png",
+    "Matrix Algebra/Pics/LU Factorization.png",
+    "LU Factorization-3.png",
+    "LU Factorization-3.png",
+    "pdf/Matrix Algebra/LU Factorization.pdf",
+    "Vocabulary.md",
+    "LU Factorization-2.png",
+    "Matrix Algebra/Pics/LU Factorization-1.png",
+    "Matrix Algebra/Pics",
+    "pdf/Matrix Algebra/Partitioned Matrices.pdf",
     "README.md",
     "Parametric Vector Form.pdf",
-    "Linear Systems/Span.md",
     "Span.pdf",
-    "Linear Systems/Consistent Systems.md",
-    "Linear Systems/Row Reduction Algorithm.md",
     "pdf/Matrix Algebra/Consistent Systems.pdf",
-    "Matrix Algebra/Formulas.md",
     "pdf/Matrix Algebra/Formulas.pdf",
-    "test.md",
-    "Matrix Algebra/Elementary Matrices.md",
     "pdf/Matrix Algebra/Elementary Matrices.pdf",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
