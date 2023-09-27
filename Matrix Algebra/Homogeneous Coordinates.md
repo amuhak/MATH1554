@@ -9,6 +9,6 @@ $(x,y) \rightarrow (x+h,y+k)$ can be represented by,
 Now rotate a triangle ($(1,1),(2,4),(3,1)$) by $\frac{\pi}{2}$ radians counterclockwise about the point $(0,1)$.
 $$
 \being{aligned}
-d= \\
+d= \\``
 \end{aligned}
 $$
