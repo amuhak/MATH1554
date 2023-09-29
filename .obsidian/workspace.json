@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md",
+                "file": "Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -160,6 +159,7 @@
   },
   "active": "2a7ef68d3851e12a",
   "lastOpenFiles": [
+    "Matrix Algebra/Subsets and Subspaces.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Linear Systems/Linear Transformations.md",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
@@ -169,7 +169,6 @@
     "Linear Systems/Homogeneous systems.md",
     "Linear Systems/Matrix Vector Product.md",
     "Homogeneous Coordinates-1.png",
-    "Matrix Algebra/Subsets and Subspaces.md",
     "pdf/Matrix Algebra/Homogeneous Coordinates.pdf",
     "Matrix Algebra/Formulas.md",
     "Homogeneous Coordinates.png",
