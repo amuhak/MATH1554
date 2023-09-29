@@ -15,7 +15,7 @@ d&=
 1&4&1\\
 1&1&1
 \end{bmatrix}\\
-\text{Shift up by 1},\\
+\text{Shift down by 1},\\
 \begin{bmatrix}
 1&0&0\\
 0&1&-1\\
@@ -26,6 +26,86 @@ d&=
 0&3&0\\
 1&1&1
 \end{bmatrix}\\
-
+\text{Now rotate,}\\
+\begin{bmatrix}
+0&-1&0\\
+1&0&0\\
+0&0&1
+\end{bmatrix}
+\begin{bmatrix}
+1&0&0\\
+0&1&-1\\
+0&0&1
+\end{bmatrix}&=
+\begin{bmatrix}
+0&-3&0\\
+1&2&3\\
+1&1&1
+\end{bmatrix}\\
+\text{Shift up by 1},\\
+\begin{bmatrix}
+1&0&0\\
+0&1&1\\
+0&0&1
+\end{bmatrix}\begin{bmatrix}
+0&-3&0\\
+1&2&3\\
+1&1&1
+\end{bmatrix}&=
+\begin{bmatrix}
+0&-3&0\\
+2&3&4\\
+1&1&1
+\end{bmatrix}
 \end{aligned}
+$$
+
+This give us the points, $(0,2),(-3,3),(0,4)$
+
+# In $\mathbb{R}^3$
+
+So, $(x,y,z) \rightarrow (x+h,y+k,z+l)$ can be represented by, 
+![[Homogeneous Coordinates-1.png|500]]
+
+
+## Rotation in $\mathbb{R}^3$ 
+about $x_2$-axis by $\pi$ rads.
+To find $A=(a_1,a_2,a_3)$. We can find $T(e_1)$ as $T(e_1)=Ae_1=a_1$. We can similarly find all the columns of $A$.
+
+$$
+\begin{aligned}
+T(e_1)&=\begin{bmatrix} -1 \\ 0 \\0 \end{bmatrix}\\
+T(e_2)&=\begin{bmatrix} 0 \\ 1 \\0 \end{bmatrix}\\
+T(e_3)&=\begin{bmatrix} 0 \\ 0 \\ -1 \end{bmatrix}\\
+A&=\begin{bmatrix} -1&0&0 \\ 0&1&0 \\0&0&-1 \end{bmatrix}\\
+\end{aligned}
+$$
+
+## Projection
+Onto the plane $x_3=4$
+What should we do?
+1. Shift everything down by 4 (Homogeneous Coordinates)
+2. Apply the projection
+3. Shift everything back up by 4 (Homogeneous Coordinates)
+Amusing a vector $\vec{v}$,
+$$
+\begin{bmatrix}
+1&0&0&0\\
+0&1&0&0\\
+0&0&1&4\\
+0&0&0&1
+\end{bmatrix}
+\begin{bmatrix}
+1&0&0&0\\
+0&1&0&0\\
+0&0&0&0\\
+0&0&0&0
+\end{bmatrix}
+\begin{bmatrix}
+1&0&0&0\\
+0&1&0&0\\
+0&0&1&-4\\
+0&0&0&1
+\end{bmatrix}
+\vec{v}
 $$

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a57c3d3712537437",
+        "id": "7fc30f6dbb1e5e21",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d95e843ae09ea0",
+            "id": "2a7ef68d3851e12a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Subsets and Subspaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Subsets and Subspaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Subsets and Subspaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md"
+                "file": "Matrix Algebra/Subsets and Subspaces.md"
               }
             }
           },
@@ -157,10 +158,20 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d9d95e843ae09ea0",
+  "active": "2a7ef68d3851e12a",
   "lastOpenFiles": [
-    "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
+    "Linear Systems/Linear Transformations.md",
+    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
+    "Linear Systems/Vectors in R.md",
+    "Linear Systems/Linear Combinations.md",
+    "Linear Systems/Linear Independence.md",
+    "Linear Systems/Homogeneous systems.md",
+    "Linear Systems/Matrix Vector Product.md",
+    "Homogeneous Coordinates-1.png",
+    "Matrix Algebra/Subsets and Subspaces.md",
+    "pdf/Matrix Algebra/Homogeneous Coordinates.pdf",
+    "Matrix Algebra/Formulas.md",
     "Homogeneous Coordinates.png",
     "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Inverse of a Matrix.md",
@@ -168,15 +179,8 @@
     "Linear Systems/Row Operations.md",
     "Linear Systems/Echelon Form.md",
     "Linear Systems/Existence and Uniqueness.md",
-    "Linear Systems/Homogeneous systems.md",
-    "Linear Systems/Linear Independence.md",
-    "Linear Systems/Linear Combinations.md",
-    "Linear Systems/Vectors in R.md",
-    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
-    "Linear Systems/Linear Transformations.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "Linear Systems/Consistent Systems.md",
-    "Linear Systems/Matrix Vector Product.md",
     "Linear Systems/Parametric Vector Form.md",
     "Linear Systems/Span.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
@@ -191,7 +195,6 @@
     "LU Factorization-3.png",
     "LU Factorization-3.png",
     "pdf/Matrix Algebra/LU Factorization.pdf",
-    "Vocabulary.md",
     "LU Factorization-2.png",
     "Matrix Algebra/Pics/LU Factorization-1.png",
     "Matrix Algebra/Pics",
@@ -200,10 +203,8 @@
     "Span.pdf",
     "pdf/Matrix Algebra/Consistent Systems.pdf",
     "pdf/Matrix Algebra/Formulas.pdf",
-    "pdf/Matrix Algebra/Elementary Matrices.pdf",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
-    "Linear Equations/pics/Matrix Multiplication-1.png",
     "Untitled.canvas"
   ]
 }
