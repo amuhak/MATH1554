@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fc30f6dbb1e5e21",
+        "id": "fb0d476d3e8a54e5",
         "type": "tabs",
         "children": [
           {
-            "id": "2a7ef68d3851e12a",
+            "id": "eb93c37d6ccc8ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md",
+                "file": "Matrix Algebra/Column Space and Null Space.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md",
+                "file": "Matrix Algebra/Column Space and Null Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md",
+                "file": "Matrix Algebra/Column Space and Null Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md"
+                "file": "Matrix Algebra/Column Space and Null Space.md"
               }
             }
           },
@@ -157,13 +157,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "2a7ef68d3851e12a",
+  "active": "eb93c37d6ccc8ac5",
   "lastOpenFiles": [
-    "Vocabulary.md",
+    "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/Subsets and Subspaces.md",
+    "Matrix Algebra/Homogeneous Coordinates.md",
+    "Vocabulary.md",
     "pdf/Matrix Algebra/Subsets and Subspaces.pdf",
     "Matrix Algebra/Pics/Leontif Input-Output Model.png",
-    "Matrix Algebra/Homogeneous Coordinates.md",
     "Linear Systems/Linear Transformations.md",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "Linear Systems/Vectors in R.md",
