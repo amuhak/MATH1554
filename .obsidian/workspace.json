@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vocabulary.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -159,6 +159,7 @@
   },
   "active": "2a7ef68d3851e12a",
   "lastOpenFiles": [
+    "Vocabulary.md",
     "Matrix Algebra/Subsets and Subspaces.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Linear Systems/Linear Transformations.md",
