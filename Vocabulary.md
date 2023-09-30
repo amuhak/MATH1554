@@ -15,12 +15,13 @@
 | Image | The vector $T(\vec{x})$ is the image of $\vec{x}$ under $T$ |
 | Range | The set of all possible images $T(\vec{x})$ or simply the **span of A** |
 | Standard vectors| The column of the identity matrix (think $\begin{bmatrix}1 \\ 0\end{bmatrix}$ and $\begin{bmatrix} 0 \\ 1\end{bmatrix}$)|
-| Onto | All the elements in the codomain are mapped to. (A spans the entire codomain), Every **row** is pivital |
-| One-To-One | Each mapping is unique (2 vectors can **NOT** map to the same vector), Every **column** is pivital|
+| Onto | All the elements in the codomain are mapped to. (A spans the entire codomain), Every **row** is pivotal |
+| One-To-One | Each mapping is unique (2 vectors can **NOT** map to the same vector), Every **column** is pivotal|
 | Transpose | The matrix whose columns are the rows of $A$ |
 | Invertible | $A \in \mathbb{R}^{n \times n}$ is invertible if there is a $C \in \mathbb{R}^{n \times n}$ such that: $AC=CA=I_n$ |
 | Elementary Matrix | Differs from $I_n$ by one row operation. |
 | Singular | A matrix that is not invertible ($A^{-1}$ DNE)|
 | Subset | A subset of $\mathbb{R}^n$ any collection of vectors that are in $\mathbb{R}^n$ |
-| Subspace |  |
+| Subspace | If $H \in \mathbb{R}^n$, for $c \in \mathbb{R}$ and $\vec{u},\vec{v} \in H$, $c\vec{u} \in H$ and $\vec{u}+\vec{v} \in H$ must be true if $H$ is a subspace. |
+
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Subsets and Subspaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Subsets and Subspaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Subsets and Subspaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md"
+                "file": "Matrix Algebra/Subsets and Subspaces.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   "lastOpenFiles": [
     "Vocabulary.md",
     "Matrix Algebra/Subsets and Subspaces.md",
+    "pdf/Matrix Algebra/Subsets and Subspaces.pdf",
+    "Matrix Algebra/Pics/Leontif Input-Output Model.png",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Linear Systems/Linear Transformations.md",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
@@ -169,10 +171,10 @@
     "Linear Systems/Linear Independence.md",
     "Linear Systems/Homogeneous systems.md",
     "Linear Systems/Matrix Vector Product.md",
-    "Homogeneous Coordinates-1.png",
+    "Matrix Algebra/Pics/Homogeneous Coordinates-1.png",
     "pdf/Matrix Algebra/Homogeneous Coordinates.pdf",
     "Matrix Algebra/Formulas.md",
-    "Homogeneous Coordinates.png",
+    "Matrix Algebra/Pics/Homogeneous Coordinates.png",
     "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Inverse of a Matrix.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
@@ -187,10 +189,8 @@
     "Matrix Algebra/Partitioned Matrices.md",
     "Matrix Algebra/LU Factorization.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
-    "Matrix Algebra/Elementary Matrices.md",
     "pdf/Vocabulary.pdf",
     "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
-    "Leontif Input-Output Model.png",
     "Matrix Algebra/Pics/LU Factorization.png",
     "LU Factorization-3.png",
     "LU Factorization-3.png",
@@ -202,7 +202,6 @@
     "Parametric Vector Form.pdf",
     "Span.pdf",
     "pdf/Matrix Algebra/Consistent Systems.pdf",
-    "pdf/Matrix Algebra/Formulas.pdf",
     "pdf/Inverse of a Matrix.png",
     "Linear Equations/pics/Inverse of a Matrix.png",
     "Untitled.canvas"
