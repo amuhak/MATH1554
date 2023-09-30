@@ -109,3 +109,4 @@ $$
 \end{bmatrix}
 \vec{v}
 $$
+You could drive the matrix but that is trivial and left as an exercise to the reader. (lol I had to do it)
