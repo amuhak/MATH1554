@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fb0d476d3e8a54e5",
+        "id": "cca2716eddd672e7",
         "type": "tabs",
         "children": [
           {
-            "id": "eb93c37d6ccc8ac5",
+            "id": "2ebd92c6183fdf6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matrix Algebra/Subsets and Subspaces.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,14 +146,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "flowershow:Publish with Flowershow": false
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "eb93c37d6ccc8ac5",
+  "active": "2ebd92c6183fdf6b",
   "lastOpenFiles": [
-    "Pasted image 20230930235714.png",
     "Matrix Algebra/Subsets and Subspaces.md",
+    "Pasted image 20230930235714.png",
     "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Vocabulary.md",
