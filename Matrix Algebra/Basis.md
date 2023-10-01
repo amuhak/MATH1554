@@ -17,4 +17,17 @@ x_2\begin{bmatrix} 3 \\ 1 \\ 0 \\ 0 \end{bmatrix}+x_3\begin{bmatrix} 5 \\ 0 \\ 1
 $$
 This is the basis of the null space of $H$ due to the equation being $x_1 - 3x_2 - 5x_3 + 7x_4 = \color{Red}{0}$.
 
-Now say 
+# Basis of the Null Space
+
+Now say we wish to find the basis of the null space of $A$ 
+We can:
+1. Convert it into a $A \vec{x}=0$ form.
+2. Convert that into [[Parametric Vector Form]]
+3. The set of the vectors in parametric vector form is the basis of the null space.
+
+# Basis of the Column Space
+
+Say we wish to find the basis of the column space of $A$
+We could:
+1. Find the pivot columns of $A$.
+2. The set of the pivot columns of $A$ is the basis of the column space.
