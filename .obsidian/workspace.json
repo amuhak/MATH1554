@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Column Space and Null Space.md",
+                "file": "Matrix Algebra/Basis.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vocabulary.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "parame",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Column Space and Null Space.md",
+                "file": "Matrix Algebra/Basis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Column Space and Null Space.md",
+                "file": "Matrix Algebra/Basis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Column Space and Null Space.md"
+                "file": "Matrix Algebra/Basis.md"
               }
             }
           },
@@ -172,11 +172,13 @@
   "active": "2ebd92c6183fdf6b",
   "lastOpenFiles": [
     "Vocabulary.md",
-    "Matrix Algebra/Column Space and Null Space.md",
-    "pdf/Matrix Algebra/Column Space and Null Space.pdf",
-    "Matrix Algebra/Subsets and Subspaces.md",
-    "Pasted image 20230930235714.png",
     "Matrix Algebra/Homogeneous Coordinates.md",
+    "Matrix Algebra/Basis.md",
+    "Matrix Algebra/Subsets and Subspaces.md",
+    "Matrix Algebra/Column Space and Null Space.md",
+    "Linear Systems/Parametric Vector Form.md",
+    "pdf/Matrix Algebra/Column Space and Null Space.pdf",
+    "Pasted image 20230930235714.png",
     "pdf/Matrix Algebra/Subsets and Subspaces.pdf",
     "Matrix Algebra/Pics/Leontif Input-Output Model.png",
     "Linear Systems/Linear Transformations.md",
@@ -198,7 +200,6 @@
     "Linear Systems/Existence and Uniqueness.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "Linear Systems/Consistent Systems.md",
-    "Linear Systems/Parametric Vector Form.md",
     "Linear Systems/Span.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Partitioned Matrices.md",

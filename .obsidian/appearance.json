@@ -3,5 +3,6 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "Justify"
-  ]
+  ],
+  "theme": "system"
 }
