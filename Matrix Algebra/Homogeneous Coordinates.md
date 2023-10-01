@@ -85,7 +85,7 @@ $$
 Onto the plane $x_3=4$
 What should we do?
 1. Shift everything down by 4 (Homogeneous Coordinates)
-2. Apply the projection
+2. Apply the projection (Homogeneous Coordinates)
 3. Shift everything back up by 4 (Homogeneous Coordinates)
 Amusing a vector $\vec{v}$,
 $$
