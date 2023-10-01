@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Column Space and Null Space.md",
+                "file": "Matrix Algebra/Subsets and Subspaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Column Space and Null Space.md",
+                "file": "Matrix Algebra/Subsets and Subspaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Column Space and Null Space.md",
+                "file": "Matrix Algebra/Subsets and Subspaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Column Space and Null Space.md"
+                "file": "Matrix Algebra/Subsets and Subspaces.md"
               }
             }
           },
@@ -154,11 +154,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "flowershow:Publish with Flowershow": false
     }
   },
   "active": "eb93c37d6ccc8ac5",
   "lastOpenFiles": [
+    "Pasted image 20230930235714.png",
     "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/Subsets and Subspaces.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
@@ -189,7 +191,6 @@
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Partitioned Matrices.md",
     "Matrix Algebra/LU Factorization.md",
-    "Matrix Algebra/Leontif Input-Output Model.md",
     "pdf/Vocabulary.pdf",
     "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Matrix Algebra/Pics/LU Factorization.png",
