@@ -23,5 +23,6 @@
 | Singular | A matrix that is not invertible ($A^{-1}$ DNE)|
 | Subset | A subset of $\mathbb{R}^n$ any collection of vectors that are in $\mathbb{R}^n$ |
 | Subspace | If $H \in \mathbb{R}^n$, for $c \in \mathbb{R}$ and $\vec{u},\vec{v} \in H$, $c\vec{u} \in H$ and $\vec{u}+\vec{v} \in H$ must be true if $H$ is a subspace. |
-
+| Column Space | This is a subspace spanned by the column of $A$. |
+| Null Space | This is a subspace spanned by all $\vec{x}$ such that $A\vec{x}=\vec{0}$. |
 
