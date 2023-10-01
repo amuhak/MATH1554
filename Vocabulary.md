@@ -25,4 +25,4 @@
 | Subspace | If $H \in \mathbb{R}^n$, for $c \in \mathbb{R}$ and $\vec{u},\vec{v} \in H$, $c\vec{u} \in H$ and $\vec{u}+\vec{v} \in H$ must be true if $H$ is a subspace. |
 | Column Space | This is a subspace spanned by the column of $A$. |
 | Null Space | This is a subspace spanned by all $\vec{x}$ such that $A\vec{x}=\vec{0}$. |
-
+| Basis | This is a set of linearly independent vectors in $H$ that spans $H$ assuming $H$ is a subspace.|
