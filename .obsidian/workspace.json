@@ -172,8 +172,9 @@
   "active": "2ebd92c6183fdf6b",
   "lastOpenFiles": [
     "Vocabulary.md",
-    "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Basis.md",
+    "pdf/Matrix Algebra/Basis.pdf",
+    "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Subsets and Subspaces.md",
     "Matrix Algebra/Column Space and Null Space.md",
     "Linear Systems/Parametric Vector Form.md",
@@ -203,7 +204,6 @@
     "Linear Systems/Span.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Partitioned Matrices.md",
-    "Matrix Algebra/LU Factorization.md",
     "pdf/Vocabulary.pdf",
     "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Matrix Algebra/Pics/LU Factorization.png",
@@ -215,7 +215,6 @@
     "Matrix Algebra/Pics",
     "pdf/Matrix Algebra/Partitioned Matrices.pdf",
     "Parametric Vector Form.pdf",
-    "Span.pdf",
     "pdf/Inverse of a Matrix.png",
     "Untitled.canvas"
   ]
