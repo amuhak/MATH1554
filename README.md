@@ -7,7 +7,7 @@ If you want to say thank you ⭐ the repo ❤️.
 ***
 # Contribute
 
-Feel free to make a pull request to contribute! I will take care of compiling the markdown files to a $\LaTeX$ PDF 
+Feel free to make a pull request to contribute! I will take care of compiling the markdown files to a $\LaTeX$ PDF.
 
 [Look here to see how](https://youtu.be/fKDBYrV8rcs)
 

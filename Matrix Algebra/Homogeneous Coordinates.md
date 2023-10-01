@@ -109,4 +109,14 @@ $$
 \end{bmatrix}
 \vec{v}
 $$
-You could drive the matrix but that is trivial and left as an exercise to the reader. (lol I had to do it)
+~~You could drive the matrix but that is trivial and left as an exercise to the reader.~~
+$$
+\begin{bmatrix}
+1 & 0 & 0 & 0\\ 
+0 & 1 & 0 & 0\\ 
+0 & 0 & 0 & 4\\ 
+0 & 0 & 0 & 1
+\end{bmatrix}
+\vec{v}
+$$
+
