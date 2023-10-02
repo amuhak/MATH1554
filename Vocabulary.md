@@ -28,4 +28,5 @@
 | Basis | This is a set of linearly independent vectors in $H$ that spans $H$ assuming $H$ is a subspace.|
 | Coordinate Vector | These are the vectors that are used to describe the coordinate systems. |
 | Coordinates | These are the weights of the coordinate vector used to describe the point.  |
-|  |  |
+| Dimension | This is the number of vectors in a basis of $H$. |
+| Cardinality | Same thing as Dimension |
