@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Vocabulary.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "50589d669120156c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Basis.md"
+                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md"
               }
             }
           },
@@ -157,19 +170,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "3d3831f19c69fc09",
+  "active": "50589d669120156c",
   "lastOpenFiles": [
-    "Matrix Algebra/Coordinates, Dimension, and Rank.md",
-    "Linear Systems/Linear Transformations.md",
+    "Matrix Algebra/Basis.md",
     "Vocabulary.md",
+    "Matrix Algebra/Homogeneous Coordinates.md",
+    "Matrix Algebra/Coordinates, Dimension, and Rank.md",
+    "Matrix Algebra/Column Space and Null Space.md",
+    "Linear Systems/Linear Transformations.md",
     "pdf/Matrix Algebra/Coordinates, Dimension, and Rank.pdf",
     "Coordinates, Dimension, and Rank.png",
-    "Matrix Algebra/Homogeneous Coordinates.md",
-    "Matrix Algebra/Basis.md",
     "README.md",
     "pdf/Matrix Algebra/Basis.pdf",
     "Matrix Algebra/Subsets and Subspaces.md",
-    "Matrix Algebra/Column Space and Null Space.md",
     "Linear Systems/Parametric Vector Form.md",
     "pdf/Matrix Algebra/Column Space and Null Space.pdf",
     "Pasted image 20230930235714.png",
