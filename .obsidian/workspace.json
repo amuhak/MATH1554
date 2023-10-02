@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b63c6031abfb7c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix Algebra/Basis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0d3e4817f4541a73",
             "type": "leaf",
             "state": {
@@ -30,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b63c6031abfb7c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -172,10 +172,11 @@
   },
   "active": "0d3e4817f4541a73",
   "lastOpenFiles": [
+    "Coordinates, Dimension, and Rank.png",
     "Vocabulary.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
-    "Matrix Algebra/Basis.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
+    "Matrix Algebra/Basis.md",
     "README.md",
     "pdf/Matrix Algebra/Basis.pdf",
     "Matrix Algebra/Subsets and Subspaces.md",
@@ -205,7 +206,6 @@
     "Linear Systems/Row Reduction Algorithm.md",
     "Linear Systems/Consistent Systems.md",
     "Linear Systems/Span.md",
-    "Matrix Algebra/Matrix Transpose and Powers.md",
     "pdf/Vocabulary.pdf",
     "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Matrix Algebra/Pics/LU Factorization.png",
