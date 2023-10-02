@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md"
               }
             }
           },
@@ -172,9 +172,10 @@
   },
   "active": "0d3e4817f4541a73",
   "lastOpenFiles": [
+    "Vocabulary.md",
+    "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Matrix Algebra/Basis.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
-    "Vocabulary.md",
     "README.md",
     "pdf/Matrix Algebra/Basis.pdf",
     "Matrix Algebra/Subsets and Subspaces.md",
@@ -205,7 +206,6 @@
     "Linear Systems/Consistent Systems.md",
     "Linear Systems/Span.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
-    "Matrix Algebra/Partitioned Matrices.md",
     "pdf/Vocabulary.pdf",
     "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Matrix Algebra/Pics/LU Factorization.png",
