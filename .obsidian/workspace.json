@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/The Invertible Matrix Theorem.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -170,8 +169,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "50589d669120156c",
+  "active": "3d3831f19c69fc09",
   "lastOpenFiles": [
+    "Matrix Algebra/Leontif Input-Output Model.md",
+    "Matrix Algebra/LU Factorization.md",
+    "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Inverse of a Matrix.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Vocabulary.md",
@@ -200,13 +202,11 @@
     "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Pics/Homogeneous Coordinates.png",
     "Matrix Algebra/Matrix Multiplication.md",
-    "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Linear Systems/Row Operations.md",
     "Linear Systems/Echelon Form.md",
     "Linear Systems/Existence and Uniqueness.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "Linear Systems/Consistent Systems.md",
-    "Linear Systems/Span.md",
     "pdf/Vocabulary.pdf",
     "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Matrix Algebra/Pics/LU Factorization.png",
