@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md",
-                "mode": "source",
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sin",
+                "query": "invert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md",
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md",
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Coordinates, Dimension, and Rank.md"
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md"
               }
             }
           },
@@ -172,10 +172,11 @@
   },
   "active": "50589d669120156c",
   "lastOpenFiles": [
-    "Matrix Algebra/Basis.md",
-    "Vocabulary.md",
-    "Matrix Algebra/Homogeneous Coordinates.md",
+    "Matrix Algebra/Inverse of a Matrix.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
+    "Vocabulary.md",
+    "Matrix Algebra/Basis.md",
+    "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Column Space and Null Space.md",
     "Linear Systems/Linear Transformations.md",
     "pdf/Matrix Algebra/Coordinates, Dimension, and Rank.pdf",
@@ -199,7 +200,6 @@
     "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Pics/Homogeneous Coordinates.png",
     "Matrix Algebra/Matrix Multiplication.md",
-    "Matrix Algebra/Inverse of a Matrix.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Linear Systems/Row Operations.md",
     "Linear Systems/Echelon Form.md",
