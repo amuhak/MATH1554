@@ -79,7 +79,7 @@ $$\boxed
 0&0&0&-3
 \end{bmatrix}}
 $$
-To reduce it we use the fallowing row operations:
+To reduce it we use the following row operations:
 $$
 \begin{equation*} 
 \begin{split}
