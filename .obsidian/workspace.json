@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "2c27cd9002f5bc67",
+        "id": "df3e77d7f5514c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "50589d669120156c",
+            "id": "0b20081c085d8c9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Matrix Algebra/Basis.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "7097fafd2fe12ebe",
+            "id": "b755eb6c8c6baf84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
-                "mode": "source",
+                "file": "Vocabulary.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Basis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md",
+                "file": "Matrix Algebra/Basis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Homogeneous Coordinates.md"
+                "file": "Matrix Algebra/Basis.md"
               }
             }
           },
@@ -170,8 +169,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7097fafd2fe12ebe",
+  "active": "0b20081c085d8c9d",
   "lastOpenFiles": [
+    "Vocabulary.md",
+    "Matrix Algebra/Basis.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Matrix Algebra/LU Factorization.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
@@ -181,8 +182,6 @@
     "Linear Systems/Row Reduction Algorithm.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Inverse of a Matrix.md",
-    "Vocabulary.md",
-    "Matrix Algebra/Basis.md",
     "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/Subsets and Subspaces.md",
     "Linear Systems/Parametric Vector Form.md",

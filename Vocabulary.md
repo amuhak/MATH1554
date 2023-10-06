@@ -30,3 +30,4 @@
 | Coordinates | These are the weights of the coordinate vector used to describe the point.  |
 | Dimension | This is the number of vectors in a basis of $H$. |
 | Cardinality | Same thing as Dimension |
+| Rank | $\text{Rank} (A)=\text{dim}(\text{Col} (A) ) = \text{no of pivot columns}$ |
