@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Matrix Algebra/Homogeneous Coordinates.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Matrix Algebra/Homogeneous Coordinates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Matrix Algebra/Homogeneous Coordinates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md"
+                "file": "Matrix Algebra/Homogeneous Coordinates.md"
               }
             }
           },
@@ -172,15 +172,15 @@
   },
   "active": "7097fafd2fe12ebe",
   "lastOpenFiles": [
+    "Matrix Algebra/Coordinates, Dimension, and Rank.md",
+    "Matrix Algebra/LU Factorization.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
-    "Matrix Algebra/LU Factorization.md",
     "Linear Systems/Echelon Form.md",
     "Linear Systems/Linear Transformations.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Inverse of a Matrix.md",
-    "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Vocabulary.md",
     "Matrix Algebra/Basis.md",
     "Matrix Algebra/Column Space and Null Space.md",
