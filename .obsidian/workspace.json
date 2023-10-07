@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md",
+                "file": "Determinants and Eigenvalues/Cofactors.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/LU Factorization.md",
+                "file": "Determinants and Eigenvalues/Determinants.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md",
+                "file": "Determinants and Eigenvalues/Cofactors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md",
+                "file": "Determinants and Eigenvalues/Cofactors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md"
+                "file": "Determinants and Eigenvalues/Cofactors.md"
               }
             }
           },
@@ -183,13 +183,15 @@
   },
   "active": "0b20081c085d8c9d",
   "lastOpenFiles": [
+    "pdf/Determinants and Eigenvalues/Cofactors.pdf",
+    "Determinants and Eigenvalues/Determinants.md",
+    "Determinants and Eigenvalues/Cofactors.md",
+    "Matrix Algebra/LU Factorization.md",
     "pdf/Determinants and Eigenvalues/Determinants.pdf",
     "Vocabulary.md",
-    "Matrix Algebra/LU Factorization.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Matrix Algebra/Inverse of a Matrix.md",
-    "Determinants and Eigenvalues/Determinants.md",
     "Matrix Algebra/Matrix Multiplication.md",
     "pdf/Determinants and Eigenvalues",
     "Determinants and Eigenvalues",
@@ -220,13 +222,11 @@
     "pdf/Matrix Algebra/Homogeneous Coordinates.pdf",
     "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Pics/Homogeneous Coordinates.png",
-    "Linear Systems/Row Operations.md",
     "pdf/Vocabulary.pdf",
     "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Matrix Algebra/Pics/LU Factorization.png",
     "LU Factorization-3.png",
     "LU Factorization-3.png",
-    "pdf/Matrix Algebra/LU Factorization.pdf",
     "LU Factorization-2.png",
     "Matrix Algebra/Pics/LU Factorization-1.png",
     "Untitled.canvas"
