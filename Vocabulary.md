@@ -31,3 +31,4 @@
 | Dimension | This is the number of vectors in a basis of $H$. |
 | Cardinality | Same thing as Dimension |
 | Rank | $\text{Rank} (A)=\text{dim}(\text{Col} (A) ) = \text{no of pivot columns}$ |
+| Determinant | It is the scaling factor that tells us how a transformation will change the area or volume of a region. |

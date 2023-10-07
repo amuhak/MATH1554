@@ -13,20 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
-                "mode": "preview",
+                "file": "Determinants and Eigenvalues/Determinants.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b755eb6c8c6baf84",
+            "id": "94deb27f4de5beac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Vocabulary.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05b309f99c48c7bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix Algebra/LU Factorization.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Determinants and Eigenvalues/Determinants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Determinants and Eigenvalues/Determinants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Basis.md"
+                "file": "Determinants and Eigenvalues/Determinants.md"
               }
             }
           },
@@ -171,18 +183,24 @@
   },
   "active": "0b20081c085d8c9d",
   "lastOpenFiles": [
+    "pdf/Determinants and Eigenvalues/Determinants.pdf",
     "Vocabulary.md",
-    "Matrix Algebra/Basis.md",
-    "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Matrix Algebra/LU Factorization.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
+    "Matrix Algebra/Coordinates, Dimension, and Rank.md",
+    "Matrix Algebra/Inverse of a Matrix.md",
+    "Determinants and Eigenvalues/Determinants.md",
+    "Matrix Algebra/Matrix Multiplication.md",
+    "pdf/Determinants and Eigenvalues",
+    "Determinants and Eigenvalues",
+    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
+    "Matrix Algebra/Basis.md",
+    "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
     "Linear Systems/Echelon Form.md",
     "Linear Systems/Linear Transformations.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
-    "Matrix Algebra/Inverse of a Matrix.md",
-    "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/Subsets and Subspaces.md",
     "Linear Systems/Parametric Vector Form.md",
     "pdf/Matrix Algebra/Coordinates, Dimension, and Rank.pdf",
@@ -193,7 +211,6 @@
     "Pasted image 20230930235714.png",
     "pdf/Matrix Algebra/Subsets and Subspaces.pdf",
     "Matrix Algebra/Pics/Leontif Input-Output Model.png",
-    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "Linear Systems/Vectors in R.md",
     "Linear Systems/Linear Combinations.md",
     "Linear Systems/Linear Independence.md",
@@ -203,10 +220,7 @@
     "pdf/Matrix Algebra/Homogeneous Coordinates.pdf",
     "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Pics/Homogeneous Coordinates.png",
-    "Matrix Algebra/Matrix Multiplication.md",
     "Linear Systems/Row Operations.md",
-    "Linear Systems/Existence and Uniqueness.md",
-    "Linear Systems/Consistent Systems.md",
     "pdf/Vocabulary.pdf",
     "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Matrix Algebra/Pics/LU Factorization.png",
@@ -215,8 +229,6 @@
     "pdf/Matrix Algebra/LU Factorization.pdf",
     "LU Factorization-2.png",
     "Matrix Algebra/Pics/LU Factorization-1.png",
-    "Matrix Algebra/Pics",
-    "pdf/Matrix Algebra/Partitioned Matrices.pdf",
     "Untitled.canvas"
   ]
 }
