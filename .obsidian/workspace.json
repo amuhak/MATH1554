@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Linear Systems/Row Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -185,18 +185,22 @@
   },
   "active": "05b309f99c48c7bb",
   "lastOpenFiles": [
-    "Matrix Algebra/LU Factorization.md",
+    "Matrix Algebra/Matrix Transpose and Powers.md",
     "Determinants and Eigenvalues/Determinants.md",
+    "Matrix Algebra/Inverse of a Matrix.md",
+    "Determinants.png",
+    "Linear Systems/Row Operations.md",
+    "Linear Systems/Row Reduction Algorithm.md",
+    "Vocabulary.md",
+    "Matrix Algebra/LU Factorization.md",
     "Determinants and Eigenvalues/Cofactors.md",
     "Linear Systems/Linear Transformations.md",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "Determinants.png",
-    "Vocabulary.md",
     "pdf/Determinants and Eigenvalues/Cofactors.pdf",
     "pdf/Determinants and Eigenvalues/Determinants.pdf",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
-    "Matrix Algebra/Inverse of a Matrix.md",
     "Matrix Algebra/Matrix Multiplication.md",
     "pdf/Determinants and Eigenvalues",
     "Determinants and Eigenvalues",
@@ -204,7 +208,6 @@
     "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
     "Linear Systems/Echelon Form.md",
-    "Linear Systems/Row Reduction Algorithm.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Subsets and Subspaces.md",
     "Linear Systems/Parametric Vector Form.md",
@@ -223,13 +226,11 @@
     "Linear Systems/Matrix Vector Product.md",
     "Matrix Algebra/Pics/Homogeneous Coordinates-1.png",
     "pdf/Matrix Algebra/Homogeneous Coordinates.pdf",
-    "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Pics/Homogeneous Coordinates.png",
     "pdf/Vocabulary.pdf",
     "Matrix Algebra/Pics/LU Factorization.png",
     "LU Factorization-3.png",
     "LU Factorization-3.png",
-    "LU Factorization-2.png",
     "Untitled.canvas"
   ]
 }

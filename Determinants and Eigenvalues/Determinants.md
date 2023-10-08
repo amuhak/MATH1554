@@ -59,3 +59,25 @@ $$
 # Triangular Matrices
 The determinant of a triangular matrix is the product of the entries on the main diagonal.
 
+# Row Operations
+## Replacement/Addition
+Add a multiple of one row to another.
+This does $\boxed{\textbf{NOT}}$ effect the determinant.
+$\boxed{\det{A}=\det{B}}$
+## Interchange
+Interchange two rows to make B.
+One swap means, $\boxed{\det{B}=-\det{A}}$.
+Two One swap means, $\boxed{\det{B}=\det{A}}$.
+We can continue this pattern
+## Scaling
+Multiply a row by a non-zero scalar to make B.
+$\boxed{\det{B}=k\det{A}}$
+
+# [[Inverse of a Matrix|Invertibility]]
+![[Determinants.png]]
+
+# Properties
+1. $\det A = \det A^T$ ([[Matrix Transpose and Powers|Transpose]]).
+2. A is [[Inverse of a Matrix|invertible]] if and only if $\det A \ne 0$.
+3. $\det(AB)=\det A \cdot \det B$.
+4. If A is [[Inverse of a Matrix|invertible]], then $\det A^{-1} = \frac{1}{\det A}$.
