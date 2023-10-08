@@ -16,3 +16,23 @@ $$
 \det(A)&=ad-bc
 \end{aligned}$$
 
+# Using a [[Cofactors|Cofactor]]
+The determinant of a matrix $A$ can be computed down any row or column of the matrix.
+
+For example, down the $j^{\text{th}}$ column the determinant is:
+$$
+\det(A)=a_{1,j}\det \left(A_{1,j}\right) - a_{2,j}\det \left(A_{2,j}\right) + \dots + \left( -1\right)^{n+1}a_{n,j}\det \left(A_{n,j}\right)
+$$
+This would be useful for a matrix with a few 0's.
+Say $A=\begin{bmatrix}5&4&3&2\\0&1&2&0\\0&-1&1&0\\0&1&1&3\end{bmatrix}$ find $\det(A)$ 
+$$
+\begin{aligned}
+A&=
+\begin{bmatrix}
+5&4&3&2\\
+0&1&2&0\\
+0&-1&1&0\\
+0&1&1&3
+\end{bmatrix}
+\end{aligned}
+$$![[Determinants.png]]
