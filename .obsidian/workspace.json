@@ -184,12 +184,14 @@
   },
   "active": "05b309f99c48c7bb",
   "lastOpenFiles": [
-    "Determinants.png",
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Determinants.md",
+    "Matrix Algebra/LU Factorization.md",
+    "Linear Systems/Linear Transformations.md",
+    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
+    "Determinants.png",
     "Vocabulary.md",
     "pdf/Determinants and Eigenvalues/Cofactors.pdf",
-    "Matrix Algebra/LU Factorization.md",
     "pdf/Determinants and Eigenvalues/Determinants.pdf",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
@@ -197,12 +199,10 @@
     "Matrix Algebra/Matrix Multiplication.md",
     "pdf/Determinants and Eigenvalues",
     "Determinants and Eigenvalues",
-    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "Matrix Algebra/Basis.md",
     "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
     "Linear Systems/Echelon Form.md",
-    "Linear Systems/Linear Transformations.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Subsets and Subspaces.md",
@@ -229,7 +229,6 @@
     "LU Factorization-3.png",
     "LU Factorization-3.png",
     "LU Factorization-2.png",
-    "Matrix Algebra/Pics/LU Factorization-1.png",
     "Untitled.canvas"
   ]
 }
