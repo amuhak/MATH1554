@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Cofactors.md",
+                "file": "Determinants and Eigenvalues/Determinants.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Cofactors.md",
+                "file": "Determinants and Eigenvalues/Determinants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Cofactors.md",
+                "file": "Determinants and Eigenvalues/Determinants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Cofactors.md"
+                "file": "Determinants and Eigenvalues/Determinants.md"
               }
             }
           },
@@ -183,12 +183,12 @@
   },
   "active": "0b20081c085d8c9d",
   "lastOpenFiles": [
-    "pdf/Determinants and Eigenvalues/Cofactors.pdf",
+    "Vocabulary.md",
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Cofactors.md",
+    "pdf/Determinants and Eigenvalues/Cofactors.pdf",
     "Matrix Algebra/LU Factorization.md",
     "pdf/Determinants and Eigenvalues/Determinants.pdf",
-    "Vocabulary.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Matrix Algebra/Inverse of a Matrix.md",
@@ -223,7 +223,6 @@
     "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Pics/Homogeneous Coordinates.png",
     "pdf/Vocabulary.pdf",
-    "pdf/Matrix Algebra/Leontif Input-Output Model.pdf",
     "Matrix Algebra/Pics/LU Factorization.png",
     "LU Factorization-3.png",
     "LU Factorization-3.png",
