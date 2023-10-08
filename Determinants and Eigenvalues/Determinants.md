@@ -57,3 +57,5 @@ $$
 \end{aligned} 
 $$
 # Triangular Matrices
+The determinant of a triangular matrix is the product of the entries on the main diagonal.
+
