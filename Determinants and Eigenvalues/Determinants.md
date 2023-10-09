@@ -95,3 +95,4 @@ If we have $T: \mathbb{R}^n \rightarrow \mathbb{R}^n$, and $S$ is a parallelogra
 $$
 \text{volume}(T(S)) = |\det{A}| \cdot \text{volume}(S)
 $$
+This can be extended to higher dimentiond
