@@ -81,3 +81,9 @@ $\boxed{\det{B}=k\det{A}}$
 2. A is [[Inverse of a Matrix|invertible]] if and only if $\det A \ne 0$.
 3. $\det(AB)=\det A \cdot \det B$.
 4. If A is [[Inverse of a Matrix|invertible]], then $\det A^{-1} = \frac{1}{\det A}$.
+# Geometric interpretation
+[Watch 3b1b](https://youtu.be/Ip3X9LOh2dk?si=VfZBRWRHh1SilWGf)
+<iframe width="728" height="410" src="https://www.youtube-nocookie.com/embed/Ip3X9LOh2dk?si=MQIM8sWBvjtwk2zu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
