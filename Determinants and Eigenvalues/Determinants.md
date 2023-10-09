@@ -91,4 +91,7 @@ The volume of the parallelepiped spanned by the columns of an $n \times n$ matri
 
 # [[Linear Transformations]]
 
-If we have $T: \mathbb{R}^n \rightarrow \mathbb{R}^n$, and $S$ is a parallelogram in $\mathbb{R}^n$, then 
+If we have $T: \mathbb{R}^n \rightarrow \mathbb{R}^n$, and $S$ is a parallelogram in $\mathbb{R}^n$, then:
+$$
+\text{volume}(T(S)) = |\det{A}| \cdot \text{volume}(S)
+$$
