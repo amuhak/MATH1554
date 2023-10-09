@@ -84,6 +84,3 @@ $\boxed{\det{B}=k\det{A}}$
 # Geometric interpretation
 [Watch 3b1b](https://youtu.be/Ip3X9LOh2dk?si=VfZBRWRHh1SilWGf)
 <iframe width="728" height="410" src="https://www.youtube-nocookie.com/embed/Ip3X9LOh2dk?si=MQIM8sWBvjtwk2zu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
