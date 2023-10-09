@@ -84,3 +84,11 @@ $\boxed{\det{B}=k\det{A}}$
 # Geometric interpretation
 [Watch 3b1b](https://youtu.be/Ip3X9LOh2dk?si=VfZBRWRHh1SilWGf)
 <iframe width="728" height="410" src="https://www.youtube-nocookie.com/embed/Ip3X9LOh2dk?si=MQIM8sWBvjtwk2zu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## TLDR
+Area of parallelogram spanned by the columns columns of an $n \times n$ matrix $A$ is $\det \left( \begin{bmatrix} a &c\\b&d \end{bmatrix} \right)=$$ad-bc$.
+
+The volume of the parallelepiped spanned by the columns of an $n \times n$ matrix $A$ is $|{\det A}|$.
+
+# [[Linear Transformations]]
+
+If we have $T: \mathbb{R}^n \rightarrow \mathbb{R}^n$, and $S$ is a parallelogram in $\mathbb{R}^n$, then 

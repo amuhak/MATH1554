@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94deb27f4de5beac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Systems/Row Operations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "05b309f99c48c7bb",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,15 +172,15 @@
   },
   "active": "05b309f99c48c7bb",
   "lastOpenFiles": [
-    "Matrix Algebra/Matrix Transpose and Powers.md",
+    "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Determinants.md",
+    "Linear Systems/Row Operations.md",
+    "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Inverse of a Matrix.md",
     "Determinants.png",
-    "Linear Systems/Row Operations.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "Vocabulary.md",
     "Matrix Algebra/LU Factorization.md",
-    "Determinants and Eigenvalues/Cofactors.md",
     "Linear Systems/Linear Transformations.md",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "Determinants.png",
