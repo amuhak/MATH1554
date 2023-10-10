@@ -32,3 +32,7 @@
 | Cardinality | Same thing as Dimension |
 | Rank | $\text{Rank} (A)=\text{dim}(\text{Col} (A) ) = \text{no of pivot columns}$ |
 | Determinant | It is the scaling factor that tells us how a transformation will change the area or volume of a region. |
+| Probability Vector | A vector with non-negative elements that sum to $1$ |
+| Stochastic Matrix | Square matrix, $P$, whose columns are probability vectors. |
+| Markov Chain | The sequence: $\vec{x_{k+1}} = P \vec{x_k}$ ($0 \leq k$) |
+| Steady-State Vector | Is the a probability vector such that $P\vec{q}=\vec{q}$ |

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b56eb14f44f5a147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Markov Chain.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Markov Chain.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Markov Chain.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -157,12 +170,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "52cda0946c10db9b",
+  "active": "b56eb14f44f5a147",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/Markov Chain.md",
     "Determinants and Eigenvalues/pics",
     "Markov Chains.png",
     "Determinants and Eigenvalues/Determinants.md",
-    "Determinants and Eigenvalues/Markov Chain.md",
     "Determinants and Eigenvalues/Cofactors.md",
     "Linear Systems/Row Operations.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
@@ -202,7 +215,6 @@
     "Matrix Algebra/Pics/Homogeneous Coordinates-1.png",
     "pdf/Matrix Algebra/Homogeneous Coordinates.pdf",
     "Matrix Algebra/Pics/Homogeneous Coordinates.png",
-    "pdf/Vocabulary.pdf",
     "Matrix Algebra/Pics/LU Factorization.png",
     "LU Factorization-3.png",
     "Untitled.canvas"
