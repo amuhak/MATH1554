@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md",
+                "file": "Determinants and Eigenvalues/Markov Chain.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "789139f929940e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Systems/Linear Transformations.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md",
+                "file": "Determinants and Eigenvalues/Markov Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md",
+                "file": "Determinants and Eigenvalues/Markov Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md"
+                "file": "Determinants and Eigenvalues/Markov Chain.md"
               }
             }
           },
@@ -173,8 +159,11 @@
   },
   "active": "52cda0946c10db9b",
   "lastOpenFiles": [
-    "Determinants and Eigenvalues/Cofactors.md",
+    "Determinants and Eigenvalues/pics",
+    "Markov Chains.png",
     "Determinants and Eigenvalues/Determinants.md",
+    "Determinants and Eigenvalues/Markov Chain.md",
+    "Determinants and Eigenvalues/Cofactors.md",
     "Linear Systems/Row Operations.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Inverse of a Matrix.md",
@@ -210,14 +199,11 @@
     "Linear Systems/Vectors in R.md",
     "Linear Systems/Linear Combinations.md",
     "Linear Systems/Linear Independence.md",
-    "Linear Systems/Homogeneous systems.md",
-    "Linear Systems/Matrix Vector Product.md",
     "Matrix Algebra/Pics/Homogeneous Coordinates-1.png",
     "pdf/Matrix Algebra/Homogeneous Coordinates.pdf",
     "Matrix Algebra/Pics/Homogeneous Coordinates.png",
     "pdf/Vocabulary.pdf",
     "Matrix Algebra/Pics/LU Factorization.png",
-    "LU Factorization-3.png",
     "LU Factorization-3.png",
     "Untitled.canvas"
   ]
