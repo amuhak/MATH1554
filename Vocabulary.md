@@ -36,3 +36,4 @@
 | Stochastic Matrix | Square matrix, $P$, whose columns are probability vectors. |
 | Markov Chain | The sequence: $\vec{x_{k+1}} = P \vec{x_k}$ ($0 \leq k$) |
 | Steady-State Vector | Is the a probability vector such that $P\vec{q}=\vec{q}$ |
+| Regular Stochastic Matrix | If there is some $k$ such that $P^k$ only contains positive entries |
