@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "13127704f7038ad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Systems/Row Operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b56eb14f44f5a147",
             "type": "leaf",
             "state": {
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Determinants and Eigenvalues/Markov Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Determinants and Eigenvalues/Markov Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Determinants and Eigenvalues/Markov Chain.md"
               }
             }
           },
@@ -170,19 +181,20 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b56eb14f44f5a147",
+  "active": "05b309f99c48c7bb",
   "lastOpenFiles": [
+    "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
+    "Linear Systems/Row Operations.md",
+    "Linear Systems/Row Reduction Algorithm.md",
+    "Vocabulary.md",
     "Determinants and Eigenvalues/Markov Chain.md",
     "Determinants and Eigenvalues/pics",
     "Markov Chains.png",
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Cofactors.md",
-    "Linear Systems/Row Operations.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Inverse of a Matrix.md",
     "Determinants.png",
-    "Linear Systems/Row Reduction Algorithm.md",
-    "Vocabulary.md",
     "Matrix Algebra/LU Factorization.md",
     "Linear Systems/Linear Transformations.md",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
