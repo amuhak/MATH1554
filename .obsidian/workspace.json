@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Cofactors.md",
-                "mode": "source",
+                "file": "Linear Systems/Linear Transformations.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +62,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -170,7 +171,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "05b309f99c48c7bb",
+  "active": "52cda0946c10db9b",
   "lastOpenFiles": [
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Determinants.md",
