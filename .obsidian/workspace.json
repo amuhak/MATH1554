@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "879017d441fb0755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Systems/Linear Transformations.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Systems/Linear Transformations.md",
+                "file": "Determinants and Eigenvalues/Determinants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Systems/Linear Transformations.md",
+                "file": "Determinants and Eigenvalues/Determinants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Systems/Linear Transformations.md"
+                "file": "Determinants and Eigenvalues/Determinants.md"
               }
             }
           },
@@ -170,8 +158,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "879017d441fb0755",
+  "active": "05b309f99c48c7bb",
   "lastOpenFiles": [
+    "Linear Systems/Linear Transformations.md",
     "Vocabulary.md",
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Markov Chain.md",
@@ -185,7 +174,6 @@
     "Matrix Algebra/Inverse of a Matrix.md",
     "Determinants.png",
     "Matrix Algebra/LU Factorization.md",
-    "Linear Systems/Linear Transformations.md",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "Determinants.png",
     "pdf/Determinants and Eigenvalues/Cofactors.pdf",
