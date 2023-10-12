@@ -16,4 +16,5 @@ $$
 # Theorems
 - The diagonal elements of a triangular matrix are its eigenvalues.
 - A not invertible 0 $\Longleftrightarrow$ is an eigenvalue of A.
-- 
+- Stochastic matrices have an eigenvalue equal to 1.
+- Eigenvectors with distinct eigenvalues are  linearly independent vectors.
