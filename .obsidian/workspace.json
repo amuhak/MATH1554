@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md",
+                "file": "Determinants and Eigenvalues/Markov Chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Determinants and Eigenvalues/Markov Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Determinants and Eigenvalues/Markov Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Determinants and Eigenvalues/Markov Chain.md"
               }
             }
           },
@@ -171,12 +169,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4effa0900cb41b69",
+  "active": "05b309f99c48c7bb",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/Eigen Things.md",
+    "Determinants and Eigenvalues/Markov Chain.md",
+    "Vocabulary.md",
     "Determinants and Eigenvalues/Determinants.md",
     "Linear Systems/Linear Transformations.md",
-    "Vocabulary.md",
-    "Determinants and Eigenvalues/Markov Chain.md",
     "Linear Systems/Row Operations.md",
     "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
     "Linear Systems/Row Reduction Algorithm.md",
