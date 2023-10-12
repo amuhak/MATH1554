@@ -13,3 +13,7 @@ A\vec{v}-\lambda\vec{v}&=0\\
 (A-\lambda I)\vec{v}&=0
 \end{aligned}
 $$
+# Theorems
+- The diagonal elements of a triangular matrix are its eigenvalues.
+- A not invertible 0 $\Longleftrightarrow$ is an eigenvalue of A.
+- 
