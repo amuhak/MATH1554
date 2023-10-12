@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4effa0900cb41b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Determinants.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -158,11 +170,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "05b309f99c48c7bb",
+  "active": "4effa0900cb41b69",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/Determinants.md",
     "Linear Systems/Linear Transformations.md",
     "Vocabulary.md",
-    "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Markov Chain.md",
     "Linear Systems/Row Operations.md",
     "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
