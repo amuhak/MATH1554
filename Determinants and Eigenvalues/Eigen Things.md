@@ -21,10 +21,11 @@ $$
 
 # Compute Eigenvalues
 We know that $(A-\lambda I)$ is non invertible, so $\det(A-\lambda I)=0$.
-$\det(A-\lambda I)$ is the characteristic polynomial
-$\det(A-\lambda I)=0$ is the characteristic equation
-
 We can solve $\det(A-\lambda I)=0$ for $\lambda$.
 
+$\det(A-\lambda I)$ is the characteristic polynomial
+$\det(A-\lambda I)=0$ is the characteristic equation
 The **trace** of a matrix is the sum of its diagonal elements.
 The sum of the Eigenvalues of $A$ = the trace.
+
+# Algebraic and Geometric Multiplicities

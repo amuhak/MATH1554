@@ -37,8 +37,9 @@
 | Markov Chain | The sequence: $\vec{x_{k+1}} = P \vec{x_k}$ ($0 \leq k$) |
 | Steady-State Vector | Is the a probability vector such that $P\vec{q}=\vec{q}$ |
 | Regular Stochastic Matrix | If there is some $k$ such that $P^k$ only contains positive entries. |
-| Trace | the sum of the elements of the main diagonal. |
+| Trace | The sum of the elements of the main diagonal. |
 | Characteristic Polynomial | $\det(A-\lambda I)$ |
 | Characteristic Equation | $\det(A-\lambda I)=0$ |
-| Multiplicity | the number of times that its associated factor appears in the polynomial. |
-| Algebraic Multiplicity | multiplicity of the characteristic polynomial |
+| Multiplicity | The number of times that its associated factor appears in the polynomial. |
+| Algebraic Multiplicity | Multiplicity of the characteristic polynomial. |
+| Geometric Multiplicities | Dimentions of $\text{Null}{(A-\lambda I)}$  |
