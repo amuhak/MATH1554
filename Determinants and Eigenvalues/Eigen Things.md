@@ -15,6 +15,16 @@ A\vec{v}-\lambda\vec{v}&=0\\
 $$
 # Theorems
 - The diagonal elements of a triangular matrix are its eigenvalues.
-- A not invertible 0 $\Longleftrightarrow$ is an eigenvalue of A.
+- A not invertible $\Longleftrightarrow$ 0 is an eigenvalue of A.
 - Stochastic matrices have an eigenvalue equal to 1.
 - Eigenvectors with distinct eigenvalues are  linearly independent vectors.
+
+# Compute Eigenvalues
+We know that $(A-\lambda I)$ is non invertible, so $\det(A-\lambda I)=0$.
+$\det(A-\lambda I)$ is the characteristic polynomial
+$\det(A-\lambda I)=0$ is the characteristic equation
+
+We can solve $\det(A-\lambda I)=0$ for $\lambda$.
+
+The **trace** of a matrix is the sum of its diagonal elements.
+The sum of the Eigenvalues of $A$ = the trace.

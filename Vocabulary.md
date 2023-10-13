@@ -36,4 +36,9 @@
 | Stochastic Matrix | Square matrix, $P$, whose columns are probability vectors. |
 | Markov Chain | The sequence: $\vec{x_{k+1}} = P \vec{x_k}$ ($0 \leq k$) |
 | Steady-State Vector | Is the a probability vector such that $P\vec{q}=\vec{q}$ |
-| Regular Stochastic Matrix | If there is some $k$ such that $P^k$ only contains positive entries |
+| Regular Stochastic Matrix | If there is some $k$ such that $P^k$ only contains positive entries. |
+| Trace | the sum of the elements of the main diagonal. |
+| Characteristic Polynomial | $\det(A-\lambda I)$ |
+| Characteristic Equation | $\det(A-\lambda I)=0$ |
+| Multiplicity | the number of times that its associated factor appears in the polynomial. |
+| Algebraic Multiplicity | multiplicity of the characteristic polynomial |
