@@ -29,3 +29,7 @@ The **trace** of a matrix is the sum of its diagonal elements.
 The sum of the Eigenvalues of $A$ = the trace.
 
 # Algebraic and Geometric Multiplicities
+- $a_i$ is the algebraic multiplicity
+- $g_i$ is the geometric multiplicity
+- $1 \leq a_i \leq n$ 
+- $1 \leq g_i \leq n$
