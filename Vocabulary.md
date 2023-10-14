@@ -42,4 +42,4 @@
 | Characteristic Equation | $\det(A-\lambda I)=0$ |
 | Multiplicity | The number of times that its associated factor appears in the polynomial. |
 | Algebraic Multiplicity | Multiplicity of the characteristic polynomial. |
-| Geometric Multiplicities | Dimentions of $\text{Null}{(A-\lambda I)}$  |
+| Geometric Multiplicities | Dimensions of $\text{Null}{(A-\lambda I)}$  |

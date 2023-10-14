@@ -30,19 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ff6638e93aa1a338",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Determinants and Eigenvalues/Eigen Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Determinants and Eigenvalues/Eigen Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Determinants and Eigenvalues/Eigen Things.md"
               }
             }
           },
@@ -180,10 +170,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "ff6638e93aa1a338",
+  "active": "05b309f99c48c7bb",
   "lastOpenFiles": [
-    "Determinants and Eigenvalues/Eigen Things.md",
     "Vocabulary.md",
+    "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Markov Chain.md",
     "Matrix Algebra/LU Factorization.md",
     "pdf/Determinants and Eigenvalues/Eigen Things.pdf",
