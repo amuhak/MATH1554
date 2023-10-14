@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff6638e93aa1a338",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +180,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7f74e21fb8341359",
+  "active": "ff6638e93aa1a338",
   "lastOpenFiles": [
     "Determinants and Eigenvalues/Eigen Things.md",
     "Vocabulary.md",
