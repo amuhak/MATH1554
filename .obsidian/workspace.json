@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Markov Chains.md",
+                "file": "Determinants and Eigenvalues/Similar Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Markov Chains.md",
+                "file": "Determinants and Eigenvalues/Similar Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Markov Chains.md",
+                "file": "Determinants and Eigenvalues/Similar Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Markov Chains.md"
+                "file": "Determinants and Eigenvalues/Similar Matrices.md"
               }
             }
           },
@@ -184,13 +184,15 @@
   },
   "active": "87300017ce8c74ed",
   "lastOpenFiles": [
-    "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
+    "Similar Matrices.png",
+    "Vocabulary.md",
+    "Determinants and Eigenvalues/Similar Matrices.md",
     "Determinants and Eigenvalues/Markov Chains.md",
+    "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
     "pdf/Determinants and Eigenvalues/Markov Chains.pdf",
     "Markov Chain.png",
     "Markov Chains.png",
     "Determinants and Eigenvalues/Eigen Things.md",
-    "Vocabulary.md",
     "Matrix Algebra/LU Factorization.md",
     "pdf/Determinants and Eigenvalues/Eigen Things.pdf",
     "Determinants and Eigenvalues/Determinants.md",
@@ -225,7 +227,6 @@
     "Pasted image 20230930235714.png",
     "Matrix Algebra/Pics/Leontif Input-Output Model.png",
     "Linear Systems/Vectors in R.md",
-    "Linear Systems/Linear Combinations.md",
     "Matrix Algebra/Pics/Homogeneous Coordinates-1.png",
     "Matrix Algebra/Pics/Homogeneous Coordinates.png",
     "Matrix Algebra/Pics/LU Factorization.png",
