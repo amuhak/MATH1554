@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "87300017ce8c74ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Determinants and Eigenvalues/Similar Matrices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7f74e21fb8341359",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Similar Matrices.md",
+                "file": "Determinants and Eigenvalues/Eigen Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Similar Matrices.md",
+                "file": "Determinants and Eigenvalues/Eigen Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Similar Matrices.md"
+                "file": "Determinants and Eigenvalues/Eigen Things.md"
               }
             }
           },
@@ -182,11 +169,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "87300017ce8c74ed",
+  "active": "05b309f99c48c7bb",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/Similar Matrices.md",
+    "pdf/Determinants and Eigenvalues/Similar Matrices.pdf",
     "Similar Matrices.png",
     "Vocabulary.md",
-    "Determinants and Eigenvalues/Similar Matrices.md",
     "Determinants and Eigenvalues/Markov Chains.md",
     "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
     "pdf/Determinants and Eigenvalues/Markov Chains.pdf",
@@ -223,13 +211,11 @@
     "pdf/Matrix Algebra/Coordinates, Dimension, and Rank.pdf",
     "Matrix Algebra/Pics/Coordinates, Dimension, and Rank.png",
     "README.md",
-    "pdf/Matrix Algebra/Basis.pdf",
     "Pasted image 20230930235714.png",
     "Matrix Algebra/Pics/Leontif Input-Output Model.png",
     "Linear Systems/Vectors in R.md",
     "Matrix Algebra/Pics/Homogeneous Coordinates-1.png",
     "Matrix Algebra/Pics/Homogeneous Coordinates.png",
-    "Matrix Algebra/Pics/LU Factorization.png",
     "Untitled.canvas"
   ]
 }
