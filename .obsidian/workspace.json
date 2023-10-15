@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "87300017ce8c74ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Determinants and Eigenvalues/Markov Chain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7f74e21fb8341359",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Eigen Things.md",
+                "file": "Determinants and Eigenvalues/Markov Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Eigen Things.md",
+                "file": "Determinants and Eigenvalues/Markov Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Eigen Things.md"
+                "file": "Determinants and Eigenvalues/Markov Chain.md"
               }
             }
           },
@@ -170,10 +183,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "05b309f99c48c7bb",
+  "active": "87300017ce8c74ed",
   "lastOpenFiles": [
-    "Vocabulary.md",
     "Determinants and Eigenvalues/Eigen Things.md",
+    "Vocabulary.md",
     "Determinants and Eigenvalues/Markov Chain.md",
     "Matrix Algebra/LU Factorization.md",
     "pdf/Determinants and Eigenvalues/Eigen Things.pdf",

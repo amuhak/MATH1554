@@ -37,3 +37,5 @@ $$
 We have $x_1, x_2,x_3,\dots x_k$. We want to know if while $k \rightarrow \infty$ $x_k$ will converge to a [[Markov Chain#Steady State|steady state]].
 
 If $P$ is a regular stochastic matrix ([[Vocabulary|vocabulary]]), then $P$ has a unique steady-state vector $\vec{q}$, and $\vec{x}_{k+1}=P\vec{x}_k$ converges to $\vec{q}$ as $k \rightarrow \infty$.
+
+# [[Eigen Things|Eigenvalues]]
