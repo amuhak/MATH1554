@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2c5bd2866cee33b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Eigen Things.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Eigen Things.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Eigen Things.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -157,14 +171,16 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7f74e21fb8341359",
+  "active": "b2c5bd2866cee33b",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/Eigen Things.md",
+    "Determinants and Eigenvalues/Determinants.md",
+    "Determinants and Eigenvalues/Markov Chains.md",
+    "Determinants and Eigenvalues/Similar Matrices.md",
+    "Determinants and Eigenvalues/Cofactors.md",
     "Vocabulary.md",
     "Matrix Algebra/LU Factorization.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
-    "Determinants and Eigenvalues/Eigen Things.md",
-    "Determinants and Eigenvalues/Markov Chains.md",
-    "Determinants and Eigenvalues/Similar Matrices.md",
     "pdf/Determinants and Eigenvalues/Similar Matrices.pdf",
     "Similar Matrices.png",
     "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
@@ -172,12 +188,10 @@
     "Markov Chain.png",
     "Markov Chains.png",
     "pdf/Determinants and Eigenvalues/Eigen Things.pdf",
-    "Determinants and Eigenvalues/Determinants.md",
     "Linear Systems/Linear Transformations.md",
     "Linear Systems/Row Operations.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "Determinants and Eigenvalues/pics",
-    "Determinants and Eigenvalues/Cofactors.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Inverse of a Matrix.md",
     "Determinants.png",
