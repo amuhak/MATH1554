@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Matrix Algebra/Inverse of a Matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e26427c783b3a1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
                 "mode": "preview",
                 "source": false
               }
@@ -38,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Matrix Algebra/Inverse of a Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Matrix Algebra/Inverse of a Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Basis.md"
+                "file": "Matrix Algebra/Inverse of a Matrix.md"
               }
             }
           },
@@ -159,17 +171,22 @@
   },
   "active": "7f74e21fb8341359",
   "lastOpenFiles": [
+    "Matrix Algebra/Matrix Multiplication.md",
+    "Matrix Algebra/Matrix Transpose and Powers.md",
+    "Matrix Algebra/Partitioned Matrices.md",
+    "Matrix Algebra/Leontif Input-Output Model.md",
+    "Matrix Algebra/Elementary Matrices.md",
+    "Matrix Algebra/Formulas.md",
+    "Matrix Algebra/Subsets and Subspaces.md",
+    "Vocabulary.md",
+    "Matrix Algebra/Column Space and Null Space.md",
+    "Matrix Algebra/Basis.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/LU Factorization.md",
-    "Matrix Algebra/Matrix Multiplication.md",
-    "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Inverse of a Matrix.md",
-    "Matrix Algebra/Partitioned Matrices.md",
-    "Matrix Algebra/Matrix Transpose and Powers.md",
     "Linear Systems/Echelon Form.md",
-    "Matrix Algebra/Leontif Input-Output Model.md",
     "Linear Systems/Consistent Systems.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "Linear Systems/Linear Transformations.md",
@@ -178,13 +195,8 @@
     "Linear Systems/Linear Combinations.md",
     "Linear Systems/Linear Independence.md",
     "Linear Systems/Homogeneous systems.md",
-    "Vocabulary.md",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Linear Systems/Parametric Vector Form.md",
-    "Determinants and Eigenvalues/Determinants.md",
-    "Determinants and Eigenvalues/Markov Chains.md",
-    "Determinants and Eigenvalues/Similar Matrices.md",
-    "Determinants and Eigenvalues/Cofactors.md",
     "pdf/Determinants and Eigenvalues/Similar Matrices.pdf",
     "Similar Matrices.png",
     "pdf/Determinants and Eigenvalues/Markov Chain.pdf",

@@ -42,5 +42,5 @@ A^{-1}A&=I_n
 \end{aligned}
 $$
 
-Some properties:
+# Properties
 ![[Inverse of a Matrix.png]]
