@@ -3,7 +3,7 @@
 3. $A$ has $n$ pivotal columns (all columns are pivotal).
 4. $A \mathbf{x}$ = $\mathbf{0}$ has only the trivial solution.
 5. The columns of $A$ are linearly independent.
-6. The equation $A$~x = ~$A \mathbf{x}$ = $\mathbf{b}$ has a solution for all $b \in \mathbb{R}^n$
+6. The equation $A \mathbf{x}$ = $\mathbf{b}$ has a solution for all $b \in \mathbb{R}^n$
 7. The columns of $A$ span $\mathbb{R}^n$
 8. There is a $n \times n$ matrix $C$ so that $CA = I_n$ ($A$ has a left inverse.)
 9. There is a $n \times n$ matrix $D$ so that $AD = I_n$ ($A$ has a right inverse.)

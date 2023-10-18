@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Inverse of a Matrix.md",
-                "mode": "source",
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Inverse of a Matrix.md",
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Inverse of a Matrix.md",
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Inverse of a Matrix.md"
+                "file": "Matrix Algebra/The Invertible Matrix Theorem.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "7f74e21fb8341359",
   "lastOpenFiles": [
-    "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
+    "Matrix Algebra/Inverse of a Matrix.md",
+    "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Partitioned Matrices.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
     "Matrix Algebra/Elementary Matrices.md",
@@ -185,7 +186,6 @@
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/LU Factorization.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
-    "Matrix Algebra/Inverse of a Matrix.md",
     "Linear Systems/Echelon Form.md",
     "Linear Systems/Consistent Systems.md",
     "Linear Systems/Row Reduction Algorithm.md",
