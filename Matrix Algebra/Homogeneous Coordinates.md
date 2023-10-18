@@ -36,7 +36,7 @@ d&=
 1&0&0\\
 0&1&-1\\
 0&0&1
-\end{bmatrix}&=
+\end{bmatrix}d&=
 \begin{bmatrix}
 0&-3&0\\
 1&2&3\\

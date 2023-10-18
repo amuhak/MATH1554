@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Eigen Things.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2c5bd2866cee33b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary.md",
+                "file": "Matrix Algebra/Basis.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Matrix Algebra/Basis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Matrix Algebra/Basis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Matrix Algebra/Basis.md"
               }
             }
           },
@@ -171,16 +157,34 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b2c5bd2866cee33b",
+  "active": "7f74e21fb8341359",
   "lastOpenFiles": [
+    "Matrix Algebra/Coordinates, Dimension, and Rank.md",
+    "Matrix Algebra/Homogeneous Coordinates.md",
+    "Matrix Algebra/LU Factorization.md",
+    "Matrix Algebra/Matrix Multiplication.md",
+    "Matrix Algebra/Column Space and Null Space.md",
+    "Matrix Algebra/The Invertible Matrix Theorem.md",
+    "Matrix Algebra/Inverse of a Matrix.md",
+    "Matrix Algebra/Partitioned Matrices.md",
+    "Matrix Algebra/Matrix Transpose and Powers.md",
+    "Linear Systems/Echelon Form.md",
+    "Matrix Algebra/Leontif Input-Output Model.md",
+    "Linear Systems/Consistent Systems.md",
+    "Linear Systems/Row Reduction Algorithm.md",
+    "Linear Systems/Linear Transformations.md",
+    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
+    "Linear Systems/Vectors in R.md",
+    "Linear Systems/Linear Combinations.md",
+    "Linear Systems/Linear Independence.md",
+    "Linear Systems/Homogeneous systems.md",
+    "Vocabulary.md",
     "Determinants and Eigenvalues/Eigen Things.md",
+    "Linear Systems/Parametric Vector Form.md",
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
     "Determinants and Eigenvalues/Cofactors.md",
-    "Vocabulary.md",
-    "Matrix Algebra/LU Factorization.md",
-    "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "pdf/Determinants and Eigenvalues/Similar Matrices.pdf",
     "Similar Matrices.png",
     "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
@@ -188,34 +192,17 @@
     "Markov Chain.png",
     "Markov Chains.png",
     "pdf/Determinants and Eigenvalues/Eigen Things.pdf",
-    "Linear Systems/Linear Transformations.md",
-    "Linear Systems/Row Operations.md",
-    "Linear Systems/Row Reduction Algorithm.md",
     "Determinants and Eigenvalues/pics",
-    "Matrix Algebra/Matrix Transpose and Powers.md",
-    "Matrix Algebra/Inverse of a Matrix.md",
     "Determinants.png",
-    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "Determinants.png",
     "pdf/Determinants and Eigenvalues/Cofactors.pdf",
     "pdf/Determinants and Eigenvalues/Determinants.pdf",
-    "Matrix Algebra/Homogeneous Coordinates.md",
-    "Matrix Algebra/Matrix Multiplication.md",
     "pdf/Determinants and Eigenvalues",
     "Determinants and Eigenvalues",
-    "Matrix Algebra/Basis.md",
-    "Matrix Algebra/Column Space and Null Space.md",
-    "Matrix Algebra/Leontif Input-Output Model.md",
-    "Linear Systems/Echelon Form.md",
-    "Matrix Algebra/The Invertible Matrix Theorem.md",
-    "Matrix Algebra/Subsets and Subspaces.md",
-    "Linear Systems/Parametric Vector Form.md",
     "pdf/Matrix Algebra/Coordinates, Dimension, and Rank.pdf",
     "Matrix Algebra/Pics/Coordinates, Dimension, and Rank.png",
-    "README.md",
     "Pasted image 20230930235714.png",
     "Matrix Algebra/Pics/Leontif Input-Output Model.png",
-    "Linear Systems/Vectors in R.md",
     "Matrix Algebra/Pics/Homogeneous Coordinates-1.png",
     "Matrix Algebra/Pics/Homogeneous Coordinates.png",
     "Untitled.canvas"
