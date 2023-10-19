@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/The Invertible Matrix Theorem.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/The Invertible Matrix Theorem.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -169,23 +170,23 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7f74e21fb8341359",
+  "active": "e26427c783b3a1c2",
   "lastOpenFiles": [
+    "Matrix Algebra/Leontif Input-Output Model.md",
+    "Vocabulary.md",
+    "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Inverse of a Matrix.md",
     "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Partitioned Matrices.md",
-    "Matrix Algebra/Leontif Input-Output Model.md",
     "Matrix Algebra/Elementary Matrices.md",
     "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Subsets and Subspaces.md",
-    "Vocabulary.md",
     "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/Basis.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/LU Factorization.md",
-    "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Linear Systems/Echelon Form.md",
     "Linear Systems/Consistent Systems.md",
     "Linear Systems/Row Reduction Algorithm.md",
