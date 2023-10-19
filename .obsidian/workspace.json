@@ -26,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "Vocabulary.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Matrix Algebra/Leontif Input-Output Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Matrix Algebra/Leontif Input-Output Model.md"
               }
             }
           },
@@ -170,10 +169,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e26427c783b3a1c2",
+  "active": "7f74e21fb8341359",
   "lastOpenFiles": [
-    "Matrix Algebra/Leontif Input-Output Model.md",
     "Vocabulary.md",
+    "Matrix Algebra/Leontif Input-Output Model.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Inverse of a Matrix.md",
