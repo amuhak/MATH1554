@@ -43,4 +43,5 @@
 | Multiplicity | The number of times that its associated factor appears in the polynomial. |
 | Algebraic Multiplicity | Multiplicity of the characteristic polynomial. |
 | Geometric Multiplicities | Dimensions of $\text{Null}{(A-\lambda I)}$  |
-| Similar Matrices | $A$ and $B$ are similar if there is a $P$ such that $A=PBP^{-1}$ |
+| Similar Matrices | $A$ and $B$ are similar if there is a $P$ such that $A=PBP^{-1}$. |
+| Diagonal Matrices | If the only non-zero elements, if any, are on the main diagonal. |

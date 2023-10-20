@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Markov Chains.md",
+                "file": "Determinants and Eigenvalues/Diagonalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Similar Matrices.md",
+                "file": "Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Markov Chains.md",
+                "file": "Determinants and Eigenvalues/Diagonalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Markov Chains.md",
+                "file": "Determinants and Eigenvalues/Diagonalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Markov Chains.md"
+                "file": "Determinants and Eigenvalues/Diagonalization.md"
               }
             }
           },
@@ -171,12 +171,13 @@
   },
   "active": "7f74e21fb8341359",
   "lastOpenFiles": [
+    "Vocabulary.md",
+    "Determinants and Eigenvalues/Diagonalization.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
-    "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Markov Chains.md",
+    "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Cofactors.md",
-    "Vocabulary.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
@@ -196,7 +197,6 @@
     "Linear Systems/Row Reduction Algorithm.md",
     "Linear Systems/Linear Transformations.md",
     "Linear Systems/Matrix Addition and Scalar Multiplication.md",
-    "Linear Systems/Vectors in R.md",
     "pdf/Determinants and Eigenvalues/Similar Matrices.pdf",
     "Similar Matrices.png",
     "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
