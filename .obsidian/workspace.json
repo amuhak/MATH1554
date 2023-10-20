@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonalization.md",
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Determinants and Eigenvalues/Eigen Things.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonalization.md",
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonalization.md",
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonalization.md"
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md"
               }
             }
           },
@@ -171,11 +171,13 @@
   },
   "active": "7f74e21fb8341359",
   "lastOpenFiles": [
+    "Pasted image 20231020130535.png",
+    "pdf/Determinants and Eigenvalues/Diagonal Matrices.pdf",
+    "Determinants and Eigenvalues/Eigen Things.md",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Vocabulary.md",
-    "Determinants and Eigenvalues/Diagonalization.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
     "Determinants and Eigenvalues/Markov Chains.md",
-    "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Cofactors.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
@@ -196,7 +198,6 @@
     "Linear Systems/Consistent Systems.md",
     "Linear Systems/Row Reduction Algorithm.md",
     "Linear Systems/Linear Transformations.md",
-    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
     "pdf/Determinants and Eigenvalues/Similar Matrices.pdf",
     "Similar Matrices.png",
     "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
@@ -211,7 +212,6 @@
     "pdf/Determinants and Eigenvalues/Determinants.pdf",
     "pdf/Determinants and Eigenvalues",
     "Determinants and Eigenvalues",
-    "pdf/Matrix Algebra/Coordinates, Dimension, and Rank.pdf",
     "Matrix Algebra/Pics/Coordinates, Dimension, and Rank.png",
     "Pasted image 20230930235714.png",
     "Matrix Algebra/Pics/Leontif Input-Output Model.png",
