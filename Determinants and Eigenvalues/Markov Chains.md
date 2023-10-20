@@ -10,7 +10,7 @@ P=
 \begin{bmatrix} 0.8&0.3\\0.2&0.7  \end{bmatrix}
 }
 $$
-Now, after $2$ months, $x_2=Px_1= Px_0 = P^2x_0$
+Now, after $2$ months, $x_2=Px_1 = P^2x_0$
 $\vdots$
 Now, after $k$ months, $x_k=P^kx_0$
 
