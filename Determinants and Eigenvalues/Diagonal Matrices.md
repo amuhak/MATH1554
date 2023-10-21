@@ -36,3 +36,6 @@ $$
 > [!note]
 > This is a special case and is not always true,  
 > $$\begin{bmatrix} 1&2\\0&-1 \end{bmatrix}^{-1}=\begin{bmatrix} 1&2\\0&-1 \end{bmatrix}$$
+
+If $A$ is $n \times n$ and has $n$ distinct eigenvalues, then $A$ is diagonalizable.
+$A$ does not **have to** have $n$ distinct eigenvalues for $A$ to be diagonalizable.
