@@ -48,3 +48,4 @@ $A$ does not **have to** have $n$ distinct eigenvalues for $A$ to be diagonaliza
 ![[Diagonal Matrices-3.png]]
 ![[Diagonal Matrices-4.png]]
 ![[Diagonal Matrices-5.png]]
+
