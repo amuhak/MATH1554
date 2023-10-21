@@ -14,12 +14,12 @@ $$
 > [!IMPORTANT] 
 > $v_1 \dots v_n$ are eigenvectors
 > $\lambda_1 \dots \lambda_n$ are eigenvalue
+> $A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors.
 
 >[!NOTE|] Proof
-![[Pasted image 20231020130535.png|450]]
+![[Diagonal Matrices-6.png|450]]
 
-$A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors.
-
+***
 # Example
 
 Diagonalize $A=\begin{bmatrix} 2&6\\0&-1 \end{bmatrix}$
