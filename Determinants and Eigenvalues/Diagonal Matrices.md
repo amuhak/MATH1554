@@ -39,3 +39,12 @@ $$
 
 If $A$ is $n \times n$ and has $n$ distinct eigenvalues, then $A$ is diagonalizable.
 $A$ does not **have to** have $n$ distinct eigenvalues for $A$ to be diagonalizable.
+![[Diagonal Matrices.png]]
+
+# Repeated Eigenvalue
+(I didn't feel like typing)
+![[Diagonal Matrices-1.png]]
+![[Diagonal Matrices-2.png]]
+![[Diagonal Matrices-3.png]]
+![[Diagonal Matrices-4.png]]
+![[Diagonal Matrices-5.png]]

@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vocabulary.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -171,9 +171,15 @@
   },
   "active": "7f74e21fb8341359",
   "lastOpenFiles": [
+    "Diagonal Matrices-5.png",
+    "Diagonal Matrices-4.png",
+    "Diagonal Matrices-3.png",
+    "Diagonal Matrices-2.png",
     "Vocabulary.md",
-    "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
+    "Determinants and Eigenvalues/Eigen Things.md",
+    "Diagonal Matrices-1.png",
+    "Diagonal Matrices.png",
     "Matrix Algebra/Inverse of a Matrix.md",
     "Matrix Algebra/Matrix Multiplication.md",
     "Pasted image 20231020130535.png",
@@ -207,15 +213,10 @@
     "pdf/Determinants and Eigenvalues/Eigen Things.pdf",
     "Determinants and Eigenvalues/pics",
     "Determinants.png",
-    "Determinants.png",
     "pdf/Determinants and Eigenvalues/Cofactors.pdf",
     "pdf/Determinants and Eigenvalues/Determinants.pdf",
     "pdf/Determinants and Eigenvalues",
     "Determinants and Eigenvalues",
-    "Matrix Algebra/Pics/Coordinates, Dimension, and Rank.png",
-    "Pasted image 20230930235714.png",
-    "Matrix Algebra/Pics/Leontif Input-Output Model.png",
-    "Matrix Algebra/Pics/Homogeneous Coordinates-1.png",
     "Untitled.canvas"
   ]
 }

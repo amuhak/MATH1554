@@ -33,3 +33,4 @@ The sum of the Eigenvalues of $A$ = the trace.
 - $g_i$ is the geometric multiplicity
 - $1 \leq a_i \leq n$ 
 - $1 \leq g_i \leq n$
+- $g_i \leq a_i$
