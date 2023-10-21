@@ -20,3 +20,19 @@ $$
 
 $A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors.
 
+# Example
+
+Diagonalize $A=\begin{bmatrix} 2&6\\0&-1 \end{bmatrix}$
+Eigenvalue $= 2,-1$ 
+Eigenvectors $= \begin{bmatrix} 1\\0 \end{bmatrix},\begin{bmatrix} 2\\-1 \end{bmatrix}$
+$$
+\begin{aligned}
+A&=PDP^{-1}\\
+&=\begin{bmatrix} 1&2\\0&-1 \end{bmatrix} \begin{bmatrix} 2&0\\0&-1 \end{bmatrix} \begin{bmatrix} 1&2\\0&-1 \end{bmatrix}^{-1}\\
+&=\begin{bmatrix} 1&2\\0&-1 \end{bmatrix} \begin{bmatrix} 2&0\\0&-1 \end{bmatrix} \begin{bmatrix} 1&2\\0&-1 \end{bmatrix}\\
+\end{aligned}
+$$
+
+> [!note]
+> This is a special case and is not always true,  
+> $$\begin{bmatrix} 1&2\\0&-1 \end{bmatrix}^{-1}=\begin{bmatrix} 1&2\\0&-1 \end{bmatrix}$$

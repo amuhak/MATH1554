@@ -171,10 +171,12 @@
   },
   "active": "7f74e21fb8341359",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/Eigen Things.md",
+    "Matrix Algebra/Inverse of a Matrix.md",
+    "Matrix Algebra/Matrix Multiplication.md",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Pasted image 20231020130535.png",
     "pdf/Determinants and Eigenvalues/Diagonal Matrices.pdf",
-    "Determinants and Eigenvalues/Eigen Things.md",
-    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Vocabulary.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
     "Determinants and Eigenvalues/Markov Chains.md",
@@ -183,8 +185,6 @@
     "Matrix Algebra/Leontif Input-Output Model.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
-    "Matrix Algebra/Inverse of a Matrix.md",
-    "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Partitioned Matrices.md",
     "Matrix Algebra/Elementary Matrices.md",
     "Matrix Algebra/Formulas.md",
@@ -216,7 +216,6 @@
     "Pasted image 20230930235714.png",
     "Matrix Algebra/Pics/Leontif Input-Output Model.png",
     "Matrix Algebra/Pics/Homogeneous Coordinates-1.png",
-    "Matrix Algebra/Pics/Homogeneous Coordinates.png",
     "Untitled.canvas"
   ]
 }
