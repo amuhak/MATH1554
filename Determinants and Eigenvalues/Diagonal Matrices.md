@@ -18,4 +18,5 @@ $$
 >[!NOTE|] Proof
 ![[Pasted image 20231020130535.png|450]]
 
+$A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors.
 
