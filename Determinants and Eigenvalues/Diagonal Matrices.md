@@ -15,6 +15,7 @@ $$
 > $v_1 \dots v_n$ are eigenvectors
 > $\lambda_1 \dots \lambda_n$ are eigenvalue
 > $A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors.
+> 	[[Inverse of a Matrix|Invertible]] has no effect on diagonalizability 
 
 >[!NOTE|] Proof
 ![[Diagonal Matrices-6.png|450]]
