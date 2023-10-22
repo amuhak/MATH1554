@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Basis.md"
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md"
               }
             }
           },
@@ -171,11 +172,12 @@
   },
   "active": "7f74e21fb8341359",
   "lastOpenFiles": [
-    "Matrix Algebra/Column Space and Null Space.md",
+    "Determinants and Eigenvalues/Similar Matrices.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
+    "Matrix Algebra/Column Space and Null Space.md",
+    "Matrix Algebra/Basis.md",
     "Vocabulary.md",
     "Matrix Algebra/Inverse of a Matrix.md",
-    "Determinants and Eigenvalues/Similar Matrices.md",
     "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Determinants.md",
@@ -197,7 +199,6 @@
     "Matrix Algebra/Elementary Matrices.md",
     "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Subsets and Subspaces.md",
-    "Matrix Algebra/Basis.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/LU Factorization.md",
