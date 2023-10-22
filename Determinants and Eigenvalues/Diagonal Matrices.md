@@ -15,7 +15,7 @@ $$
 > $v_1 \dots v_n$ are eigenvectors
 > $\lambda_1 \dots \lambda_n$ are eigenvalue
 > $A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors.
-> 	[[Inverse of a Matrix|invertibility]] has no effect on diagonalizability 
+> [[Inverse of a Matrix|Invertibility]] has no effect on diagonalizability 
 
 >[!NOTE|] Proof
 ![[Diagonal Matrices-6.png|450]]
@@ -42,6 +42,10 @@ If $A$ is $n \times n$ and has $n$ distinct eigenvalues, then $A$ is diagonaliza
 $A$ does not **have to** have $n$ distinct eigenvalues for $A$ to be diagonalizable.
 ![[Diagonal Matrices.png]]
 
+# Properties
+- $A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors. (The converse is not necessarily true)
+- [[Inverse of a Matrix|Invertibility]] has no effect on diagonalizability.
+- If A has $n$ distinct eigenvalues, then $A$ is diagonalizable. (The converse is not necessarily true)
 # Repeated Eigenvalue
 (I didn't feel like typing)
 ![[Diagonal Matrices-1.png]]
