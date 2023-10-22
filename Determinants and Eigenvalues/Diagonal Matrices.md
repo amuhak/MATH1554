@@ -43,9 +43,18 @@ $A$ does not **have to** have $n$ distinct eigenvalues for $A$ to be diagonaliza
 ![[Diagonal Matrices.png]]
 
 # Properties
-- $A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors. (The converse is not necessarily true)
+- $A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors.
 - [[Inverse of a Matrix|Invertibility]] has no effect on diagonalizability.
 - If A has $n$ distinct eigenvalues, then $A$ is diagonalizable. (The converse is not necessarily true)
+# Find Diagonalizability
+$$A=PDP^{-1}$$
+Finding $D$ is straight forward. It is simply the eigenvalue of $A$.
+$P$ **MUST** be [[Inverse of a Matrix|Invertible]].
+
+- If $\sum g_i = n$, $A$ is diagonalizable.
+- If $g_i = a_i$ for all $i$, $A$ is diagonalizable.
+- If the eigenvectors of $A$ form a basis in $\mathbb{R}^n$, $A$ is diagonalizable.
+
 # Repeated Eigenvalue
 (I didn't feel like typing)
 ![[Diagonal Matrices-1.png]]
