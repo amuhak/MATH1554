@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Determinants and Eigenvalues/Complex Eigenvalues.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -159,10 +159,10 @@
   },
   "active": "a58e328a725c2d5c",
   "lastOpenFiles": [
-    "Determinants and Eigenvalues/pics/Determinants.png",
-    "Determinants and Eigenvalues/Complex Eigenvalues.md",
-    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Determinants and Eigenvalues/Markov Chains.md",
+    "Determinants and Eigenvalues/Complex Eigenvalues.md",
+    "Determinants and Eigenvalues/pics/Determinants.png",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Vocabulary.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
     "Matrix Algebra/Column Space and Null Space.md",
@@ -198,7 +198,6 @@
     "Determinants and Eigenvalues/pics/Similar Matrices.png",
     "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
     "pdf/Determinants and Eigenvalues/Markov Chains.pdf",
-    "Determinants and Eigenvalues/pics/Markov Chain.png",
     "pdf/Determinants and Eigenvalues/Eigen Things.pdf",
     "Determinants and Eigenvalues/pics",
     "pdf/Determinants and Eigenvalues/Cofactors.pdf",
