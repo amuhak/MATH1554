@@ -65,15 +65,16 @@ $$\text{Null}(A-\lambda_2 I)= \left\{ \begin{bmatrix} -1 \\ 1 \\ 0 \end{bmatrix}
 ## Find $P$ 
 $$
 \begin{aligned}
-P &= \begin{bmatrix} \vec{v_1} & \vec{v_2} & \vec{v_3} \end{bmatrix}
-\end{aligned}\\
-&= \begin{bmatrix} 2 & -1 & -4 \\ 1 & 1 & 0 \\ -2  \end{bmatrix}
+P &= \begin{bmatrix} \vec{v_1} & \vec{v_2} & \vec{v_3} \end{bmatrix}\\
+&= \begin{bmatrix} 2 & -1 & -4 \\ 1 & 1 & 0 \\ -2 & 0 & 1 \end{bmatrix}
+\end{aligned}
+$$
+## Find $D$
+$$
+\begin{aligned}
+D &= \begin{bmatrix} \lambda_1\\ &\lambda_2\\ &&\ddots\\ &&&\lambda_4 \end{bmatrix} \\
+&= \begin{bmatrix} 1 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 3 \end{bmatrix}
+\end{aligned}
 $$
 
-
-![[Diagonal Matrices-1.png]]
-![[Diagonal Matrices-2.png]]
-![[Diagonal Matrices-3.png]]
-![[Diagonal Matrices-4.png]]
-![[Diagonal Matrices-5.png]]
-
+***

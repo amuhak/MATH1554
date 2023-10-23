@@ -11,11 +11,9 @@
             "id": "7f74e21fb8341359",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
-                "mode": "source",
-                "source": false
+                "file": "Determinants and Eigenvalues/pics/Determinants.png"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
+                "file": "Determinants and Eigenvalues/pics/Determinants.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
+                "file": "Determinants and Eigenvalues/pics/Determinants.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md"
+                "file": "Determinants and Eigenvalues/pics/Determinants.png"
               }
             }
           },
@@ -158,11 +155,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7f74e21fb8341359",
+  "active": "52cda0946c10db9b",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/Complex Eigenvalues.md",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Determinants and Eigenvalues/Markov Chains.md",
     "Vocabulary.md",
-    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
     "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/Basis.md",
@@ -170,13 +168,13 @@
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Determinants.md",
     "Diagonal Matrices-5.png",
-    "Diagonal Matrices-6.png",
+    "Determinants and Eigenvalues/pics/Diagonal Matrices-6.png",
     "Pasted image 20231020130535.png",
     "Diagonal Matrices-4.png",
     "Diagonal Matrices-3.png",
     "Diagonal Matrices-2.png",
     "Diagonal Matrices-1.png",
-    "Diagonal Matrices.png",
+    "Determinants and Eigenvalues/pics/Diagonal Matrices.png",
     "Matrix Algebra/Matrix Multiplication.md",
     "pdf/Determinants and Eigenvalues/Diagonal Matrices.pdf",
     "Determinants and Eigenvalues/Cofactors.md",
@@ -195,10 +193,10 @@
     "Linear Systems/Row Reduction Algorithm.md",
     "Linear Systems/Linear Transformations.md",
     "pdf/Determinants and Eigenvalues/Similar Matrices.pdf",
-    "Similar Matrices.png",
+    "Determinants and Eigenvalues/pics/Similar Matrices.png",
     "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
     "pdf/Determinants and Eigenvalues/Markov Chains.pdf",
-    "Markov Chain.png",
+    "Determinants and Eigenvalues/pics/Markov Chain.png",
     "pdf/Determinants and Eigenvalues/Eigen Things.pdf",
     "Determinants and Eigenvalues/pics",
     "pdf/Determinants and Eigenvalues/Cofactors.pdf",
