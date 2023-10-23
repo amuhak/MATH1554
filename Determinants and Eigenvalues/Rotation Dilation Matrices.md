@@ -8,3 +8,4 @@ More generally, any such matrix is a rotation dilation matrix:
 $$
 \begin{bmatrix} a & -b \\ b & a \end{bmatrix}
 $$
+For this the eigenvalues will work out to be $a \pm ib$ or in polar form $r(\cos \theta \pm \sin \theta)$. Where $r^2 = a^2 + b^2$ and $\theta$ is the angle of rotation ($\tan \theta = \frac{b}{a}$). 
