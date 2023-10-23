@@ -56,7 +56,21 @@ $P$ **MUST** be [[Inverse of a Matrix|Invertible]].
 - If the eigenvectors of $A$ form a basis in $\mathbb{R}^n$, $A$ is diagonalizable.
 
 # Repeated Eigenvalue
-(I didn't feel like typing)
+
+Diagonalize $A = \begin{bmatrix} 7 & 4 & 16 \\ 2 & 5 & 8 \\ -2 & -2 & -5 \end{bmatrix}$ with eigenvalues $\lambda_1 = 1 , \lambda_2 = \lambda_3 =3$. 
+## Find eigenvectors of $\lambda_1 = 1$:
+$$\text{Null}(A-\lambda_1 I)=\begin{bmatrix} 2 \\ 1 \\ -1 \end{bmatrix}$$
+## Find eigenvectors of $\lambda_2 = \lambda_3 =3$:
+$$\text{Null}(A-\lambda_2 I)= \left\{ \begin{bmatrix} -1 \\ 1 \\ 0 \end{bmatrix}  , \begin{bmatrix} -4 \\ 0 \\ 1 \end{bmatrix} \right\}$$ 
+## Find $P$ 
+$$
+\begin{aligned}
+P &= \begin{bmatrix} \vec{v_1} & \vec{v_2} & \vec{v_3} \end{bmatrix}
+\end{aligned}\\
+&= \begin{bmatrix}  \end{bmatrix}
+$$
+
+
 ![[Diagonal Matrices-1.png]]
 ![[Diagonal Matrices-2.png]]
 ![[Diagonal Matrices-3.png]]
