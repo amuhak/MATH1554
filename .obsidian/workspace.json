@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "df3e77d7f5514c5c",
+        "id": "64d21fd9d67502b6",
         "type": "tabs",
         "children": [
           {
-            "id": "7f74e21fb8341359",
+            "id": "a58e328a725c2d5c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/pics/Determinants.png"
+                "file": "Determinants and Eigenvalues/Complex Eigenvalues.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/pics/Determinants.png",
+                "file": "Determinants and Eigenvalues/Complex Eigenvalues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/pics/Determinants.png",
+                "file": "Determinants and Eigenvalues/Complex Eigenvalues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/pics/Determinants.png"
+                "file": "Determinants and Eigenvalues/Complex Eigenvalues.md"
               }
             }
           },
@@ -155,8 +157,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "52cda0946c10db9b",
+  "active": "a58e328a725c2d5c",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/pics/Determinants.png",
     "Determinants and Eigenvalues/Complex Eigenvalues.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Determinants and Eigenvalues/Markov Chains.md",
@@ -191,7 +194,6 @@
     "Linear Systems/Echelon Form.md",
     "Linear Systems/Consistent Systems.md",
     "Linear Systems/Row Reduction Algorithm.md",
-    "Linear Systems/Linear Transformations.md",
     "pdf/Determinants and Eigenvalues/Similar Matrices.pdf",
     "Determinants and Eigenvalues/pics/Similar Matrices.png",
     "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
