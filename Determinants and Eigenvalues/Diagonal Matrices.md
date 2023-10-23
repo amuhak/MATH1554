@@ -67,7 +67,7 @@ $$
 \begin{aligned}
 P &= \begin{bmatrix} \vec{v_1} & \vec{v_2} & \vec{v_3} \end{bmatrix}
 \end{aligned}\\
-&= \begin{bmatrix}  \end{bmatrix}
+&= \begin{bmatrix} 2 & -1 & -4 \\ 1 & 1 & 0 \\ -2  \end{bmatrix}
 $$
 
 
