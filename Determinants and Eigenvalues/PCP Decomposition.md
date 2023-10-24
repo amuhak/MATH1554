@@ -5,9 +5,11 @@ $$
 Where 
 $$
 P = 
-\begin{bmatrix} \text{Re} \vec{v} & \text{Im} \vec{v} \end{bmatrix} 
+\begin{bmatrix} \text{Re} (\vec{v}) & \text{Im} (\vec{v}) \end{bmatrix} 
 $$
 $$
 C=\begin{bmatrix} a & -b \\ b & a \end{bmatrix} 
 $$
 $C$ is a [[Rotation Dilation Matrices|rotation dilation matrix]]
+> [!IMPORTANT]
+> We are looking at the eigenvalue $a - bi$ **not** $a \pm bi$
