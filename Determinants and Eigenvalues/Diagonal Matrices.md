@@ -8,7 +8,7 @@ If $A$ is similar to diagonal matrix $D$ ($A=PDP^{-1}$) then A is diagonalizable
 $$
 \begin{aligned}
 A&=PDP^{-1}\\
-A&=\begin{bmatrix} v_1&v_2\dots&v_n \end{bmatrix} \begin{bmatrix} \lambda_1\\ &\lambda_2\\ &&\ddots\\ &&&\lambda_4 \end{bmatrix} \begin{bmatrix} v_1&v_2\dots&v_n \end{bmatrix}^{-1}
+A&=\begin{bmatrix} v_1&v_2\dots&v_n \end{bmatrix} \begin{bmatrix} \lambda_1\\ &\lambda_2\\ &&\ddots\\ &&&\lambda_n \end{bmatrix} \begin{bmatrix} v_1&v_2\dots&v_n \end{bmatrix}^{-1}
 \end{aligned}
 $$
 > [!IMPORTANT] 
