@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
-                "mode": "source",
+                "file": "Vocabulary.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -159,10 +159,10 @@
   },
   "active": "a58e328a725c2d5c",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/PCP Decomposition.md",
     "pdf/Determinants and Eigenvalues/PCP Decomposition.pdf",
-    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Determinants and Eigenvalues/Complex Eigenvalues.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
     "Determinants and Eigenvalues/Determinants.md",
