@@ -33,6 +33,7 @@ P\vec{q}-I_n\vec{q}&=0\\
 \vec{q}&=\boxed{\begin{bmatrix} \frac{3}{5} \\ \frac{2}{5} \end{bmatrix}}
 \end{aligned}
 $$
+If a matrix is regular stochastic, it implies the existence of a steady state.
 # Convergence
 We have $x_1, x_2,x_3,\dots x_k$. We want to know if while $k \rightarrow \infty$ $x_k$ will converge to a [[Markov Chains#Steady State|steady state]].
 
