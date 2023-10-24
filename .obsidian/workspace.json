@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8394dfc4387d7b23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a85547cc493406b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
+                "file": "Determinants and Eigenvalues/Eigen Things.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
+                "file": "Determinants and Eigenvalues/Eigen Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
+                "file": "Determinants and Eigenvalues/Eigen Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md"
+                "file": "Determinants and Eigenvalues/Eigen Things.md"
               }
             }
           },
@@ -183,9 +159,9 @@
   },
   "active": "a58e328a725c2d5c",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/PCP Decomposition.md",
     "pdf/Determinants and Eigenvalues/PCP Decomposition.pdf",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
-    "Determinants and Eigenvalues/PCP Decomposition.md",
     "Determinants and Eigenvalues/Complex Eigenvalues.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
     "Determinants and Eigenvalues/Determinants.md",
@@ -228,7 +204,6 @@
     "pdf/Determinants and Eigenvalues/Markov Chains.pdf",
     "pdf/Determinants and Eigenvalues/Eigen Things.pdf",
     "Determinants and Eigenvalues/pics",
-    "pdf/Determinants and Eigenvalues/Cofactors.pdf",
     "Untitled.canvas"
   ]
 }
