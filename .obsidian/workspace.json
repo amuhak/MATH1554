@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a58e328a725c2d5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Determinants and Eigenvalues/Google Page Rank.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ee659ee7dd2fae3",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17658099fc70a917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonality/Dot Products and Length.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Google Page Rank.md",
+                "file": "Orthogonality/Dot Products and Length.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Google Page Rank.md",
+                "file": "Orthogonality/Dot Products and Length.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Google Page Rank.md"
+                "file": "Orthogonality/Dot Products and Length.md"
               }
             }
           },
@@ -169,14 +170,22 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "a58e328a725c2d5c",
+  "active": "17658099fc70a917",
   "lastOpenFiles": [
+    "pdf/Orthogonality/Dot Products and Length.pdf",
+    "Orthogonality/pics",
+    "Determinants and Eigenvalues/Determinants.md",
+    "Orthogonality/Dot Products and Length.md",
+    "Orthogonality",
+    "pdf/Orthogonality",
+    "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Markov Chains.md",
-    "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
-    "Determinants and Eigenvalues/Complex Eigenvalues.md",
-    "Determinants and Eigenvalues/PCP Decomposition.md",
-    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Determinants and Eigenvalues/Eigen Things.md",
+    "Determinants and Eigenvalues/Similar Matrices.md",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
+    "Determinants and Eigenvalues/Complex Eigenvalues.md",
+    "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
+    "Determinants and Eigenvalues/PCP Decomposition.md",
     "Determinants and Eigenvalues/Google Page Rank.md",
     "Vocabulary.md",
     "Determinants and Eigenvalues/pics/Google Page Rank-6.png",
@@ -187,9 +196,6 @@
     "Determinants and Eigenvalues/pics/Google Page Rank-2.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-1.png",
     "Determinants and Eigenvalues/pics/Google Page Rank.png",
-    "Determinants and Eigenvalues/Determinants.md",
-    "Determinants and Eigenvalues/Similar Matrices.md",
-    "Determinants and Eigenvalues/Cofactors.md",
     "pdf/Determinants and Eigenvalues/PCP Decomposition.pdf",
     "pdf/Determinants and Eigenvalues/Complex Eigenvalues.pdf",
     "pdf/Determinants and Eigenvalues/Rotation Dilation Matrices.pdf",
@@ -211,11 +217,7 @@
     "Matrix Algebra/Subsets and Subspaces.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
-    "Matrix Algebra/LU Factorization.md",
     "pdf/Determinants and Eigenvalues/Similar Matrices.pdf",
-    "pdf/Determinants and Eigenvalues/Markov Chain.pdf",
-    "pdf/Determinants and Eigenvalues/Markov Chains.pdf",
-    "pdf/Determinants and Eigenvalues/Eigen Things.pdf",
     "Untitled.canvas"
   ]
 }
