@@ -10,8 +10,9 @@ If Set S is orthogonal, the vectors of S are linearly independent.
 > $C_q$ can be found using $c_q=\frac{\vec{w}\cdot\vec{u}_q}{\vec{u}_q\cdot\vec{u}_q}$
 
 # Length of a Vector in the basis of an orthogonal set
-If $\vec{w} = c_1 \vec{u}_1+ \dots + c_n \vec{v}_n$
+If $\vec{w} = c_1 \vec{u}_1+ \dots + c_n \vec{v}_n=  (\vec{w} \cdot \vec{u}_1) \vec{u}_1+ \dots + (\vec{w} \cdot \vec{u}_n) \vec{v}_n$
 $$
 ||\vec{w}|| = \sqrt{(\vec{w} \cdot \vec{u}_1)^2+ \dots + (\vec{w} \cdot \vec{u}_n)^2}
 $$
+
 
