@@ -14,7 +14,7 @@ Look [[Column Space and Null Space]] to learn more.
 - $(\text{Null}A)^\perp = \text{Row}A$ 
 # $\text{Null}A^T$
 ## Properties
-- $(\text{Col}A)^\perp = \text{Null}A$ 
-- $(\text{Null}A)^\perp = \text{Col}A$ 
+- $(\text{Col}A)^\perp = \text{Null}A^T$ 
+- $(\text{Null}A^T)^\perp = \text{Col}A$ 
 ***
 
