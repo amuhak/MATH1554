@@ -14,3 +14,4 @@ $||\vec{u}|| = \sqrt{\vec{u} \cdot \vec{u}}$
 ## Properties
 $||c \vec{v}\||= |c| \cdot ||\vec{v}||$ 
 ***
+![[Dot Products and Length.png]]

@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Dot Products and Length.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Dot Products and Length.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Orthogonality/Dot Products and Length.md"
               }
             }
           },
@@ -171,8 +170,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0ee659ee7dd2fae3",
+  "active": "17658099fc70a917",
   "lastOpenFiles": [
+    "Dot Products and Length.png",
+    "Vocabulary.md",
     "Orthogonality/Dot Products and Length.md",
     "Determinants and Eigenvalues/PCP Decomposition.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
@@ -188,7 +189,6 @@
     "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Google Page Rank.md",
-    "Vocabulary.md",
     "Determinants and Eigenvalues/pics/Google Page Rank-6.png",
     "pdf/Determinants and Eigenvalues/Google Page Rank.pdf",
     "Determinants and Eigenvalues/pics/Google Page Rank-5.png",
