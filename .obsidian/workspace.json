@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ee659ee7dd2fae3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "17658099fc70a917",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Orthogonality/Dot Products and Length.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ee659ee7dd2fae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Dot Products and Length.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Dot Products and Length.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Dot Products and Length.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -170,22 +171,22 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "17658099fc70a917",
+  "active": "0ee659ee7dd2fae3",
   "lastOpenFiles": [
+    "Orthogonality/Dot Products and Length.md",
+    "Determinants and Eigenvalues/PCP Decomposition.md",
+    "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
+    "Determinants and Eigenvalues/Complex Eigenvalues.md",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
+    "Determinants and Eigenvalues/Similar Matrices.md",
     "pdf/Orthogonality/Dot Products and Length.pdf",
     "Orthogonality/pics",
     "Determinants and Eigenvalues/Determinants.md",
-    "Orthogonality/Dot Products and Length.md",
     "Orthogonality",
     "pdf/Orthogonality",
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Eigen Things.md",
-    "Determinants and Eigenvalues/Similar Matrices.md",
-    "Determinants and Eigenvalues/Diagonal Matrices.md",
-    "Determinants and Eigenvalues/Complex Eigenvalues.md",
-    "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
-    "Determinants and Eigenvalues/PCP Decomposition.md",
     "Determinants and Eigenvalues/Google Page Rank.md",
     "Vocabulary.md",
     "Determinants and Eigenvalues/pics/Google Page Rank-6.png",
@@ -217,7 +218,6 @@
     "Matrix Algebra/Subsets and Subspaces.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
-    "pdf/Determinants and Eigenvalues/Similar Matrices.pdf",
     "Untitled.canvas"
   ]
 }

@@ -46,3 +46,4 @@
 | Similar Matrices | $A$ and $B$ are similar if there is a $P$ such that $A=PBP^{-1}$. |
 | Diagonal Matrices | If the only non-zero elements, if any, are on the main diagonal. |
 | Diagonalizable | If $A$ is similar to diagonal matrix $D$ ($A=PDP^{-1}$) |
+| Unit Vector | When the length of a vector is 1 |

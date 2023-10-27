@@ -10,6 +10,7 @@ $\vec{u} \cdot \vec{u} \ge 0$
 $\vec{u} \cdot \vec{u} =0 \iff \vec{u}=0$  
 
 # Length
-$||\vec{u}||$ 
-
-$\sqrt[\sqrt[\sqrt[\sqrt[\ddots]{4}]{4}]{4}]{4}$ 
+$||\vec{u}|| = \sqrt{\vec{u} \cdot \vec{u}}$ 
+## Properties
+$||c \vec{v}\||= |c| \cdot ||\vec{v}||$ 
+***
