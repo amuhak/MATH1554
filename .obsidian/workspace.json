@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Dot Products and Length.md",
+                "file": "Orthogonality/Orthogonality.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Dot Products and Length.md",
+                "file": "Orthogonality/Orthogonality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Dot Products and Length.md",
+                "file": "Orthogonality/Orthogonality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Dot Products and Length.md"
+                "file": "Orthogonality/Orthogonality.md"
               }
             }
           },
@@ -172,9 +171,10 @@
   },
   "active": "17658099fc70a917",
   "lastOpenFiles": [
-    "Dot Products and Length.png",
     "Vocabulary.md",
+    "Orthogonality/Orthogonality.md",
     "Orthogonality/Dot Products and Length.md",
+    "Dot Products and Length.png",
     "Determinants and Eigenvalues/PCP Decomposition.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
     "Determinants and Eigenvalues/Complex Eigenvalues.md",
@@ -206,7 +206,6 @@
     "Matrix Algebra/Basis.md",
     "Matrix Algebra/Inverse of a Matrix.md",
     "Diagonal Matrices-5.png",
-    "Determinants and Eigenvalues/pics/Diagonal Matrices-6.png",
     "Matrix Algebra/Matrix Multiplication.md",
     "pdf/Determinants and Eigenvalues/Diagonal Matrices.pdf",
     "Matrix Algebra/Leontif Input-Output Model.md",
