@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -174,6 +175,7 @@
     "Vocabulary.md",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Dot Products and Length.md",
+    "pdf/Orthogonality/Orthogonality.pdf",
     "Dot Products and Length.png",
     "Determinants and Eigenvalues/PCP Decomposition.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
@@ -207,7 +209,6 @@
     "Matrix Algebra/Inverse of a Matrix.md",
     "Diagonal Matrices-5.png",
     "Matrix Algebra/Matrix Multiplication.md",
-    "pdf/Determinants and Eigenvalues/Diagonal Matrices.pdf",
     "Matrix Algebra/Leontif Input-Output Model.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
@@ -216,7 +217,6 @@
     "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Subsets and Subspaces.md",
     "Matrix Algebra/Coordinates, Dimension, and Rank.md",
-    "Matrix Algebra/Homogeneous Coordinates.md",
     "Untitled.canvas"
   ]
 }

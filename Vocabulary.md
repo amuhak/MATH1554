@@ -48,3 +48,4 @@
 | Diagonalizable | If $A$ is similar to diagonal matrix $D$ ($A=PDP^{-1}$) |
 | Unit Vector | When the length of a vector is 1 |
 | Orthogonal | If $\vec{u} \cdot \vec{v}=0$, then $\vec{u} , \vec{v}$ are Orthogonal |
+| Row space | the space spanned by the rows of matrix $A$ |
