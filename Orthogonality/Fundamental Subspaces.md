@@ -16,5 +16,3 @@ Look [[Column Space and Null Space]] to learn more.
 ## Properties
 - $(\text{Col}A)^\perp = \text{Null}A^T$ 
 - $(\text{Null}A^T)^\perp = \text{Col}A$ 
-***
-

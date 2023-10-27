@@ -49,3 +49,4 @@
 | Unit Vector | When the length of a vector is 1 |
 | Orthogonal | If $\vec{u} \cdot \vec{v}=0$, then $\vec{u} , \vec{v}$ are Orthogonal |
 | Row space | the space spanned by the rows of matrix $A$ |
+| Orthogonal Sets | If for set $\{ \vec{u}_1, \dots ,\vec{v}_n \}$ for $j \ne k$, $\vec{u}_j \perp \vec{u}_k$. |
