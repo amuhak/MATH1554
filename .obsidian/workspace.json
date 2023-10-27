@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Orthogonality.md",
+                "file": "Orthogonality/Fundamental Subspaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfca716c2cf4ace8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix Algebra/Column Space and Null Space.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Orthogonality.md",
+                "file": "Orthogonality/Fundamental Subspaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Orthogonality.md",
+                "file": "Orthogonality/Fundamental Subspaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Orthogonality.md"
+                "file": "Orthogonality/Fundamental Subspaces.md"
               }
             }
           },
@@ -172,8 +183,11 @@
   },
   "active": "17658099fc70a917",
   "lastOpenFiles": [
-    "Vocabulary.md",
+    "pdf/Orthogonality/Fundamental Subspaces.pdf",
+    "Matrix Algebra/Column Space and Null Space.md",
+    "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Orthogonality.md",
+    "Vocabulary.md",
     "Orthogonality/Dot Products and Length.md",
     "pdf/Orthogonality/Orthogonality.pdf",
     "Dot Products and Length.png",
@@ -204,7 +218,6 @@
     "pdf/Determinants and Eigenvalues/Rotation Dilation Matrices.pdf",
     "Determinants and Eigenvalues/Untitled",
     "Determinants and Eigenvalues/pics/Determinants.png",
-    "Matrix Algebra/Column Space and Null Space.md",
     "Matrix Algebra/Basis.md",
     "Matrix Algebra/Inverse of a Matrix.md",
     "Diagonal Matrices-5.png",
@@ -216,7 +229,6 @@
     "Matrix Algebra/Elementary Matrices.md",
     "Matrix Algebra/Formulas.md",
     "Matrix Algebra/Subsets and Subspaces.md",
-    "Matrix Algebra/Coordinates, Dimension, and Rank.md",
     "Untitled.canvas"
   ]
 }
