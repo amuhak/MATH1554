@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Projections.md",
+                "file": "Orthogonality/Orthonormal Columns.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Formulas.md",
+                "file": "Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Formulas.md",
+                "file": "Orthogonality/Orthonormal Columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Formulas.md",
+                "file": "Orthogonality/Orthonormal Columns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Formulas.md"
+                "file": "Orthogonality/Orthonormal Columns.md"
               }
             }
           },
@@ -170,13 +169,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "fd81caea78cd59ac",
+  "active": "17658099fc70a917",
   "lastOpenFiles": [
-    "Orthogonality/Projections.md",
+    "Vocabulary.md",
     "Orthogonality/Formulas.md",
+    "Orthogonality/Orthonormal Columns.md",
+    "Orthogonality/Projections.md",
     "pdf/Orthogonality/Formulas.pdf",
     "Orthogonality/Orthogonal Sets.md",
-    "Vocabulary.md",
     "Projections.png",
     "pdf/Orthogonality/Projections.pdf",
     "pdf/Orthogonality/Orthogonal Sets.pdf",
