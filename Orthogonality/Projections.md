@@ -19,4 +19,5 @@ So finally, $\hat{y}=\frac{\vec{y}\cdot\vec{u}}{\vec{u} \cdot \vec{u}}\vec{u}$
 >$$
 >\text{proj}_\vec{u}\vec{y}=\frac{\vec{y}\cdot\vec{u}}{\vec{u} \cdot \vec{u}}\vec{u}
 >$$
+>Also, $\vec{y}=\hat{y}+\vec{z}$ and, $\vec{z} \in W^\perp$
 
