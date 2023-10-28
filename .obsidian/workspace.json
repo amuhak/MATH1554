@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Orthogonal Sets.md",
+                "file": "Orthogonality/Projections.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Formulas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Orthogonal Sets.md",
+                "file": "Orthogonality/Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Orthogonal Sets.md",
+                "file": "Orthogonality/Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Orthogonal Sets.md"
+                "file": "Orthogonality/Formulas.md"
               }
             }
           },
@@ -170,10 +170,15 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "17658099fc70a917",
+  "active": "fd81caea78cd59ac",
   "lastOpenFiles": [
-    "Vocabulary.md",
+    "pdf/Orthogonality/Formulas.pdf",
+    "Orthogonality/Projections.md",
+    "Orthogonality/Formulas.md",
     "Orthogonality/Orthogonal Sets.md",
+    "Vocabulary.md",
+    "Projections.png",
+    "pdf/Orthogonality/Projections.pdf",
     "pdf/Orthogonality/Orthogonal Sets.pdf",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Dot Products and Length.md",
@@ -205,18 +210,14 @@
     "Determinants and Eigenvalues/pics/Google Page Rank-1.png",
     "Determinants and Eigenvalues/pics/Google Page Rank.png",
     "pdf/Determinants and Eigenvalues/PCP Decomposition.pdf",
-    "pdf/Determinants and Eigenvalues/Complex Eigenvalues.pdf",
     "Determinants and Eigenvalues/pics/Determinants.png",
     "Matrix Algebra/Basis.md",
     "Matrix Algebra/Inverse of a Matrix.md",
-    "Diagonal Matrices-5.png",
     "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
     "Matrix Algebra/Partitioned Matrices.md",
-    "Matrix Algebra/Elementary Matrices.md",
-    "Matrix Algebra/Formulas.md",
     "Untitled.canvas"
   ]
 }
