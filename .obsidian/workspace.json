@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Formulas.md",
+                "file": "Orthogonality/Projections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Formulas.md",
+                "file": "Orthogonality/Projections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Formulas.md"
+                "file": "Orthogonality/Projections.md"
               }
             }
           },
@@ -170,11 +169,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "fd81caea78cd59ac",
+  "active": "17658099fc70a917",
   "lastOpenFiles": [
+    "Orthogonality/Formulas.md",
     "pdf/Orthogonality/Formulas.pdf",
     "Orthogonality/Projections.md",
-    "Orthogonality/Formulas.md",
     "Orthogonality/Orthogonal Sets.md",
     "Vocabulary.md",
     "Projections.png",
@@ -209,7 +208,6 @@
     "Determinants and Eigenvalues/pics/Google Page Rank-2.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-1.png",
     "Determinants and Eigenvalues/pics/Google Page Rank.png",
-    "pdf/Determinants and Eigenvalues/PCP Decomposition.pdf",
     "Determinants and Eigenvalues/pics/Determinants.png",
     "Matrix Algebra/Basis.md",
     "Matrix Algebra/Inverse of a Matrix.md",
