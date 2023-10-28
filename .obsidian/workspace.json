@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Projections.md",
+                "file": "Orthogonality/Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Projections.md",
+                "file": "Orthogonality/Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Projections.md"
+                "file": "Orthogonality/Formulas.md"
               }
             }
           },
@@ -169,10 +170,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "17658099fc70a917",
+  "active": "fd81caea78cd59ac",
   "lastOpenFiles": [
-    "Orthogonality/Formulas.md",
     "Orthogonality/Projections.md",
+    "Orthogonality/Formulas.md",
     "pdf/Orthogonality/Formulas.pdf",
     "Orthogonality/Orthogonal Sets.md",
     "Vocabulary.md",

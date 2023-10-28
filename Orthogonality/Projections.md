@@ -21,3 +21,7 @@ So finally, $\hat{y}=\frac{\vec{y}\cdot\vec{u}}{\vec{u} \cdot \vec{u}}\vec{u}$
 >$$
 >Also, $\vec{y}=\hat{y}+\vec{z}$ and, $\vec{z} \in W^\perp$
 
+From this we can conclude (look at the diagram), 
+$$
+||\vec{y}||^2=||\text{proj}_\vec{u}\vec{y}||^2+||\vec{z}||^2
+$$
