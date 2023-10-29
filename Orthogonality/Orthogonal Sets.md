@@ -1,4 +1,4 @@
-If for set $\{ \vec{u}_1, \dots ,\vec{v}_n \}$ for $j \ne k$, $\vec{u}_j \perp \vec{u}_k$.
+If for set $\{ \vec{u}_1, \dots ,\vec{v}_n \}$ for $j \ne k$, $\vec{u}_j \perp \vec{u}_k$. i.e. $\vec{u}_j \cdot \vec{u}_k=0$
 
 If Set S is orthogonal, the vectors of S are linearly independent.
 

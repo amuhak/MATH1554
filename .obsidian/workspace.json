@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Orthonormal Columns.md",
+                "file": "Orthogonality/Orthogonal Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Orthogonal Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Orthonormal Columns.md",
+                "file": "Orthogonality/Orthogonal Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Orthonormal Columns.md",
+                "file": "Orthogonality/Orthogonal Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Orthonormal Columns.md"
+                "file": "Orthogonality/Orthogonal Sets.md"
               }
             }
           },
@@ -181,11 +182,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "17658099fc70a917",
+  "active": "fd81caea78cd59ac",
   "lastOpenFiles": [
-    "Orthogonality/Formulas.md",
-    "Orthogonality/Orthonormal Columns.md",
     "Vocabulary.md",
+    "Orthogonality/Formulas.md",
+    "Orthogonality/Orthogonal Matrices.md",
+    "pdf/Orthogonality/Orthogonal Matrices.pdf",
     "Orthogonality/Projections.md",
     "pdf/Orthogonality/Formulas.pdf",
     "Orthogonality/Orthogonal Sets.md",
@@ -214,7 +216,6 @@
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Google Page Rank.md",
     "Determinants and Eigenvalues/pics/Google Page Rank-6.png",
-    "pdf/Determinants and Eigenvalues/Google Page Rank.pdf",
     "Determinants and Eigenvalues/pics/Google Page Rank-5.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-4.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-3.png",
@@ -228,7 +229,6 @@
     "Matrix Algebra/Leontif Input-Output Model.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Matrix Algebra/Matrix Transpose and Powers.md",
-    "Matrix Algebra/Partitioned Matrices.md",
     "Untitled.canvas"
   ]
 }
