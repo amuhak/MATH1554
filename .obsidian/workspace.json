@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Orthogonal Matrices.md",
+                "file": "Orthogonality/Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Orthogonal Sets.md",
+                "file": "Orthogonality/Orthogonal Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Orthogonal Matrices.md",
+                "file": "Orthogonality/Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Orthogonal Matrices.md",
+                "file": "Orthogonality/Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Orthogonal Matrices.md"
+                "file": "Orthogonality/Formulas.md"
               }
             }
           },
@@ -183,10 +183,11 @@
   },
   "active": "17658099fc70a917",
   "lastOpenFiles": [
+    "Orthogonality/Orthogonal Matrices.md",
+    "Orthogonality/Fundamental Subspaces.md",
+    "Orthogonality/Formulas.md",
     "Orthogonality/Orthogonal Sets.md",
     "Vocabulary.md",
-    "Orthogonality/Formulas.md",
-    "Orthogonality/Orthogonal Matrices.md",
     "pdf/Orthogonality/Orthogonal Matrices.pdf",
     "Orthogonality/Projections.md",
     "pdf/Orthogonality/Formulas.pdf",
@@ -195,7 +196,6 @@
     "pdf/Orthogonality/Orthogonal Sets.pdf",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Dot Products and Length.md",
-    "Orthogonality/Fundamental Subspaces.md",
     "Matrix Algebra/Column Space and Null Space.md",
     "pdf/Orthogonality/Fundamental Subspaces.pdf",
     "pdf/Orthogonality/Orthogonality.pdf",
