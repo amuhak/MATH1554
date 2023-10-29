@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Orthogonal Sets.md",
+                "file": "Orthogonality/Orthogonal Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Orthogonal Sets.md",
+                "file": "Orthogonality/Orthogonal Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Orthogonal Sets.md"
+                "file": "Orthogonality/Orthogonal Matrices.md"
               }
             }
           },
@@ -182,15 +181,15 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "fd81caea78cd59ac",
+  "active": "17658099fc70a917",
   "lastOpenFiles": [
+    "Orthogonality/Orthogonal Sets.md",
     "Vocabulary.md",
     "Orthogonality/Formulas.md",
     "Orthogonality/Orthogonal Matrices.md",
     "pdf/Orthogonality/Orthogonal Matrices.pdf",
     "Orthogonality/Projections.md",
     "pdf/Orthogonality/Formulas.pdf",
-    "Orthogonality/Orthogonal Sets.md",
     "Projections.png",
     "pdf/Orthogonality/Projections.pdf",
     "pdf/Orthogonality/Orthogonal Sets.pdf",
