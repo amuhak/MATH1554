@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4245d32eeab9582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonality/Formulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -171,9 +183,9 @@
   },
   "active": "17658099fc70a917",
   "lastOpenFiles": [
-    "Vocabulary.md",
     "Orthogonality/Formulas.md",
     "Orthogonality/Orthonormal Columns.md",
+    "Vocabulary.md",
     "Orthogonality/Projections.md",
     "pdf/Orthogonality/Formulas.pdf",
     "Orthogonality/Orthogonal Sets.md",
