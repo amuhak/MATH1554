@@ -33,4 +33,12 @@ $$
 >$$
 >||\vec{y}-\hat{y}||<||\vec{y}-\vec{v}||
 >$$
+>>[!important] Proof
+>> 
+>>$\vec{y}-\vec{v}=\vec{y}-\vec{v}+(\hat{y}-\hat{y})=(\hat{y}-\vec{y})+(\hat{y}-\vec{v})$
+>>Pythagorean Theorem: $||\vec{y}-\vec{v}||^2=||\hat{y}-\vec{y}||^2+||\hat{y}-\vec{v}||^2$
+>>We know that $||\hat{y}-\vec{v}||^2 \ne 0$ as $\hat{y}\ne\vec{v}$, so $||\vec{y}-\vec{v}||^2>||\vec{y}-\hat{y}||^2$
+>>![[Projections-1.png]]
+
+
 

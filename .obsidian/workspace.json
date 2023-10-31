@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "9354273872b82778",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Projections-1.png"
+              }
+            }
+          },
+          {
             "id": "00f58afdac1c6861",
             "type": "leaf",
             "state": {
@@ -171,8 +181,10 @@
   },
   "active": "fd81caea78cd59ac",
   "lastOpenFiles": [
-    "Orthogonality/Formulas.md",
+    "Projections-2.png",
+    "Projections-1.png",
     "Orthogonality/Projections.md",
+    "Orthogonality/Formulas.md",
     "Orthogonality/Orthogonal Matrices.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/Fundamental Subspaces.md",
@@ -210,13 +222,11 @@
     "Determinants and Eigenvalues/pics/Google Page Rank-2.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-1.png",
     "Determinants and Eigenvalues/pics/Google Page Rank.png",
-    "Determinants and Eigenvalues/pics/Determinants.png",
     "Matrix Algebra/Basis.md",
     "Matrix Algebra/Inverse of a Matrix.md",
     "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
     "Matrix Algebra/The Invertible Matrix Theorem.md",
-    "Matrix Algebra/Matrix Transpose and Powers.md",
     "Untitled.canvas"
   ]
 }
