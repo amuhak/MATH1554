@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "9354273872b82778",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Projections-1.png"
-              }
-            }
-          },
-          {
             "id": "00f58afdac1c6861",
             "type": "leaf",
             "state": {
@@ -181,10 +171,10 @@
   },
   "active": "fd81caea78cd59ac",
   "lastOpenFiles": [
-    "Orthogonality/Projections.md",
-    "Projections-2.png",
-    "Projections-1.png",
     "Orthogonality/Formulas.md",
+    "Orthogonality/Projections.md",
+    "Projections-1.png",
+    "Projections-2.png",
     "Orthogonality/Orthogonal Matrices.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/Fundamental Subspaces.md",
