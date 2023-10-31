@@ -46,4 +46,5 @@ $$
 >Let $W$ be a subspace of $\mathbb{R}^n$. Then, each $\vec{y} \in \mathbb{R}^n$ has a unique decomposition.
 >$$
 >\vec{y}=\hat{y}+z,\quad  \hat{y}\in W ,\quad z \in W^\perp
+>
 
