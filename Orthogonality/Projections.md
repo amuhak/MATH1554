@@ -25,3 +25,12 @@ From this we can conclude (look at the diagram),
 $$
 ||\vec{y}||^2=||\text{proj}_\vec{u}\vec{y}||^2+||\vec{z}||^2
 $$
+***
+# Best Approximation
+
+>[!Theorem] Best Approximation Theorem
+>Let $W$ be a subspace of $\mathbb{R}^n, \vec{y}\in\mathbb{R}^n$, and $\hat{y}$ is the orthogonal projection of $\vec{y}$ onto $W$. Then for any $\vec{v}\ne\hat{y}, \vec{v} \in W$, we have 
+>$$
+>||\vec{y}-\hat{y}||<||\vec{y}-\vec{v}||
+>$$
+

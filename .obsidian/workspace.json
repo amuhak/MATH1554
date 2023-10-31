@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Fundamental Subspaces.md",
+                "file": "Orthogonality/Projections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00f58afdac1c6861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonality/Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Fundamental Subspaces.md",
+                "file": "Orthogonality/Projections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Fundamental Subspaces.md",
+                "file": "Orthogonality/Projections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Fundamental Subspaces.md"
+                "file": "Orthogonality/Projections.md"
               }
             }
           },
@@ -159,11 +171,12 @@
   },
   "active": "fd81caea78cd59ac",
   "lastOpenFiles": [
-    "Orthogonality/Orthogonality.md",
-    "Orthogonality/Projections.md",
     "Orthogonality/Formulas.md",
+    "Orthogonality/Projections.md",
     "Orthogonality/Orthogonal Matrices.md",
+    "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/Fundamental Subspaces.md",
+    "Orthogonality/Orthogonality.md",
     "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Orthogonal Sets.md",
     "Vocabulary.md",

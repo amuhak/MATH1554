@@ -17,3 +17,10 @@
 >Also, $\vec{y}=\hat{y}+\vec{z}$ and, $\vec{z} \in W^\perp$
 
 ***
+>[!Theorem] Best Approximation Theorem
+>Let $W$ be a subspace of $\mathbb{R}^n, \vec{y}\in\mathbb{R}^n$, and $\hat{y}$ is the orthogonal projection of $\vec{y}$ onto $W$. Then for any $\vec{v}\ne\hat{y}, \vec{v} \in W$, we have 
+>$$
+>||\vec{y}-\hat{y}||<||\vec{y}-\vec{v}||
+>$$
+
+***
