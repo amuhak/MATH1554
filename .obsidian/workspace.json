@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Projections.md",
+                "file": "Orthogonality/Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Projections.md",
+                "file": "Orthogonality/Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Projections.md"
+                "file": "Orthogonality/Formulas.md"
               }
             }
           },
@@ -169,10 +170,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "fd81caea78cd59ac",
+  "active": "00f58afdac1c6861",
   "lastOpenFiles": [
-    "Orthogonality/Formulas.md",
     "Orthogonality/Projections.md",
+    "Orthogonality/Formulas.md",
     "Projections-1.png",
     "Projections-2.png",
     "Orthogonality/Orthogonal Matrices.md",
