@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd81caea78cd59ac",
+            "id": "00f58afdac1c6861",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "00f58afdac1c6861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonality/Formulas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Formulas.md",
+                "file": "Orthogonality/Projections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Formulas.md",
+                "file": "Orthogonality/Projections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Formulas.md"
+                "file": "Orthogonality/Projections.md"
               }
             }
           },
@@ -172,8 +159,9 @@
   },
   "active": "00f58afdac1c6861",
   "lastOpenFiles": [
-    "Orthogonality/Projections.md",
+    "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Formulas.md",
+    "Orthogonality/Projections.md",
     "Projections-1.png",
     "Projections-2.png",
     "Orthogonality/Orthogonal Matrices.md",
@@ -181,7 +169,6 @@
     "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Dot Products and Length.md",
-    "Orthogonality/Orthogonal Sets.md",
     "Vocabulary.md",
     "pdf/Orthogonality/Orthogonal Matrices.pdf",
     "pdf/Orthogonality/Formulas.pdf",

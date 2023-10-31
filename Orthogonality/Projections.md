@@ -40,3 +40,5 @@ $$
 >>We know that $||\hat{y}-\vec{v}||^2 \ne 0$ as $\hat{y}\ne\vec{v}$, so $||\vec{y}-\vec{v}||^2>||\vec{y}-\hat{y}||^2$
 >>![[Projections-1.png]]
 
+***
+# Projection on to a plain
