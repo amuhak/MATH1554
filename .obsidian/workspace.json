@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b806aece74c6e653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -160,8 +172,10 @@
   },
   "active": "aa51389a0df13124",
   "lastOpenFiles": [
-    "Orthogonality/Formulas.md",
+    "Untitled.md",
     "Orthogonality/Gram-Schmidt Process.md",
+    "Vocabulary.md",
+    "Orthogonality/Formulas.md",
     "Orthogonality/Projections.md",
     "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Orthogonal Sets.md",
@@ -170,7 +184,6 @@
     "Orthogonality/Orthogonal Matrices.md",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Dot Products and Length.md",
-    "Vocabulary.md",
     "pdf/Orthogonality/Orthogonal Matrices.pdf",
     "pdf/Orthogonality/Formulas.pdf",
     "Projections.png",
