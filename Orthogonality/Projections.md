@@ -50,5 +50,9 @@ $$
 >If $\vec{u_1}, \dots , \vec{u_n}$ is the orthogonal basis for $W$,
 >$$
 >\hat{y}=
->\frac{\vec{y}\cdot\vec{u_1}}{\vec{u_1}\cdot\vec{u_1}}
+>\frac{\vec{y}\cdot\vec{u_1}}{\vec{u_1}\cdot\vec{u_1}}\vec{u_1}+ \dots + \frac{\vec{y}\cdot\vec{u_n}}{\vec{u_n}\cdot\vec{u_n}}\vec{u_n}
+>$$
+>$\hat{y}$ is the orthogonal projection of $\vec{y}$ onto $W$
+
+
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Fundamental Subspaces.md",
+                "file": "Orthogonality/Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -171,10 +172,10 @@
   },
   "active": "00f58afdac1c6861",
   "lastOpenFiles": [
-    "Orthogonality/Fundamental Subspaces.md",
-    "Orthogonality/Projections.md",
-    "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Formulas.md",
+    "Orthogonality/Projections.md",
+    "Orthogonality/Fundamental Subspaces.md",
+    "Orthogonality/Orthogonal Sets.md",
     "Projections-1.png",
     "Projections-2.png",
     "Orthogonality/Orthogonal Matrices.md",

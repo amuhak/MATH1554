@@ -24,3 +24,16 @@
 >$$
 
 ***
+>[!Theorem] Orthogonal Decomposition Theorem
+>Let $W$ be a subspace of $\mathbb{R}^n$. Then, each $\vec{y} \in \mathbb{R}^n$ has a unique decomposition.
+>$$
+>\vec{y}=\hat{y}+z,\quad  \hat{y}\in W ,\quad z \in W^\perp
+>$$
+>If $\vec{u_1}, \dots , \vec{u_n}$ is the orthogonal basis for $W$,
+>$$
+>\hat{y}=
+>\frac{\vec{y}\cdot\vec{u_1}}{\vec{u_1}\cdot\vec{u_1}}\vec{u_1}+ \dots + \frac{\vec{y}\cdot\vec{u_n}}{\vec{u_n}\cdot\vec{u_n}}\vec{u_n}
+>$$
+>$\hat{y}$ is the orthogonal projection of $\vec{y}$ onto $W$
+
+***
