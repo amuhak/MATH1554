@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Projections.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Gram-Schmidt Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Gram-Schmidt Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Orthogonality/Gram-Schmidt Process.md"
               }
             }
           },
@@ -171,20 +169,20 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b806aece74c6e653",
+  "active": "aa51389a0df13124",
   "lastOpenFiles": [
+    "Orthogonality/Projections.md",
+    "Orthogonality/Orthogonal Sets.md",
+    "Orthogonality/Fundamental Subspaces.md",
+    "Orthogonality/Dot Products and Length.md",
+    "Orthogonality/Orthogonality.md",
+    "Orthogonality/Formulas.md",
+    "Orthogonality/Orthogonal Matrices.md",
+    "Vocabulary.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Untitled.md",
-    "Vocabulary.md",
-    "Orthogonality/Formulas.md",
-    "Orthogonality/Projections.md",
-    "Orthogonality/Fundamental Subspaces.md",
-    "Orthogonality/Orthogonal Sets.md",
     "Projections-1.png",
     "Projections-2.png",
-    "Orthogonality/Orthogonal Matrices.md",
-    "Orthogonality/Orthogonality.md",
-    "Orthogonality/Dot Products and Length.md",
     "pdf/Orthogonality/Orthogonal Matrices.pdf",
     "pdf/Orthogonality/Formulas.pdf",
     "Projections.png",
