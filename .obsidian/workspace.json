@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a0a42e1a87e94a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -81,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -172,14 +185,15 @@
   "active": "aa51389a0df13124",
   "lastOpenFiles": [
     "Orthogonality/Projections.md",
+    "Orthogonality/Gram-Schmidt Process.md",
+    "pdf/Orthogonality/Gram-Schmidt Process.pdf",
+    "Vocabulary.md",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Formulas.md",
     "Orthogonality/Orthogonal Matrices.md",
-    "Vocabulary.md",
-    "Orthogonality/Gram-Schmidt Process.md",
     "Untitled.md",
     "Projections-1.png",
     "Projections-2.png",
@@ -201,7 +215,6 @@
     "Orthogonality/pics",
     "Determinants and Eigenvalues/Determinants.md",
     "Orthogonality",
-    "pdf/Orthogonality",
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Eigen Things.md",
@@ -216,7 +229,6 @@
     "Matrix Algebra/Inverse of a Matrix.md",
     "Matrix Algebra/Matrix Multiplication.md",
     "Matrix Algebra/Leontif Input-Output Model.md",
-    "Matrix Algebra/The Invertible Matrix Theorem.md",
     "Untitled.canvas"
   ]
 }
