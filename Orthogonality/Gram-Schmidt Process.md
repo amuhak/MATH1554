@@ -1,0 +1,1 @@
+Given n [[Linear Independence|linearly independent]] vectors
