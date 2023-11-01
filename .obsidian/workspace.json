@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Gram-Schmidt Process.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Gram-Schmidt Process.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Gram-Schmidt Process.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -170,10 +171,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "aa51389a0df13124",
+  "active": "b806aece74c6e653",
   "lastOpenFiles": [
-    "Untitled.md",
     "Orthogonality/Gram-Schmidt Process.md",
+    "Untitled.md",
     "Vocabulary.md",
     "Orthogonality/Formulas.md",
     "Orthogonality/Projections.md",

@@ -14,7 +14,7 @@
 | Codomain | $T: \mathbb{R}^n$ $\rightarrow \mathbb{R}^m$; $\mathbb{R}^m$ is the codomain of $T$ |
 | Image | The vector $T(\vec{x})$ is the image of $\vec{x}$ under $T$ |
 | Range | The set of all possible images $T(\vec{x})$ or simply the **span of A** |
-| Standard vectors| The column of the identity matrix (think $\begin{bmatrix}1 \\ 0\end{bmatrix}$ and $\begin{bmatrix} 0 \\ 1\end{bmatrix}$)|
+| Standard vectors | The column of the identity matrix (think $\begin{bmatrix}1 \\ 0\end{bmatrix}$ and $\begin{bmatrix} 0 \\ 1\end{bmatrix}$)|
 | Onto | All the elements in the codomain are mapped to. (A spans the entire codomain), Every **row** is pivotal |
 | One-To-One | Each mapping is unique (2 vectors can **NOT** map to the same vector), Every **column** is pivotal|
 | Transpose | The matrix whose columns are the rows of $A$ |
