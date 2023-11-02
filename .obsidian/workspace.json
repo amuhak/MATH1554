@@ -13,44 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Gram-Schmidt Process.md",
+                "file": "Orthogonality/QR Factorization.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89030a45a996530d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonality/Formulas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b806aece74c6e653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonality/Projections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a0a42e1a87e94a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Gram-Schmidt Process.md",
+                "file": "Orthogonality/QR Factorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Gram-Schmidt Process.md",
+                "file": "Orthogonality/QR Factorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Gram-Schmidt Process.md"
+                "file": "Orthogonality/QR Factorization.md"
               }
             }
           },
@@ -195,11 +159,15 @@
   },
   "active": "aa51389a0df13124",
   "lastOpenFiles": [
-    "Orthogonality/Formulas.md",
     "Orthogonality/Gram-Schmidt Process.md",
-    "Orthogonality/Projections.md",
+    "Orthogonality/QR Factorization.md",
     "Determinants and Eigenvalues/PCP Decomposition.md",
+    "Matrix Algebra/Homogeneous Coordinates.md",
+    "Matrix Algebra/Formulas.md",
     "Vocabulary.md",
+    "README.md",
+    "Orthogonality/Formulas.md",
+    "Orthogonality/Projections.md",
     "pdf/Orthogonality/Gram-Schmidt Process.pdf",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Fundamental Subspaces.md",
@@ -237,9 +205,6 @@
     "Determinants and Eigenvalues/pics/Google Page Rank-2.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-1.png",
     "Matrix Algebra/Basis.md",
-    "Matrix Algebra/Inverse of a Matrix.md",
-    "Matrix Algebra/Matrix Multiplication.md",
-    "Matrix Algebra/Leontif Input-Output Model.md",
     "Untitled.canvas"
   ]
 }
