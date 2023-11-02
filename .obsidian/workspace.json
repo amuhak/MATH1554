@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "aa51389a0df13124",
+  "active": "7f6881fa87fe5628",
   "lastOpenFiles": [
     "Orthogonality/Projections.md",
     "Orthogonality/Gram-Schmidt Process.md",
