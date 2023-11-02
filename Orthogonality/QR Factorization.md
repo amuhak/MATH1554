@@ -17,4 +17,8 @@ $$
 >$R$ is $n \times n$, upper triangular, with positive entries on its diagonal.
 
 
+We can get $Q$ using the Gram-Schmidt process.
+To find $R$, we can us $R=Q^TR$ due to $Q^TQ=I$
 
+# Properties 
+$\text{ Length of the } j^{th} \text{ column of }R = \text{ length of the } j^{th} \text{ column of } A$
