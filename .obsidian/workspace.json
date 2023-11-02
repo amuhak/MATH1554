@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
+                "file": "Orthogonality/QR Factorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
+                "file": "Orthogonality/QR Factorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md"
+                "file": "Orthogonality/QR Factorization.md"
               }
             }
           },
@@ -170,14 +169,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "33941a062b6e8e1f",
+  "active": "aa51389a0df13124",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/PCP Decomposition.md",
     "Matrix Algebra/LU Factorization.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/QR Factorization.md",
     "Orthogonality/Formulas.md",
     "pdf/Orthogonality/QR Factorization.pdf",
-    "Determinants and Eigenvalues/PCP Decomposition.md",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Formulas.md",
     "Vocabulary.md",
