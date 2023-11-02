@@ -18,7 +18,7 @@ $$
 
 
 We can get $Q$ using the Gram-Schmidt process.
-To find $R$, we can us $R=Q^TR$ due to $Q^TQ=I$
+To find $R$, we can us $R=Q^TA$ due to $Q^TQ=I$
 
 # Properties 
 $\text{ Length of the } j^{th} \text{ column of }R = \text{ length of the } j^{th} \text{ column of } A$
