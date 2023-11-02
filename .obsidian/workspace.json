@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "89030a45a996530d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonality/Formulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b806aece74c6e653",
             "type": "leaf",
             "state": {
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,17 +193,18 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7f6881fa87fe5628",
+  "active": "aa51389a0df13124",
   "lastOpenFiles": [
-    "Orthogonality/Projections.md",
+    "Orthogonality/Formulas.md",
     "Orthogonality/Gram-Schmidt Process.md",
-    "pdf/Orthogonality/Gram-Schmidt Process.pdf",
+    "Orthogonality/Projections.md",
+    "Determinants and Eigenvalues/PCP Decomposition.md",
     "Vocabulary.md",
+    "pdf/Orthogonality/Gram-Schmidt Process.pdf",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Orthogonality.md",
-    "Orthogonality/Formulas.md",
     "Orthogonality/Orthogonal Matrices.md",
     "Untitled.md",
     "Projections-1.png",
@@ -206,7 +218,6 @@
     "pdf/Orthogonality/Fundamental Subspaces.pdf",
     "pdf/Orthogonality/Orthogonality.pdf",
     "Dot Products and Length.png",
-    "Determinants and Eigenvalues/PCP Decomposition.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
     "Determinants and Eigenvalues/Complex Eigenvalues.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",

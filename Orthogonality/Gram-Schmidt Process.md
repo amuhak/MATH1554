@@ -13,3 +13,16 @@ $$
 $$
 Then the set $\{ \vec{v_1},\vec{v_2} \}$ is the orthogonal basis.
 
+# n-Vectors
+Given the linearly independent vectors: $\vec{x_1},\vec{x_2}, \dots, \vec{x_n}$
+$$
+\begin{aligned}
+\vec{v_1}&=\vec{x_1}  & W_1=\text{Span}\{ v_1 \}\\
+\vec{v_2}&=\vec{x_2}-\text{Proj}_{W_1}{\vec{x_2}} & W_2=\text{Span}\{ v_1,v_2 \}\\
+\vec{v_3}&=\vec{x_3}-\text{Proj}_{W_2}{\vec{x_3}} & W_3=\text{Span}\{v_1,v_2,v_3\}\\
+\vdots & & \vdots\\
+\vec{v_n}&=\vec{x_n}-\text{Proj}_{W_{n-1}}{\vec{x_n}} & W_n=\text{Span}\{v_1,\dots,v_n\}\\
+\end{aligned}
+$$
+The orthogonal basis will be $\{ \vec{v_1},\vec{v_2}, \dots \vec{v_n} \}$
+We will use the Orthogonal Decomposition Theorem that can be found in [[Orthogonality/Formulas|Formulas]]
