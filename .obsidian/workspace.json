@@ -157,13 +157,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "aa51389a0df13124",
+  "active": "52cda0946c10db9b",
   "lastOpenFiles": [
     "Orthogonality/Gram-Schmidt Process.md",
-    "Orthogonality/Formulas.md",
     "Orthogonality/QR Factorization.md",
-    "Determinants and Eigenvalues/PCP Decomposition.md",
+    "Determinants and Eigenvalues/Markov Chains.md",
+    "Orthogonality/Formulas.md",
     "Matrix Algebra/LU Factorization.md",
+    "Determinants and Eigenvalues/PCP Decomposition.md",
     "pdf/Orthogonality/QR Factorization.pdf",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Formulas.md",
@@ -196,7 +197,6 @@
     "Orthogonality/pics",
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Cofactors.md",
-    "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Google Page Rank.md",
     "Determinants and Eigenvalues/pics/Google Page Rank-6.png",
