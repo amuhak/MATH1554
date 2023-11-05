@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
+                "file": "Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -159,12 +159,12 @@
   },
   "active": "aa51389a0df13124",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/PCP Decomposition.md",
     "Orthogonality/QR Factorization.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Determinants and Eigenvalues/Markov Chains.md",
     "Orthogonality/Formulas.md",
     "Matrix Algebra/LU Factorization.md",
-    "Determinants and Eigenvalues/PCP Decomposition.md",
     "pdf/Orthogonality/QR Factorization.pdf",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Matrix Algebra/Formulas.md",
