@@ -1,4 +1,4 @@
-|           Word          	|                          Meaning                          	|
+|           Word |  Meaning    	|
 |:-------------------------:	|---------------------------------------------------------|
 | Consistent | If it has at least one solution.|
 | Row equivalent | If a sequence of row operations transforms one matrix into the other.|

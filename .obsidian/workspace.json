@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "null",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Algebra/Basis.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Algebra/Basis.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -160,6 +159,7 @@
   },
   "active": "aa51389a0df13124",
   "lastOpenFiles": [
+    "Matrix Algebra/Basis.md",
     "Vocabulary.md",
     "Determinants and Eigenvalues/PCP Decomposition.md",
     "Orthogonality/QR Factorization.md",
@@ -199,7 +199,6 @@
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Eigen Things.md",
-    "Determinants and Eigenvalues/Google Page Rank.md",
     "Determinants and Eigenvalues/pics/Google Page Rank-6.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-5.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-4.png",
