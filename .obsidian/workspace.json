@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
+                "file": "Determinants and Eigenvalues/Google Page Rank.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
+                "file": "Determinants and Eigenvalues/Google Page Rank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
+                "file": "Determinants and Eigenvalues/Google Page Rank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md"
+                "file": "Determinants and Eigenvalues/Google Page Rank.md"
               }
             }
           },
@@ -159,9 +159,10 @@
   },
   "active": "aa51389a0df13124",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/PCP Decomposition.md",
+    "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
     "Vocabulary.md",
     "Matrix Algebra/Basis.md",
-    "Determinants and Eigenvalues/PCP Decomposition.md",
     "Orthogonality/QR Factorization.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Determinants and Eigenvalues/Markov Chains.md",
@@ -190,7 +191,6 @@
     "pdf/Orthogonality/Fundamental Subspaces.pdf",
     "pdf/Orthogonality/Orthogonality.pdf",
     "Dot Products and Length.png",
-    "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
     "Determinants and Eigenvalues/Complex Eigenvalues.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
