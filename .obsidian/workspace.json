@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
+                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
+                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
+                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Diagonal Matrices.md"
+                "file": "Determinants and Eigenvalues/PCP Decomposition.md"
               }
             }
           },
@@ -171,14 +171,14 @@
   },
   "active": "aa51389a0df13124",
   "lastOpenFiles": [
-    "Determinants and Eigenvalues/Complex Eigenvalues.md",
-    "Determinants and Eigenvalues/PCP Decomposition.md",
-    "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
-    "Determinants and Eigenvalues/Google Page Rank.md",
+    "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
-    "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
+    "Determinants and Eigenvalues/Complex Eigenvalues.md",
+    "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
+    "Determinants and Eigenvalues/Google Page Rank.md",
+    "Determinants and Eigenvalues/PCP Decomposition.md",
     "Vocabulary.md",
     "Matrix Algebra/Basis.md",
     "Orthogonality/QR Factorization.md",
