@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
-                "mode": "source",
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md"
+                "file": "Determinants and Eigenvalues/Diagonal Matrices.md"
               }
             }
           },
@@ -173,10 +173,10 @@
   "active": "5c30d1b55bac5c91",
   "lastOpenFiles": [
     "Determinants and Eigenvalues/Eigen Things.md",
+    "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
     "Determinants and Eigenvalues/Complex Eigenvalues.md",
     "Vocabulary.md",
-    "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Google Page Rank.md",
     "Determinants and Eigenvalues/Markov Chains.md",
