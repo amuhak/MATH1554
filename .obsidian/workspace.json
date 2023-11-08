@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
+                "file": "Determinants and Eigenvalues/Determinants.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "99001fe523fafdd6",
+            "id": "5c30d1b55bac5c91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants and Eigenvalues/Eigen Things.md",
-                "mode": "preview",
+                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "elementary matrix",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
+                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md",
+                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determinants and Eigenvalues/PCP Decomposition.md"
+                "file": "Determinants and Eigenvalues/Rotation Dilation Matrices.md"
               }
             }
           },
@@ -169,17 +170,20 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "aa51389a0df13124",
+  "active": "5c30d1b55bac5c91",
   "lastOpenFiles": [
-    "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Eigen Things.md",
-    "Determinants and Eigenvalues/Similar Matrices.md",
-    "Determinants and Eigenvalues/Diagonal Matrices.md",
-    "Determinants and Eigenvalues/Complex Eigenvalues.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
-    "Determinants and Eigenvalues/Google Page Rank.md",
-    "Determinants and Eigenvalues/PCP Decomposition.md",
+    "Determinants and Eigenvalues/Complex Eigenvalues.md",
     "Vocabulary.md",
+    "Determinants and Eigenvalues/Determinants.md",
+    "Determinants and Eigenvalues/Cofactors.md",
+    "Determinants and Eigenvalues/Google Page Rank.md",
+    "Determinants and Eigenvalues/Markov Chains.md",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
+    "Matrix Algebra/Elementary Matrices.md",
+    "Determinants and Eigenvalues/Similar Matrices.md",
+    "Determinants and Eigenvalues/PCP Decomposition.md",
     "Matrix Algebra/Basis.md",
     "Orthogonality/QR Factorization.md",
     "Orthogonality/Gram-Schmidt Process.md",
@@ -196,7 +200,6 @@
     "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Orthogonal Matrices.md",
-    "Untitled.md",
     "Projections-1.png",
     "Projections-2.png",
     "pdf/Orthogonality/Orthogonal Matrices.pdf",
@@ -204,13 +207,11 @@
     "Projections.png",
     "pdf/Orthogonality/Projections.pdf",
     "pdf/Orthogonality/Orthogonal Sets.pdf",
-    "Matrix Algebra/Column Space and Null Space.md",
     "pdf/Orthogonality/Fundamental Subspaces.pdf",
     "pdf/Orthogonality/Orthogonality.pdf",
     "Dot Products and Length.png",
     "pdf/Orthogonality/Dot Products and Length.pdf",
     "Orthogonality/pics",
-    "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/pics/Google Page Rank-6.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-5.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-4.png",
