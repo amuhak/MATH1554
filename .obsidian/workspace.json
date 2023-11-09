@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Orthogonality/Formulas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "375ac051d0cf2bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Orthogonality/Gram-Schmidt Process.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +170,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "ff9322f4053a5f31",
+  "active": "375ac051d0cf2bb4",
   "lastOpenFiles": [
     "Orthogonality/Formulas.md",
     "Orthogonality/Gram-Schmidt Process.md",
