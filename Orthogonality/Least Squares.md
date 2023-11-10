@@ -37,13 +37,12 @@ b
 \end{bmatrix}
 $$
 
->[!Definition] Least squares
+>[!Definition]+ Least squares
 >The least squares for $Ax=b$ is $\hat{x}$ for h=which,
 >$$
 >||b-A\hat{x}|| \le ||b-Ax||
 >$$
 >for all $x$
-
 
 >[!Theorem]+ Normal Equation
 >$$
