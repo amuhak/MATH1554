@@ -44,3 +44,9 @@ $$
 >$$
 >for all $x$
 
+
+>[!Theorem] Normal Equation
+>$$
+>A^TA\hat{x}=A^T\vec{b}
+>$$
+
