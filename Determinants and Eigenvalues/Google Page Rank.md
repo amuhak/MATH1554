@@ -17,6 +17,6 @@ P will be:
 - Corresponding fixed matrix:
 ![[Google Page Rank-5.png|400]]
 ![[Google Page Rank-6.png|500]]
-> [!WHY THIS WORKS]
+> [!WHY THIS WORKS]+
 > This works because we are taking each column and reducing its sum by $(1-p)$. Then we are adding $(1-p)$ back to the column, but evenly distributed over the whole column. This insures that the sum of the column of the final matrix stays $= 1$.
 

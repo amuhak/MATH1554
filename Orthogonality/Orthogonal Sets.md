@@ -2,7 +2,7 @@ If for set $\{ \vec{u}_1, \dots ,\vec{v}_n \}$ for $j \ne k$, $\vec{u}_j \perp \
 
 If Set S is orthogonal, the vectors of S are linearly independent.
 
->[!Theorem] Expansion in Orthogonal Basis
+>[!Theorem]+ Expansion in Orthogonal Basis
 > If we have an Orthogonal Basis $\{ \vec{u}_1, \dots ,\vec{v}_n \}$  in $\mathbb{R}^n$ then for any $\vec{w} \in \mathbb{R}^n$,
 > $$
 > \vec{w} = c_1 \vec{u}_1+ \dots + c_n \vec{v}_n

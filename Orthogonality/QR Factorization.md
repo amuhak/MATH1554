@@ -7,7 +7,7 @@ $$
 \frac{1}{{||\vec{v}||}} \vec{v}
 $$
 ***
->[!Theorem] QR Factorization
+>[!Theorem]+ QR Factorization
 >For a $m\times n$ matrix $A$ linearly independent columns,
 >$$
 >A=

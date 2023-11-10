@@ -14,7 +14,7 @@ k&=\frac{\vec{y}\cdot\vec{u}}{\vec{u} \cdot \vec{u}},& \vec{u} \ne\vec{0}\\
 \end{aligned}
 $$
 So finally, $\hat{y}=\frac{\vec{y}\cdot\vec{u}}{\vec{u} \cdot \vec{u}}\vec{u}$ 
->[!Theorem] Orthogonal Projection
+>[!Theorem]+ Orthogonal Projection
 >Let non-zero $\vec{u} \in \mathbb{R}^n$, and $\vec{y} \in \mathbb{R}^n$. The orthogonal projection of $\vec{y}$ onto $\vec{u}$ is the vector in the span of $\vec{u}$ that is closest to $\vec{y}$.
 >$$
 >\text{proj}_\vec{u}\vec{y}=\frac{\vec{y}\cdot\vec{u}}{\vec{u} \cdot \vec{u}}\vec{u}
@@ -28,12 +28,12 @@ $$
 ***
 # Best Approximation
 
->[!Theorem] Best Approximation Theorem
+>[!Theorem]+ Best Approximation Theorem
 >Let $W$ be a subspace of $\mathbb{R}^n, \vec{y}\in\mathbb{R}^n$, and $\hat{y}$ is the orthogonal projection of $\vec{y}$ onto $W$. Then for any $\vec{v}\ne\hat{y}, \vec{v} \in W$, we have 
 >$$
 >||\vec{y}-\hat{y}||<||\vec{y}-\vec{v}||
 >$$
->>[!important] Proof
+>>[!important]+ Proof
 >> 
 >>$\vec{y}-\vec{v}=\vec{y}-\vec{v}+(\hat{y}-\hat{y})=(\hat{y}-\vec{y})+(\hat{y}-\vec{v})$
 >>Pythagorean Theorem: $||\vec{y}-\vec{v}||^2=||\hat{y}-\vec{y}||^2+||\hat{y}-\vec{v}||^2$
@@ -42,7 +42,7 @@ $$
 
 ***
 # Orthogonal Decomposition
->[!Theorem] Orthogonal Decomposition Theorem
+>[!Theorem]+ Orthogonal Decomposition Theorem
 >Let $W$ be a subspace of $\mathbb{R}^n$. Then, each $\vec{y} \in \mathbb{R}^n$ has a unique decomposition.
 >$$
 >\vec{y}=\hat{y}+z,\quad  \hat{y}\in W ,\quad z \in W^\perp

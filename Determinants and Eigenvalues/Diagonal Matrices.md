@@ -11,13 +11,13 @@ A&=PDP^{-1}\\
 A&=\begin{bmatrix} v_1&v_2\dots&v_n \end{bmatrix} \begin{bmatrix} \lambda_1\\ &\lambda_2\\ &&\ddots\\ &&&\lambda_n \end{bmatrix} \begin{bmatrix} v_1&v_2\dots&v_n \end{bmatrix}^{-1}
 \end{aligned}
 $$
-> [!IMPORTANT] 
+> [!IMPORTANT]+ 
 > $v_1 \dots v_n$ are eigenvectors
 > $\lambda_1 \dots \lambda_n$ are eigenvalue
 > $A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors.
 > [[Inverse of a Matrix|Invertibility]] has no effect on diagonalizability 
 
->[!NOTE|] Proof
+>[!NOTE|]+ Proof
 ![[Diagonal Matrices-6.png|450]]
 
 ***
@@ -34,7 +34,7 @@ A&=PDP^{-1}\\
 \end{aligned}
 $$
 
-> [!note]
+> [!note]+
 > This is a special case and is not always true,  
 > $$\begin{bmatrix} 1&2\\0&-1 \end{bmatrix}^{-1}=\begin{bmatrix} 1&2\\0&-1 \end{bmatrix}$$
 

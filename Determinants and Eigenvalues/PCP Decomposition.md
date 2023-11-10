@@ -11,5 +11,5 @@ $$
 C=\begin{bmatrix} a & -b \\ b & a \end{bmatrix} 
 $$
 $C$ is a [[Rotation Dilation Matrices|rotation dilation matrix]]
-> [!IMPORTANT]
+> [!IMPORTANT]+
 > We are looking at the eigenvalue $a - bi$ **not** $a \pm bi$

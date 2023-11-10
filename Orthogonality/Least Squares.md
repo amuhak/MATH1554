@@ -45,8 +45,26 @@ $$
 >for all $x$
 
 
->[!Theorem] Normal Equation
+>[!Theorem]+ Normal Equation
 >$$
 >A^TA\hat{x}=A^T\vec{b}
 >$$
+>Manipulating this we can get this,
+>$$
+>\hat{x}=(A^TA)^{-1}A^T\vec{b}
+>$$
+
+>[!Theorem]+ Using [[QR Factorization]]
+>$$
+>R\hat{x}=Q^T\vec{b}
+>$$
+>>[!IMPORTANT]+ Proof
+>>$$
+>>\begin{aligned}
+>>A^TA\hat{x}&=A^T \vec{b} \\
+>>(QR)^TQR\hat{x}&=(QR)^T \vec{b}\\
+>>R^TQ^TQR\hat{x}&=R^TQ^T\vec{b}\\
+>>R^TR\hat{x}&=R^TQ^T\vec{b}\\
+>>R\hat{x}&=Q^T\vec{b}
+>>\end{aligned}
 

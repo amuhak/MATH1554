@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[!",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,27 +170,27 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "42c41ed990608044",
+  "active": "7f6881fa87fe5628",
   "lastOpenFiles": [
-    "Orthogonality/Formulas.md",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
+    "Orthogonality/Orthogonality.md",
+    "Orthogonality/Projections.md",
     "Orthogonality/Least Squares.md",
+    "Orthogonality/Formulas.md",
     "Least Squares.png",
     "pdf/Orthogonality/Least Squares.pdf",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/QR Factorization.md",
     "Orthogonality/Dot Products and Length.md",
-    "Orthogonality/Orthogonality.md",
     "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Orthogonal Matrices.md",
-    "Orthogonality/Projections.md",
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Google Page Rank.md",
     "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
-    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Determinants and Eigenvalues/PCP Decomposition.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
     "Determinants and Eigenvalues/Complex Eigenvalues.md",
