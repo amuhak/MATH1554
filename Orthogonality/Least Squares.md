@@ -40,7 +40,7 @@ We can use the normal equation to solve for $\hat{x}$
 # Line
 Say we want to find a line $y=mx+b$ that is the best fit for the following points:
 
-| x | -1.5 | -1 | 1 | 1.5 | 2 | 
+| x | -2 | -1 | 1 | 1 | 2 | 
 | -- | -- | -- | -- | -- | -- |
 | y | -2 | -1 | 1 | 2 | 2 |  
 
@@ -48,20 +48,20 @@ Say we want to find a line $y=mx+b$ that is the best fit for the following point
 We can create a list of linear equations using this:
 $$
 \begin{aligned}
-m(-1.5)+b&=-2\\
+m(-2)+b&=-2\\
 m(-1)+b&=-1\\
 m(1)+b&=1\\
-m(1.5)+b&=2\\
+m(1)+b&=2\\
 m(2)+b&=2
 \end{aligned}
 $$
 We can turn this in to a matrix equation like so,
 $$
 \begin{bmatrix}
--1.5&1\\
+-2&1\\
 -1&1\\
 1&1\\
-1.5&1\\
+1&1\\
 2&1
 \end{bmatrix}
 \begin{bmatrix}
