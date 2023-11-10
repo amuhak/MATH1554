@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Deviation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fdc2fc902ebe161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Orthogonality/Least Squares.md",
                 "mode": "source",
                 "source": false
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Deviation.md",
+                "file": "Orthogonality/Least Squares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Deviation.md",
+                "file": "Orthogonality/Least Squares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Deviation.md"
+                "file": "Orthogonality/Least Squares.md"
               }
             }
           },
@@ -171,9 +159,11 @@
   },
   "active": "42c41ed990608044",
   "lastOpenFiles": [
-    "pdf/Orthogonality/Deviation.pdf",
-    "Orthogonality/Least Squares.md",
+    "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Deviation.md",
+    "Orthogonality/Least Squares.md",
+    "pdf/Orthogonality/Mean-Deviation Form.pdf",
+    "pdf/Orthogonality/Deviation.pdf",
     "Untitled.md",
     "Orthogonality/Formulas.md",
     "Deviation.png",
@@ -200,7 +190,6 @@
     "Determinants and Eigenvalues/Complex Eigenvalues.md",
     "Vocabulary.md",
     "Matrix Algebra/Elementary Matrices.md",
-    "Matrix Algebra/Basis.md",
     "pdf/Orthogonality/QR Factorization.pdf",
     "pdf/Orthogonality/Gram-Schmidt Process.pdf",
     "Projections-1.png",
@@ -211,9 +200,7 @@
     "pdf/Orthogonality/Projections.pdf",
     "pdf/Orthogonality/Orthogonal Sets.pdf",
     "pdf/Orthogonality/Fundamental Subspaces.pdf",
-    "pdf/Orthogonality/Orthogonality.pdf",
     "Dot Products and Length.png",
-    "pdf/Orthogonality/Dot Products and Length.pdf",
     "Determinants and Eigenvalues/pics/Google Page Rank-6.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-5.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-4.png",

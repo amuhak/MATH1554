@@ -40,6 +40,9 @@ We can use the normal equation to solve for $\hat{x}$
 ### Method 2
 1. Solve the normal equation for $\hat{x}$.
 
+### Method 3
+1. [[Mean-Deviation Form|Use Mean Deviation]]
+
 # Line
 Say we want to find a line $y=mx+b$ that is the best fit for the following points:
 
@@ -110,3 +113,26 @@ $$
 }
 $$
 So we get $\boxed{y=\dfrac{2}{5}+\dfrac{11}{10}x}$
+
+# Curves
+We can use this method to fit data to a curve using the function,
+$$
+y=c_0+c_1f_1(x)+c_2f_2(x)+\dots+c_nf_n(x)
+$$
+Lets take an example, 
+Say we want to modal:
+
+| x | -1 | 0 | 0 | 1 | 
+| -- | -- | -- | -- | -- |
+| y | 2 | 1 | 0 | 6 |
+
+Using $y=c_1x+c_2x^2$
+$$
+\begin{aligned}
+-c_1+c_2&=2\\
+0c_1+0c_2&=1\\
+0c_1+0c_2&=0\\
+c_1+c_2&=6
+\end{aligned}
+$$
+Now we can use [[Least Squares#How to solve|one of the methods]] to solve for $c_1\text{ and } c_2$ 

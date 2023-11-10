@@ -3,7 +3,7 @@
     "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "1",
+    "margin": "0",
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
