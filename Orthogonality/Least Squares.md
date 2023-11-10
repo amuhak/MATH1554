@@ -56,20 +56,54 @@ m(2)+b&=2
 \end{aligned}
 $$
 We can turn this in to a matrix equation like so,
+$$A\vec{x}=\vec{b}$$
 $$
 \begin{bmatrix}
--2&1\\
--1&1\\
+1&-2\\
+1&-1\\
 1&1\\
 1&1\\
-2&1
+1&2
 \end{bmatrix}
 \begin{bmatrix}
-m \\
-b
+b \\
+m
 \end{bmatrix}
 =
 \begin{bmatrix}
 -2 \\ -1 \\ 1 \\ 2 \\ 2
 \end{bmatrix}
 $$
+Compute QR, 
+$$
+\begin{bmatrix}
+\frac{1}{\sqrt{5}} & -\frac{2}{\sqrt{10}} \\
+\frac{1}{\sqrt{5}} & -\frac{1}{\sqrt{10}} \\
+\frac{1}{\sqrt{5}} & 0 \\
+\frac{1}{\sqrt{5}} & \frac{1}{\sqrt{10}} \\
+\frac{1}{\sqrt{5}} & \frac{2}{\sqrt{10}} \\
+\end{bmatrix}
+\begin{bmatrix}
+\frac{5}{\sqrt{5}} & 0\\
+0 & \frac{10}{\sqrt{10}}
+\end{bmatrix}
+$$
+Now compute $Q^T\vec{b}$,
+$$Q^T\vec{b}=\begin{bmatrix} \frac{2}{\sqrt{5}}\\\frac{11}{\sqrt{10}} \end{bmatrix}$$
+Finally solve $R\hat{x}=Q^T\vec{b}$,
+$$
+\begin{bmatrix}
+\frac{5}{\sqrt{5}} & 0\\
+0 & \frac{10}{\sqrt{10}}
+\end{bmatrix} \hat{x} = 
+\begin{bmatrix} \frac{2}{\sqrt{5}}\\\frac{11}{\sqrt{10}} \end{bmatrix}
+$$
+$$
+\hat{x} = \boxed{
+\begin{bmatrix}
+\frac{2}{5} \\
+\frac{11}{10} 
+\end{bmatrix}
+}
+$$
+So we get $\boxed{y=\dfrac{2}{5}+\dfrac{11}{10}x}$
