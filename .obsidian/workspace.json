@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/QR Factorization.md",
+                "file": "Orthogonality/Least Squares.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/QR Factorization.md",
+                "file": "Orthogonality/Least Squares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/QR Factorization.md",
+                "file": "Orthogonality/Least Squares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/QR Factorization.md"
+                "file": "Orthogonality/Least Squares.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   "active": "42c41ed990608044",
   "lastOpenFiles": [
     "Orthogonality/Gram-Schmidt Process.md",
+    "Orthogonality/QR Factorization.md",
     "Orthogonality/Least Squares.md",
     "Orthogonality/Formulas.md",
     "Least Squares.png",
@@ -180,7 +181,6 @@
     "Orthogonality/Projections.md",
     "Least Squares.png",
     "pdf/Orthogonality/Least Squares.pdf",
-    "Orthogonality/QR Factorization.md",
     "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Orthogonal Sets.md",
