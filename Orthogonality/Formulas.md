@@ -47,3 +47,13 @@
 >$R$ is $n \times n$, upper triangular, with positive entries on its diagonal.
 
 ***
+>[!Theorem]+ Normal Equation
+>$$
+>A^TA\hat{x}=A^T\vec{b}
+>$$
+>Manipulating this we can get this,
+>$$
+>\hat{x}=(A^TA)^{-1}A^T\vec{b}
+>$$
+
+***
