@@ -34,8 +34,11 @@ We can use the normal equation to solve for $\hat{x}$
 >>$$
 
 ## How to solve
+### Method 1
 1. Construct [[QR Factorization]]
 2. Solve $R\hat{x}=Q^T\vec{b}$
+### Method 2
+1. Solve the normal equation for $\hat{x}$.
 
 # Line
 Say we want to find a line $y=mx+b$ that is the best fit for the following points:
