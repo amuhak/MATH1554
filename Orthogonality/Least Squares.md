@@ -37,3 +37,39 @@ We can use the normal equation to solve for $\hat{x}$
 1. Construct [[QR Factorization]]
 2. Solve $R\hat{x}=Q^T\vec{b}$
 
+# Line
+Say we want to find a line $y=mx+b$ that is the best fit for the following points:
+
+| x | -1.5 | -1 | 1 | 1.5 | 2 | 
+| -- | -- | -- | -- | -- | -- |
+| y | -2 | -1 | 1 | 2 | 2 |  
+
+![[Least Squares.png|200]]
+We can create a list of linear equations using this:
+$$
+\begin{aligned}
+m(-1.5)+b&=-2\\
+m(-1)+b&=-1\\
+m(1)+b&=1\\
+m(1.5)+b&=2\\
+m(2)+b&=2
+\end{aligned}
+$$
+We can turn this in to a matrix equation like so,
+$$
+\begin{bmatrix}
+-1.5&1\\
+-1&1\\
+1&1\\
+1.5&1\\
+2&1
+\end{bmatrix}
+\begin{bmatrix}
+m \\
+b
+\end{bmatrix}
+=
+\begin{bmatrix}
+-2 \\ -1 \\ 1 \\ 2 \\ 2
+\end{bmatrix}
+$$
