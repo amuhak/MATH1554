@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Least Squares.md",
+                "file": "Orthogonality/Deviation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aafc5ad59d257a7d",
+            "id": "1fdc2fc902ebe161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Formulas.md",
+                "file": "Orthogonality/Least Squares.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Least Squares.md",
+                "file": "Orthogonality/Deviation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Least Squares.md",
+                "file": "Orthogonality/Deviation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Least Squares.md"
+                "file": "Orthogonality/Deviation.md"
               }
             }
           },
@@ -171,10 +171,14 @@
   },
   "active": "42c41ed990608044",
   "lastOpenFiles": [
+    "pdf/Orthogonality/Deviation.pdf",
+    "Orthogonality/Least Squares.md",
+    "Orthogonality/Deviation.md",
+    "Untitled.md",
+    "Orthogonality/Formulas.md",
+    "Deviation.png",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/QR Factorization.md",
-    "Orthogonality/Least Squares.md",
-    "Orthogonality/Formulas.md",
     "Least Squares.png",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Orthogonality/Orthogonality.md",
@@ -197,9 +201,7 @@
     "Vocabulary.md",
     "Matrix Algebra/Elementary Matrices.md",
     "Matrix Algebra/Basis.md",
-    "Matrix Algebra/LU Factorization.md",
     "pdf/Orthogonality/QR Factorization.pdf",
-    "Matrix Algebra/Homogeneous Coordinates.md",
     "pdf/Orthogonality/Gram-Schmidt Process.pdf",
     "Projections-1.png",
     "Projections-2.png",
@@ -215,7 +217,6 @@
     "Determinants and Eigenvalues/pics/Google Page Rank-6.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-5.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-4.png",
-    "Determinants and Eigenvalues/pics/Google Page Rank-3.png",
     "Untitled.canvas"
   ]
 }
