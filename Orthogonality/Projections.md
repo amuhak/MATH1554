@@ -13,7 +13,7 @@ $$
 k&=\frac{\vec{y}\cdot\vec{u}}{\vec{u} \cdot \vec{u}},& \vec{u} \ne\vec{0}\\
 \end{aligned}
 $$
-So finally, $\hat{y}=\frac{\vec{y}\cdot\vec{u}}{\vec{u} \cdot \vec{u}}\vec{u}$ 
+So finally, $\hat{y}=\dfrac{\vec{y}\cdot\vec{u}}{\vec{u} \cdot \vec{u}}\vec{u}$ 
 >[!Theorem]+ Orthogonal Projection
 >Let non-zero $\vec{u} \in \mathbb{R}^n$, and $\vec{y} \in \mathbb{R}^n$. The orthogonal projection of $\vec{y}$ onto $\vec{u}$ is the vector in the span of $\vec{u}$ that is closest to $\vec{y}$.
 >$$

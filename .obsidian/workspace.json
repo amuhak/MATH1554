@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Least Squares.md",
+                "file": "Orthogonality/Projections.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Least Squares.md",
+                "file": "Orthogonality/Projections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Least Squares.md",
+                "file": "Orthogonality/Projections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Least Squares.md"
+                "file": "Orthogonality/Projections.md"
               }
             }
           },
@@ -159,26 +160,26 @@
   },
   "active": "42c41ed990608044",
   "lastOpenFiles": [
+    "Orthogonality/Orthogonal Matrices.md",
     "Orthogonality/Mean-Deviation Form.md",
+    "Orthogonality/Deviation.md",
     "Orthogonality/Least Squares.md",
+    "Orthogonality/QR Factorization.md",
+    "Orthogonality/Gram-Schmidt Process.md",
+    "Orthogonality/Formulas.md",
     "Orthogonality/Projections.md",
     "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Orthogonal Sets.md",
-    "Orthogonality/Gram-Schmidt Process.md",
-    "Orthogonality/Formulas.md",
-    "Orthogonality/Deviation.md",
     "pdf/Orthogonality/Mean-Deviation Form.pdf",
     "pdf/Orthogonality/Deviation.pdf",
     "Untitled.md",
     "Deviation.png",
-    "Orthogonality/QR Factorization.md",
     "Least Squares.png",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Least Squares.png",
     "pdf/Orthogonality/Least Squares.pdf",
-    "Orthogonality/Orthogonal Matrices.md",
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Google Page Rank.md",
