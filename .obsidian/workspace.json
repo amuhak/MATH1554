@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Projections.md",
-                "mode": "source",
+                "file": "Orthogonality/Mean-Deviation Form.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Projections.md",
+                "file": "Orthogonality/Mean-Deviation Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Projections.md",
+                "file": "Orthogonality/Mean-Deviation Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Projections.md"
+                "file": "Orthogonality/Mean-Deviation Form.md"
               }
             }
           },
@@ -160,14 +159,14 @@
   },
   "active": "42c41ed990608044",
   "lastOpenFiles": [
-    "Orthogonality/Orthogonal Matrices.md",
-    "Orthogonality/Mean-Deviation Form.md",
-    "Orthogonality/Deviation.md",
     "Orthogonality/Least Squares.md",
-    "Orthogonality/QR Factorization.md",
+    "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/Formulas.md",
     "Orthogonality/Projections.md",
+    "Orthogonality/Orthogonal Matrices.md",
+    "Orthogonality/Deviation.md",
+    "Orthogonality/QR Factorization.md",
     "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Orthogonality.md",
