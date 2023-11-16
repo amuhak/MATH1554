@@ -4,7 +4,7 @@ We can compute the average,$\bar{x}$, of the $x$-values, and introduce a new var
 |-|-|-|-|-|
 |y|1|1|4|3|
 
-We can set $y=c_0-c_1\bar{x}$ 
+We can set $y=c_0-c_1x_*$ 
 $$
 \begin{bmatrix}
 1&-3.5\\
