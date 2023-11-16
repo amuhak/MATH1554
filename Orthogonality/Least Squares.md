@@ -16,6 +16,8 @@ We can use the normal equation to solve for $\hat{x}$
 >$$
 >\hat{x}=(A^TA)^{-1}A^T\vec{b}
 >$$
+>>[!IMPORTANT]+ Proof
+>>![[Least Squares-1.png]]
 
 
 >[!Theorem]+ Using [[QR Factorization]]

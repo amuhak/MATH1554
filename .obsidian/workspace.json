@@ -11,8 +11,12 @@
             "id": "e9624632534637f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonality/Mean-Deviation Form.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Mean-Deviation Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Mean-Deviation Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Orthogonality/Mean-Deviation Form.md"
               }
             }
           },
@@ -153,17 +157,18 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "52cda0946c10db9b",
+  "active": "e9624632534637f5",
   "lastOpenFiles": [
     "Orthogonality/Least Squares.md",
+    "Least Squares-1.png",
+    "Orthogonality/Deviation.md",
     "Orthogonality/QR Factorization.md",
-    "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/Projections.md",
+    "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Orthogonal Matrices.md",
     "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Formulas.md",
-    "Orthogonality/Deviation.md",
     "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Orthogonal Sets.md",
@@ -199,7 +204,6 @@
     "Dot Products and Length.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-6.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-5.png",
-    "Determinants and Eigenvalues/pics/Google Page Rank-4.png",
     "Untitled.canvas"
   ]
 }
