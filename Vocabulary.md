@@ -52,3 +52,5 @@
 | Orthogonal Sets | If for set $\{ \vec{u}_1, \dots ,\vec{v}_n \}$ for $j \ne k$, $\vec{u}_j \perp \vec{u}_k$. |
 | Orthonormal Columns | An $m \times n, m \ge n$ matrix has orthonormal columns $\iff U^TU=I_n$ |
 | Symmetric | A matrix is symmetric when $A=A^T$ |
+| Spectrum | The set of eigenvalues of a matrix |
+|  |  |

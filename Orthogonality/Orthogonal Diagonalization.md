@@ -31,3 +31,7 @@ D&=\begin{bmatrix}
 \end{aligned}
 $$
 Finding $P^T$ is trivial and left to the reader. 
+
+# Properties
+- If $A=PDP^T$, if $A$ is a [[Symmetric Matrices|symmetric matrix]] and it is [[Diagonal Matrices|diagonalizable]].
+- And the converse, $A$ is a [[Symmetric Matrices|symmetric matrix]] if $A=PDP^T$ is also true.

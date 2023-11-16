@@ -6,3 +6,4 @@ Notice, $U^TU=I_n$ implies that $U^T=U^{-1}$
 - $(U\vec{x})\cdot(U\vec{y})=0 \iff \vec{x}\cdot\vec{y}=0$
 - $U^{-1}=U^T$
 - $\det{A}=1 \text{ or } -1$
+# $U^T=U^{-1}$ 
