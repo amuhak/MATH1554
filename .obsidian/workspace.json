@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "073f2e7bc4d4ec00",
+        "id": "6dc86de17bc4a2da",
         "type": "tabs",
         "children": [
           {
-            "id": "42c41ed990608044",
+            "id": "e9624632534637f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonality/Mean-Deviation Form.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Mean-Deviation Form.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Mean-Deviation Form.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Mean-Deviation Form.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -157,17 +153,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "42c41ed990608044",
+  "active": "52cda0946c10db9b",
   "lastOpenFiles": [
     "Orthogonality/Least Squares.md",
+    "Orthogonality/QR Factorization.md",
+    "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/Projections.md",
     "Orthogonality/Orthogonal Matrices.md",
     "Orthogonality/Fundamental Subspaces.md",
-    "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Formulas.md",
     "Orthogonality/Deviation.md",
-    "Orthogonality/QR Factorization.md",
     "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Orthogonal Sets.md",
