@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a47c8f9021d43e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Determinants and Eigenvalues/Eigen Things.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ec926420997dc048",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pdp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,11 +183,14 @@
   },
   "active": "e9624632534637f5",
   "lastOpenFiles": [
+    "Determinants and Eigenvalues/Eigen Things.md",
+    "Orthogonality/Orthogonal Diagonalization.md",
+    "Orthogonal Diagonalization-3.png",
+    "Orthogonal Diagonalization-2.png",
     "pdf/Orthogonality/Orthogonal Diagonalization.pdf",
     "Orthogonal Diagonalization-1.png",
     "Orthogonal Diagonalization.png",
     "Orthogonality/Formulas.md",
-    "Orthogonality/Orthogonal Diagonalization.md",
     "Orthogonality/Orthogonal Matrices.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/QR Factorization.md",
@@ -204,19 +219,15 @@
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Google Page Rank.md",
     "Determinants and Eigenvalues/Markov Chains.md",
-    "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
     "Determinants and Eigenvalues/PCP Decomposition.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
     "pdf/Orthogonality/QR Factorization.pdf",
     "pdf/Orthogonality/Gram-Schmidt Process.pdf",
     "Projections-1.png",
-    "Projections-2.png",
     "pdf/Orthogonality/Orthogonal Matrices.pdf",
     "pdf/Orthogonality/Formulas.pdf",
-    "Projections.png",
     "pdf/Orthogonality/Projections.pdf",
-    "pdf/Orthogonality/Orthogonal Sets.pdf",
     "Untitled.canvas"
   ]
 }
