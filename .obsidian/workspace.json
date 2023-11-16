@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Symmetric Matrices.md",
+                "file": "Orthogonality/Orthogonal Diagonalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Symmetric Matrices.md",
+                "file": "Orthogonality/Orthogonal Diagonalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Symmetric Matrices.md",
+                "file": "Orthogonality/Orthogonal Diagonalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Symmetric Matrices.md"
+                "file": "Orthogonality/Orthogonal Diagonalization.md"
               }
             }
           },
@@ -171,23 +171,25 @@
   },
   "active": "e9624632534637f5",
   "lastOpenFiles": [
+    "Orthogonal Diagonalization.png",
+    "Orthogonality/Formulas.md",
+    "Orthogonality/Orthogonal Diagonalization.md",
+    "Orthogonality/Orthogonal Matrices.md",
+    "Orthogonality/Gram-Schmidt Process.md",
+    "Orthogonality/QR Factorization.md",
+    "Orthogonality/Least Squares.md",
+    "Orthogonality/Deviation.md",
+    "Orthogonality/Mean-Deviation Form.md",
+    "Orthogonality/Symmetric Matrices.md",
+    "Orthogonality/Orthogonal Sets.md",
+    "Vocabulary.md",
     "Symmetric Matrices.png",
     "pdf/Orthogonality/Symmetric Matrices.pdf",
-    "Vocabulary.md",
-    "Orthogonality/Symmetric Matrices.md",
-    "Orthogonality/Mean-Deviation Form.md",
-    "Orthogonality/Least Squares.md",
     "Least Squares-1.png",
-    "Orthogonality/Deviation.md",
-    "Orthogonality/QR Factorization.md",
-    "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/Projections.md",
-    "Orthogonality/Orthogonal Matrices.md",
     "Orthogonality/Fundamental Subspaces.md",
-    "Orthogonality/Formulas.md",
     "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Orthogonality.md",
-    "Orthogonality/Orthogonal Sets.md",
     "pdf/Orthogonality/Mean-Deviation Form.pdf",
     "pdf/Orthogonality/Deviation.pdf",
     "Untitled.md",
@@ -204,7 +206,6 @@
     "Determinants and Eigenvalues/Similar Matrices.md",
     "Determinants and Eigenvalues/PCP Decomposition.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
-    "Determinants and Eigenvalues/Complex Eigenvalues.md",
     "pdf/Orthogonality/QR Factorization.pdf",
     "pdf/Orthogonality/Gram-Schmidt Process.pdf",
     "Projections-1.png",
@@ -216,7 +217,6 @@
     "pdf/Orthogonality/Orthogonal Sets.pdf",
     "Dot Products and Length.png",
     "Determinants and Eigenvalues/pics/Google Page Rank-6.png",
-    "Determinants and Eigenvalues/pics/Google Page Rank-5.png",
     "Untitled.canvas"
   ]
 }
