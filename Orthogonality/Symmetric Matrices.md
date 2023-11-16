@@ -1,0 +1,1 @@
+A matrix is symmetric when $A=A^T$

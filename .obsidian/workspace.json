@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Symmetric Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Orthogonality/Symmetric Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Orthogonality/Symmetric Matrices.md"
               }
             }
           },
@@ -170,10 +169,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "ec926420997dc048",
+  "active": "e9624632534637f5",
   "lastOpenFiles": [
-    "Orthogonality/Symmetric Matrices.md",
     "Vocabulary.md",
+    "Orthogonality/Symmetric Matrices.md",
     "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Least Squares.md",
     "Least Squares-1.png",
