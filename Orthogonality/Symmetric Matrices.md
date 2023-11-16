@@ -6,3 +6,5 @@ A matrix is symmetric when $A=A^T$
 > $$
 > It ends up being equal to itself ($A^TA$)
 
+# Properties
+![[Symmetric Matrices.png]]
