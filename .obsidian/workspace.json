@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Mean-Deviation Form.md",
-                "mode": "preview",
+                "file": "Orthogonality/Symmetric Matrices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec926420997dc048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Mean-Deviation Form.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Mean-Deviation Form.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Mean-Deviation Form.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -157,15 +170,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e9624632534637f5",
+  "active": "ec926420997dc048",
   "lastOpenFiles": [
+    "Orthogonality/Symmetric Matrices.md",
+    "Vocabulary.md",
+    "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Least Squares.md",
     "Least Squares-1.png",
     "Orthogonality/Deviation.md",
     "Orthogonality/QR Factorization.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/Projections.md",
-    "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Orthogonal Matrices.md",
     "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Formulas.md",
@@ -189,7 +204,6 @@
     "Determinants and Eigenvalues/PCP Decomposition.md",
     "Determinants and Eigenvalues/Rotation Dilation Matrices.md",
     "Determinants and Eigenvalues/Complex Eigenvalues.md",
-    "Vocabulary.md",
     "Matrix Algebra/Elementary Matrices.md",
     "pdf/Orthogonality/QR Factorization.pdf",
     "pdf/Orthogonality/Gram-Schmidt Process.pdf",
