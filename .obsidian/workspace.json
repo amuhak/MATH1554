@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e1987770b349823",
+        "id": "ef5d842a7fa2b121",
         "type": "tabs",
         "children": [
           {
-            "id": "567a01fcf4b5b50b",
+            "id": "482c70c338d09c11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Orthogonality/Spectral Decomposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6bf0c2488bdf85a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonality/Orthogonal Diagonalization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "831dc8389a6ae565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonality/Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -181,8 +158,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "567a01fcf4b5b50b",
+  "active": "482c70c338d09c11",
   "lastOpenFiles": [
+    "Spectral Decomposition-1.png",
+    "Orthogonality/Formulas.md",
+    "Orthogonality/Orthogonal Diagonalization.md",
+    "2023-11-17.md",
+    "Orthogonality/Spectral Decomposition.md",
     "Spectral Decomposition-10.png",
     "Spectral Decomposition-9.png",
     "Spectral Decomposition-8.png",
@@ -193,12 +175,8 @@
     "Spectral Decomposition-3.png",
     "Spectral Decomposition-2.png",
     "Spectral Decomposition-1.png",
-    "Spectral Decomposition.png",
     "pdf/Orthogonality/Spectral Decomposition.pdf",
-    "Orthogonality/Orthogonal Diagonalization.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
-    "Orthogonality/Spectral Decomposition.md",
-    "Orthogonality/Formulas.md",
     "Orthogonality/Deviation.md",
     "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Symmetric Matrices.md",
@@ -224,7 +202,6 @@
     "Determinants and Eigenvalues/Google Page Rank.md",
     "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
-    "Determinants and Eigenvalues/PCP Decomposition.md",
     "pdf/Orthogonality/QR Factorization.pdf",
     "pdf/Orthogonality/Gram-Schmidt Process.pdf",
     "pdf/Orthogonality/Orthogonal Matrices.pdf",
