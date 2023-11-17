@@ -11,8 +11,12 @@
             "id": "567a01fcf4b5b50b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonality/Spectral Decomposition.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orthogonality/Spectral Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orthogonality/Spectral Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orthogonality/Spectral Decomposition.md"
+              }
             }
           },
           {
@@ -151,9 +160,10 @@
   },
   "active": "567a01fcf4b5b50b",
   "lastOpenFiles": [
+    "Orthogonality/Orthogonal Diagonalization.md",
+    "Orthogonality/Spectral Decomposition.md",
     "Orthogonality/Formulas.md",
     "Vocabulary.md",
-    "Orthogonality/Orthogonal Diagonalization.md",
     "Formulas.png",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Orthogonality/Symmetric Matrices.md",
