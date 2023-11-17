@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6bf0c2488bdf85a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonality/Orthogonal Diagonalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "831dc8389a6ae565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonality/Formulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -69,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -161,14 +184,15 @@
   "active": "567a01fcf4b5b50b",
   "lastOpenFiles": [
     "Orthogonality/Orthogonal Diagonalization.md",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Orthogonality/Spectral Decomposition.md",
     "Orthogonality/Formulas.md",
+    "Orthogonality/Deviation.md",
+    "Orthogonality/Mean-Deviation Form.md",
+    "Orthogonality/Symmetric Matrices.md",
     "Vocabulary.md",
     "Formulas.png",
     "Determinants and Eigenvalues/Eigen Things.md",
-    "Orthogonality/Symmetric Matrices.md",
-    "Orthogonality/Mean-Deviation Form.md",
-    "Orthogonality/Deviation.md",
     "Orthogonality/Least Squares.md",
     "Orthogonality/QR Factorization.md",
     "Orthogonality/Gram-Schmidt Process.md",
@@ -191,7 +215,6 @@
     "Untitled.md",
     "Deviation.png",
     "Least Squares.png",
-    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Least Squares.png",
     "pdf/Orthogonality/Least Squares.pdf",
     "Determinants and Eigenvalues/Cofactors.md",
