@@ -25,6 +25,6 @@ We must notice that $\vec{u_i}\vec{u_i}^T$ is an $n \times n$ matrix, assuming t
 
 # Properties
 - $\lambda_n\vec{u_n}\vec{u_n}^T$ will be $n \times n$ and have a Rank of 1.
->[!extra] Aproximation
+>[!extra]- Approximation
 >![[Spectral Decomposition-1.png]]
 
