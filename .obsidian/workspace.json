@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef5d842a7fa2b121",
+        "id": "08ce2b18dfaf6587",
         "type": "tabs",
         "children": [
           {
-            "id": "482c70c338d09c11",
+            "id": "355f0bac7792f121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Spectral Decomposition.md",
+                "file": "Symmetric Matrices/Symmetric Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Spectral Decomposition.md",
+                "file": "Symmetric Matrices/Symmetric Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Spectral Decomposition.md",
+                "file": "Symmetric Matrices/Symmetric Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Spectral Decomposition.md"
+                "file": "Symmetric Matrices/Symmetric Matrices.md"
               }
             }
           },
@@ -157,12 +157,38 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "482c70c338d09c11",
+  "active": "355f0bac7792f121",
   "lastOpenFiles": [
-    "Orthogonality/Orthogonal Diagonalization.md",
-    "Orthogonality/Spectral Decomposition.md",
-    "Spectral Decomposition-1.png",
+    "pdf/Symmetric Matrices/Symmetric Matrices.pdf",
+    "Symmetric Matrices/Orthogonal Diagonalization.md",
+    "pdf/Symmetric Matrices/Orthogonal Diagonalization.pdf",
+    "Symmetric Matrices/Spectral Decomposition.md",
+    "pdf/Symmetric Matrices/Spectral Decomposition.pdf",
+    "Symmetric Matrices/Formulas.md",
+    "pdf/Symmetric Matrices/Formulas.pdf",
+    "Vocabulary.md",
     "Orthogonality/Formulas.md",
+    "pdf/Orthogonality/Formulas.pdf",
+    "Orthogonality/Dot Products and Length.md",
+    "pdf/Orthogonality/Dot Products and Length.pdf",
+    "Orthogonality/Orthogonality.md",
+    "pdf/Orthogonality/Orthogonality.pdf",
+    "Orthogonality/Fundamental Subspaces.md",
+    "pdf/Orthogonality/Fundamental Subspaces.pdf",
+    "Orthogonality/Orthogonal Sets.md",
+    "pdf/Orthogonality/Orthogonal Sets.pdf",
+    "Orthogonality/Projections.md",
+    "pdf/Orthogonality/Projections.pdf",
+    "Orthogonality/Orthogonal Matrices.md",
+    "pdf/Orthogonality/Orthogonal Matrices.pdf",
+    "Orthogonality/Gram-Schmidt Process.md",
+    "Orthogonality/QR Factorization.md",
+    "Orthogonality/Least Squares.md",
+    "Orthogonality/Deviation.md",
+    "Orthogonality/Mean-Deviation Form.md",
+    "Orthogonality/pics/Dot Products and Length.png",
+    "Symmetric Matrices/Symmetric Matrices.md",
+    "Spectral Decomposition-1.png",
     "2023-11-17.md",
     "Spectral Decomposition-10.png",
     "Spectral Decomposition-9.png",
@@ -172,38 +198,13 @@
     "Spectral Decomposition-5.png",
     "Spectral Decomposition-4.png",
     "Spectral Decomposition-3.png",
-    "Spectral Decomposition-2.png",
-    "pdf/Orthogonality/Spectral Decomposition.pdf",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
-    "Orthogonality/Deviation.md",
-    "Orthogonality/Mean-Deviation Form.md",
-    "Orthogonality/Symmetric Matrices.md",
-    "Vocabulary.md",
     "Determinants and Eigenvalues/Eigen Things.md",
-    "Orthogonality/Least Squares.md",
-    "Orthogonality/QR Factorization.md",
-    "Orthogonality/Gram-Schmidt Process.md",
-    "Orthogonality/Orthogonal Matrices.md",
-    "Orthogonality/Projections.md",
-    "Orthogonality/Orthogonal Sets.md",
-    "Orthogonality/Fundamental Subspaces.md",
-    "Orthogonality/Orthogonality.md",
-    "Orthogonality/Dot Products and Length.md",
-    "pdf/Orthogonality/Orthogonal Diagonalization.pdf",
-    "pdf/Orthogonality/Symmetric Matrices.pdf",
-    "pdf/Orthogonality/Mean-Deviation Form.pdf",
-    "pdf/Orthogonality/Deviation.pdf",
-    "Untitled.md",
-    "pdf/Orthogonality/Least Squares.pdf",
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Google Page Rank.md",
     "Determinants and Eigenvalues/Markov Chains.md",
     "Determinants and Eigenvalues/Similar Matrices.md",
-    "pdf/Orthogonality/QR Factorization.pdf",
-    "pdf/Orthogonality/Gram-Schmidt Process.pdf",
-    "pdf/Orthogonality/Orthogonal Matrices.pdf",
-    "pdf/Orthogonality/Formulas.pdf",
     "Untitled.canvas"
   ]
 }
