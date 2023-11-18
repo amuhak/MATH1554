@@ -17,7 +17,7 @@ $$
 > $A$ is diagonalizable if and only if $A$ has $n$ linearly independent eigenvectors.
 > [[Inverse of a Matrix|Invertibility]] has no effect on diagonalizability 
 
->[!NOTE|]+ Proof
+>[!NOTE|]- Proof
 ![[Diagonal Matrices-6.png|450]]
 
 ***

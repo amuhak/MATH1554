@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "08ce2b18dfaf6587",
+        "id": "6dd7e42c19c3d89b",
         "type": "tabs",
         "children": [
           {
-            "id": "355f0bac7792f121",
+            "id": "899888ef2919fe0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symmetric Matrices/Quadratic Forms.md",
+                "file": "Symmetric Matrices/Change of Variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f183c2a2338f7ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonality/Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Matrices/Quadratic Forms.md",
+                "file": "Symmetric Matrices/Change of Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Matrices/Quadratic Forms.md",
+                "file": "Symmetric Matrices/Change of Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetric Matrices/Quadratic Forms.md"
+                "file": "Symmetric Matrices/Change of Variable.md"
               }
             }
           },
@@ -157,12 +169,27 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "355f0bac7792f121",
+  "active": "899888ef2919fe0c",
   "lastOpenFiles": [
-    "pdf/Symmetric Matrices/Quadratic Forms.pdf",
+    "Change of Variable.png",
+    "Orthogonality/Formulas.md",
+    "Symmetric Matrices/Change of Variable.md",
     "Symmetric Matrices/Formulas.md",
     "Symmetric Matrices/Quadratic Forms.md",
     "Symmetric Matrices/Symmetric Matrices.md",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
+    "Orthogonality/Mean-Deviation Form.md",
+    "Orthogonality/Deviation.md",
+    "Orthogonality/Least Squares.md",
+    "Orthogonality/QR Factorization.md",
+    "Orthogonality/Gram-Schmidt Process.md",
+    "Orthogonality/Orthogonal Matrices.md",
+    "Orthogonality/Projections.md",
+    "Orthogonality/Orthogonal Sets.md",
+    "Orthogonality/Fundamental Subspaces.md",
+    "Orthogonality/Orthogonality.md",
+    "Orthogonality/Dot Products and Length.md",
+    "pdf/Symmetric Matrices/Quadratic Forms.pdf",
     "Symmetric Matrices/Spectral Decomposition.md",
     "pdf/Symmetric Matrices/Symmetric Matrices.pdf",
     "Symmetric Matrices/Orthogonal Diagonalization.md",
@@ -170,24 +197,11 @@
     "pdf/Symmetric Matrices/Spectral Decomposition.pdf",
     "pdf/Symmetric Matrices/Formulas.pdf",
     "Vocabulary.md",
-    "Orthogonality/Formulas.md",
     "pdf/Orthogonality/Formulas.pdf",
-    "Orthogonality/Dot Products and Length.md",
     "pdf/Orthogonality/Dot Products and Length.pdf",
-    "Orthogonality/Orthogonality.md",
     "pdf/Orthogonality/Orthogonality.pdf",
-    "Orthogonality/Fundamental Subspaces.md",
     "pdf/Orthogonality/Fundamental Subspaces.pdf",
-    "Orthogonality/Orthogonal Sets.md",
     "pdf/Orthogonality/Orthogonal Sets.pdf",
-    "Orthogonality/Projections.md",
-    "pdf/Orthogonality/Projections.pdf",
-    "Orthogonality/Orthogonal Matrices.md",
-    "Orthogonality/Gram-Schmidt Process.md",
-    "Orthogonality/QR Factorization.md",
-    "Orthogonality/Least Squares.md",
-    "Orthogonality/Deviation.md",
-    "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/pics/Dot Products and Length.png",
     "Spectral Decomposition-1.png",
     "2023-11-17.md",
@@ -199,12 +213,10 @@
     "Spectral Decomposition-5.png",
     "Spectral Decomposition-4.png",
     "Spectral Decomposition-3.png",
-    "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Determinants.md",
     "Determinants and Eigenvalues/Google Page Rank.md",
-    "Determinants and Eigenvalues/Markov Chains.md",
     "Untitled.canvas"
   ]
 }
