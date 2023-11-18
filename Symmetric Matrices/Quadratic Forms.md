@@ -19,7 +19,14 @@ $Q=x^2-6xy+9y^2$
 We will use our eyes, the main diagonal will be the coefficients for second order terms. The other diagonal will be $\frac{1}{2}$ of the coefficient of the cross-product.
 So, $A = \b{1 &-3 \\ -3 & 9}$.
 We could compute $\vec{x}^TA\vec{x}$ to verify this result.
+***
 ### $\mathbb{R}^3$
 $Q= 5x_1^2 - x_2^2 + 3x_3^3 + 6x_1x_3 - 12x_2x_3$
 $Q= 5x_1^2 - x_2^2 + 3x_3^3 + 6x_1x_3 - 12x_2x_3 + 0 x_1x_2$
-We will once again use our eye (consider resting them after this). Like last time the main diagonal will be the coefficients for second order terms. 
+We will once again use our eye (consider resting them after this). Like last time the main diagonal will be the coefficients for second order terms. The other terms will be $\frac{1}{2}$ the coefficient of the cross-products. We will look at the variables being crossed take $x_1x_3$ for example. The location $1,3$ and $3,1$ in the matrix $A$ will be $\frac{1}{2}$ the coefficient of $x_1x_3$.
+$$
+A=
+\b{5&0&3\\0&-1&-6\\3&-6&3}
+$$
+We can once again compute $\vec{x}^TA\vec{x}$ to verify this result.
+
