@@ -3,5 +3,3 @@
 >>[!important]- Proof
 >>![[Change of Variable.png]]
 
-
-
