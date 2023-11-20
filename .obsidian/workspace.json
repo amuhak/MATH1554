@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6dd7e42c19c3d89b",
+        "id": "016ddb9518d902b6",
         "type": "tabs",
         "children": [
           {
-            "id": "899888ef2919fe0c",
+            "id": "bb105f3d2f1795a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symmetric Matrices/Change of Variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e6c0d19ef48b1ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonality/Orthonormal Matrices.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pdp",
+                "query": "||A",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Matrices/Change of Variable.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Matrices/Change of Variable.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetric Matrices/Change of Variable.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,10 +157,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "899888ef2919fe0c",
+  "active": "bb105f3d2f1795a4",
   "lastOpenFiles": [
-    "Orthogonality/Orthonormal Matrices.md",
+    "Orthogonality/Deviation.md",
+    "Orthogonality/Orthogonal Sets.md",
+    "Orthogonality/Orthogonality.md",
+    "Orthogonality/Dot Products and Length.md",
     "Symmetric Matrices/Change of Variable.md",
+    "Orthogonality/Orthonormal Matrices.md",
     "Symmetric Matrices/Orthogonal Diagonalization.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Symmetric Matrices/Quadratic Forms.md",
@@ -182,16 +173,12 @@
     "Symmetric Matrices/Symmetric Matrices.md",
     "pdf/Orthogonality/Change of Variable.pdf",
     "Orthogonality/Mean-Deviation Form.md",
-    "Orthogonality/Deviation.md",
     "Orthogonality/Least Squares.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/Formulas.md",
-    "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Projections.md",
-    "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Fundamental Subspaces.md",
     "pdf/Orthogonality/Orthonormal Matrices.pdf",
-    "Orthogonality/Orthogonality.md",
     "Symmetric Matrices/Formulas.md",
     "Change of Variable.png",
     "Orthogonality/QR Factorization.md",
