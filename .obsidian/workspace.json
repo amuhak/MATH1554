@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f183c2a2338f7ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orthogonality/Formulas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -171,28 +160,29 @@
   },
   "active": "899888ef2919fe0c",
   "lastOpenFiles": [
-    "Change of Variable.png",
-    "Orthogonality/Formulas.md",
-    "Symmetric Matrices/Change of Variable.md",
-    "Symmetric Matrices/Formulas.md",
     "Symmetric Matrices/Quadratic Forms.md",
-    "Symmetric Matrices/Symmetric Matrices.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
     "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Deviation.md",
     "Orthogonality/Least Squares.md",
-    "Orthogonality/QR Factorization.md",
     "Orthogonality/Gram-Schmidt Process.md",
-    "Orthogonality/Orthogonal Matrices.md",
+    "Orthogonality/Formulas.md",
+    "Orthogonality/Dot Products and Length.md",
     "Orthogonality/Projections.md",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Fundamental Subspaces.md",
+    "Symmetric Matrices/Change of Variable.md",
+    "Orthogonality/Orthonormal Matrices.md",
+    "pdf/Orthogonality/Orthonormal Matrices.pdf",
     "Orthogonality/Orthogonality.md",
-    "Orthogonality/Dot Products and Length.md",
+    "Symmetric Matrices/Orthogonal Diagonalization.md",
+    "Symmetric Matrices/Symmetric Matrices.md",
+    "Symmetric Matrices/Formulas.md",
+    "Change of Variable.png",
+    "Orthogonality/QR Factorization.md",
     "pdf/Symmetric Matrices/Quadratic Forms.pdf",
     "Symmetric Matrices/Spectral Decomposition.md",
     "pdf/Symmetric Matrices/Symmetric Matrices.pdf",
-    "Symmetric Matrices/Orthogonal Diagonalization.md",
     "pdf/Symmetric Matrices/Orthogonal Diagonalization.pdf",
     "pdf/Symmetric Matrices/Spectral Decomposition.pdf",
     "pdf/Symmetric Matrices/Formulas.pdf",
@@ -201,7 +191,6 @@
     "pdf/Orthogonality/Dot Products and Length.pdf",
     "pdf/Orthogonality/Orthogonality.pdf",
     "pdf/Orthogonality/Fundamental Subspaces.pdf",
-    "pdf/Orthogonality/Orthogonal Sets.pdf",
     "Orthogonality/pics/Dot Products and Length.png",
     "Spectral Decomposition-1.png",
     "2023-11-17.md",
@@ -212,7 +201,6 @@
     "Spectral Decomposition-6.png",
     "Spectral Decomposition-5.png",
     "Spectral Decomposition-4.png",
-    "Spectral Decomposition-3.png",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Determinants.md",
