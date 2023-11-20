@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symmetric Matrices/Orthogonal Diagonalization.md",
+                "file": "Orthogonality/Orthonormal Matrices.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PDP",
+                "query": "pdp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Matrices/Orthogonal Diagonalization.md",
+                "file": "Symmetric Matrices/Change of Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Matrices/Orthogonal Diagonalization.md",
+                "file": "Symmetric Matrices/Change of Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetric Matrices/Orthogonal Diagonalization.md"
+                "file": "Symmetric Matrices/Change of Variable.md"
               }
             }
           },
@@ -170,12 +170,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "1e6c0d19ef48b1ed",
+  "active": "899888ef2919fe0c",
   "lastOpenFiles": [
-    "Determinants and Eigenvalues/Diagonal Matrices.md",
-    "Symmetric Matrices/Quadratic Forms.md",
+    "Orthogonality/Orthonormal Matrices.md",
     "Symmetric Matrices/Change of Variable.md",
     "Symmetric Matrices/Orthogonal Diagonalization.md",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
+    "Symmetric Matrices/Quadratic Forms.md",
     "Vocabulary.md",
     "Symmetric Matrices/Spectral Decomposition.md",
     "Symmetric Matrices/Symmetric Matrices.md",
@@ -189,7 +190,6 @@
     "Orthogonality/Projections.md",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Fundamental Subspaces.md",
-    "Orthogonality/Orthonormal Matrices.md",
     "pdf/Orthogonality/Orthonormal Matrices.pdf",
     "Orthogonality/Orthogonality.md",
     "Symmetric Matrices/Formulas.md",
