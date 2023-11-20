@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e6c0d19ef48b1ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Symmetric Matrices/Orthogonal Diagonalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pdp",
+                "query": "PDP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Matrices/Change of Variable.md",
+                "file": "Symmetric Matrices/Orthogonal Diagonalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Matrices/Change of Variable.md",
+                "file": "Symmetric Matrices/Orthogonal Diagonalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetric Matrices/Change of Variable.md"
+                "file": "Symmetric Matrices/Orthogonal Diagonalization.md"
               }
             }
           },
@@ -158,11 +170,16 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "899888ef2919fe0c",
+  "active": "1e6c0d19ef48b1ed",
   "lastOpenFiles": [
-    "pdf/Orthogonality/Change of Variable.pdf",
-    "Symmetric Matrices/Quadratic Forms.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
+    "Symmetric Matrices/Quadratic Forms.md",
+    "Symmetric Matrices/Change of Variable.md",
+    "Symmetric Matrices/Orthogonal Diagonalization.md",
+    "Vocabulary.md",
+    "Symmetric Matrices/Spectral Decomposition.md",
+    "Symmetric Matrices/Symmetric Matrices.md",
+    "pdf/Orthogonality/Change of Variable.pdf",
     "Orthogonality/Mean-Deviation Form.md",
     "Orthogonality/Deviation.md",
     "Orthogonality/Least Squares.md",
@@ -172,26 +189,20 @@
     "Orthogonality/Projections.md",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Fundamental Subspaces.md",
-    "Symmetric Matrices/Change of Variable.md",
     "Orthogonality/Orthonormal Matrices.md",
     "pdf/Orthogonality/Orthonormal Matrices.pdf",
     "Orthogonality/Orthogonality.md",
-    "Symmetric Matrices/Orthogonal Diagonalization.md",
-    "Symmetric Matrices/Symmetric Matrices.md",
     "Symmetric Matrices/Formulas.md",
     "Change of Variable.png",
     "Orthogonality/QR Factorization.md",
     "pdf/Symmetric Matrices/Quadratic Forms.pdf",
-    "Symmetric Matrices/Spectral Decomposition.md",
     "pdf/Symmetric Matrices/Symmetric Matrices.pdf",
     "pdf/Symmetric Matrices/Orthogonal Diagonalization.pdf",
     "pdf/Symmetric Matrices/Spectral Decomposition.pdf",
     "pdf/Symmetric Matrices/Formulas.pdf",
-    "Vocabulary.md",
     "pdf/Orthogonality/Formulas.pdf",
     "pdf/Orthogonality/Dot Products and Length.pdf",
     "pdf/Orthogonality/Orthogonality.pdf",
-    "pdf/Orthogonality/Fundamental Subspaces.pdf",
     "Orthogonality/pics/Dot Products and Length.png",
     "Spectral Decomposition-1.png",
     "2023-11-17.md",
