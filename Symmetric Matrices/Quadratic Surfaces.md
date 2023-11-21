@@ -13,10 +13,10 @@ Say we have $z=Q(x)$ , $z=x^2+y^2=x^T\b{1&0\\0&1}x$
 We can graph this,
 ![[animation1.gif]]
 # Definitions
-| Word | Definition |
-|----|-----|
-| Positive Definite | If $Q>0$ for all $\vec{x} \ne 0$ |
-| Negative Definite | If $Q<0$ for all $\vec{x} \ne 0$ |
-| Positive Semidefinite | If $Q \ge 0$ for all $\vec{x}$ |
+| Word | Definition | Eigenvalues|
+|----|-----| ---- |
+| Positive Definite | If $Q>0$ for all $\vec{x} \ne 0$ | all eigenvalues are positive |
+| Negative Definite | If $Q<0$ for all $\vec{x} \ne 0$ | all eigenvalues are negative |
+| Positive Semidefinite | If $Q \ge 0$ for all $\vec{x}$ | 
 | Negative Semidefinite | If $Q \le 0$ for all $\vec{x}$ |
-| Indefinite | If $Q$ takes on positive and negative values for $\vec{x} \ne 0$ |
+| Indefinite | If $Q$ takes on positive and negative values for $\vec{x} \ne 0$ | at least one negative and one positive |

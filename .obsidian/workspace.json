@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7c9ea56fa4d265dd",
+        "id": "eff6b931942ce6a1",
         "type": "tabs",
         "children": [
           {
-            "id": "cf1b87437a2de567",
+            "id": "4cbefa509a52315e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symmetric Matrices/Quadratic Surfaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f28a0649d803126b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Matrices/Quadratic Surfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Matrices/Quadratic Surfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Symmetric Matrices/Quadratic Surfaces.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,19 +149,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "cf1b87437a2de567",
+  "active": "4cbefa509a52315e",
   "lastOpenFiles": [
     "Vocabulary.md",
     "Symmetric Matrices/Quadratic Surfaces.md",
+    "Symmetric Matrices/pics/Symmetric Matrices.png",
+    "Symmetric Matrices/pics/Orthogonal Diagonalization-1.png",
     "Symmetric Matrices/Quadratic Forms.md",
     "Symmetric Matrices/Change of Variable.md",
-    "animation1.gif",
+    "Symmetric Matrices/pics/animation1.gif",
     "pdf/Orthogonality/Quadratic Surfaces.pdf",
-    "animation.gif",
-    "Quadratic Surfaces-1.png",
+    "Symmetric Matrices/pics/animation.gif",
+    "Symmetric Matrices/pics/Quadratic Surfaces-1.png",
     "Quadratic Surfaces.png",
     "README.md",
-    "Spectral Decomposition.png",
+    "Symmetric Matrices/pics/Spectral Decomposition.png",
     "Orthogonality/Deviation.md",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Orthogonality.md",
@@ -200,7 +182,7 @@
     "Orthogonality/Fundamental Subspaces.md",
     "pdf/Orthogonality/Orthonormal Matrices.pdf",
     "Symmetric Matrices/Formulas.md",
-    "Change of Variable.png",
+    "Symmetric Matrices/pics/Change of Variable.png",
     "Orthogonality/QR Factorization.md",
     "pdf/Symmetric Matrices/Quadratic Forms.pdf",
     "pdf/Symmetric Matrices/Symmetric Matrices.pdf",
@@ -210,10 +192,8 @@
     "pdf/Orthogonality/Formulas.pdf",
     "pdf/Orthogonality/Dot Products and Length.pdf",
     "Orthogonality/pics/Dot Products and Length.png",
-    "Spectral Decomposition-1.png",
+    "Symmetric Matrices/pics/Spectral Decomposition-1.png",
     "2023-11-17.md",
-    "Spectral Decomposition-10.png",
-    "Spectral Decomposition-9.png",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Cofactors.md",
     "Untitled.canvas"
