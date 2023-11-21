@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symmetric Matrices/Change of Variable.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Matrices/Change of Variable.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Matrices/Change of Variable.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetric Matrices/Change of Variable.md"
+                "file": "README.md"
               }
             }
           },
@@ -159,13 +159,13 @@
   },
   "active": "bb105f3d2f1795a4",
   "lastOpenFiles": [
+    "Symmetric Matrices/Change of Variable.md",
     "Spectral Decomposition.png",
     "README.md",
     "Orthogonality/Deviation.md",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Dot Products and Length.md",
-    "Symmetric Matrices/Change of Variable.md",
     "Orthogonality/Orthonormal Matrices.md",
     "Symmetric Matrices/Orthogonal Diagonalization.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
@@ -201,7 +201,6 @@
     "Spectral Decomposition-7.png",
     "Spectral Decomposition-6.png",
     "Spectral Decomposition-5.png",
-    "Spectral Decomposition-4.png",
     "Determinants and Eigenvalues/Eigen Things.md",
     "Determinants and Eigenvalues/Cofactors.md",
     "Determinants and Eigenvalues/Determinants.md",
