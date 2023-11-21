@@ -12,8 +12,8 @@ Feel free to make a pull request to contribute! I will take care of compiling th
 
 ***
 # How To Run
-[Look at the PDFs](./pdf/)
+[Download and install obsidian](https://obsidian.md/download) and open this repo in it. (_**Recommended**_)
 
 **OR**
 
-[Download and install obsidian](https://obsidian.md/download) and open this repo in it.
+[Look at the PDFs](./pdf/)

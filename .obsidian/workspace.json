@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Orthogonal Matrices.md",
-                "mode": "preview",
+                "file": "Symmetric Matrices/Singular Values.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\b{",
+                "query": "A^TA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthogonality/Orthogonal Matrices.md",
+                "file": "Symmetric Matrices/Singular Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthogonality/Orthogonal Matrices.md",
+                "file": "Symmetric Matrices/Singular Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthogonality/Orthogonal Matrices.md"
+                "file": "Symmetric Matrices/Singular Values.md"
               }
             }
           },
@@ -159,51 +159,52 @@
   },
   "active": "4cbefa509a52315e",
   "lastOpenFiles": [
-    "Orthogonality/Orthogonality.md",
-    "Orthogonality/Dot Products and Length.md",
+    "pdf/Symmetric Matrices/Singular Values.pdf",
+    "Symmetric Matrices/Quadratic Surfaces.md",
+    "Symmetric Matrices/Singular Values.md",
+    "README.md",
+    "Symmetric Matrices/Symmetric Matrices.md",
+    "Symmetric Matrices/Orthogonal Diagonalization.md",
+    "Symmetric Matrices/Spectral Decomposition.md",
+    "Symmetric Matrices/Formulas.md",
+    "Symmetric Matrices/Quadratic Forms.md",
+    "Symmetric Matrices/Change of Variable.md",
+    "pdf/Symmetric Matrices/Change of Variable.pdf",
+    "pdf/Symmetric Matrices/Quadratic Surfaces.pdf",
+    "Orthogonality/Mean-Deviation Form.md",
+    "pdf/Orthogonality/Mean-Deviation Form.pdf",
+    "Orthogonality/Deviation.md",
+    "pdf/Orthogonality/Deviation.pdf",
+    "Orthogonality/Least Squares.md",
+    "pdf/Orthogonality/Least Squares.pdf",
+    "Orthogonality/QR Factorization.md",
+    "pdf/Orthogonality/QR Factorization.pdf",
+    "Orthogonality/Gram-Schmidt Process.md",
+    "pdf/Orthogonality/Gram-Schmidt Process.pdf",
+    "Orthogonality/Orthogonal Matrices.md",
+    "pdf/Orthogonality/Orthogonal Matrices.pdf",
+    "Orthogonality/Formulas.md",
+    "pdf/Orthogonality/Formulas.pdf",
+    "Orthogonality/Projections.md",
+    "pdf/Orthogonality/Projections.pdf",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Fundamental Subspaces.md",
-    "Orthogonality/Formulas.md",
-    "Orthogonality/Projections.md",
-    "Orthogonality/Orthogonal Matrices.md",
-    "Symmetric Matrices/Orthogonal Diagonalization.md",
-    "Symmetric Matrices/Quadratic Surfaces.md",
+    "Orthogonality/Orthogonality.md",
+    "Orthogonality/Dot Products and Length.md",
     "Vocabulary.md",
     "Symmetric Matrices/pics/Symmetric Matrices.png",
     "Symmetric Matrices/pics/Orthogonal Diagonalization-1.png",
-    "Symmetric Matrices/Quadratic Forms.md",
-    "Symmetric Matrices/Change of Variable.md",
     "Symmetric Matrices/pics/animation1.gif",
-    "pdf/Orthogonality/Quadratic Surfaces.pdf",
     "Symmetric Matrices/pics/animation.gif",
     "Symmetric Matrices/pics/Quadratic Surfaces-1.png",
     "Quadratic Surfaces.png",
-    "README.md",
     "Symmetric Matrices/pics/Spectral Decomposition.png",
-    "Orthogonality/Deviation.md",
     "Determinants and Eigenvalues/Diagonal Matrices.md",
-    "Symmetric Matrices/Spectral Decomposition.md",
-    "Symmetric Matrices/Symmetric Matrices.md",
-    "pdf/Orthogonality/Change of Variable.pdf",
-    "Orthogonality/Mean-Deviation Form.md",
-    "Orthogonality/Least Squares.md",
-    "Orthogonality/Gram-Schmidt Process.md",
-    "pdf/Orthogonality/Orthonormal Matrices.pdf",
-    "Symmetric Matrices/Formulas.md",
     "Symmetric Matrices/pics/Change of Variable.png",
-    "Orthogonality/QR Factorization.md",
-    "pdf/Symmetric Matrices/Quadratic Forms.pdf",
-    "pdf/Symmetric Matrices/Symmetric Matrices.pdf",
-    "pdf/Symmetric Matrices/Orthogonal Diagonalization.pdf",
-    "pdf/Symmetric Matrices/Spectral Decomposition.pdf",
-    "pdf/Symmetric Matrices/Formulas.pdf",
-    "pdf/Orthogonality/Formulas.pdf",
-    "pdf/Orthogonality/Dot Products and Length.pdf",
     "Orthogonality/pics/Dot Products and Length.png",
     "Symmetric Matrices/pics/Spectral Decomposition-1.png",
     "2023-11-17.md",
     "Determinants and Eigenvalues/Eigen Things.md",
-    "Determinants and Eigenvalues/Cofactors.md",
     "Untitled.canvas"
   ]
 }
