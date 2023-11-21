@@ -12,3 +12,4 @@ Here is it plotted when we changed $C$ from 1 to 10.
 # Curves in $\mathbb{R}^3$
 Say we have $z=Q(x)$ , $z=x^2+y^2=x^T\b{1&0\\0&1}x$ 
 We can graph this,
+![[animation1.gif]]
