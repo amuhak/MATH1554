@@ -53,4 +53,9 @@
 | Orthonormal Columns | An $m \times n, m \ge n$ matrix has orthonormal columns $\iff U^TU=I_n$ |
 | Symmetric | A matrix is symmetric when $A=A^T$ |
 | Spectrum | The set of eigenvalues of a matrix |
+| positive definite | If $Q>0$ for all $\vec{x} \ne 0$ |
+| negative definite | If $Q<0$ for all $\vec{x} \ne 0$ |
+| positive semidefinite | If $Q \ge 0$ for all $\vec{x}$ |
+| negative semidefinite | If $Q \le 0$ for all $\vec{x}$ |
+| Indefinite | If $Q$ takes on positive and negative values for $\vec{x} \ne 0$ |
 |  |  |
