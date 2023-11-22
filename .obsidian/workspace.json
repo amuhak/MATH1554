@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symmetric Matrices/Constrained Optimization.md",
+                "file": "Symmetric Matrices/Orthogonality Constraints.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Matrices/Constrained Optimization.md",
+                "file": "Symmetric Matrices/Orthogonality Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Matrices/Constrained Optimization.md",
+                "file": "Symmetric Matrices/Orthogonality Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetric Matrices/Constrained Optimization.md"
+                "file": "Symmetric Matrices/Orthogonality Constraints.md"
               }
             }
           },
@@ -159,9 +159,10 @@
   },
   "active": "4cbefa509a52315e",
   "lastOpenFiles": [
-    "Symmetric Matrices/pics/Constrained Optimization-1.png",
+    "pdf/Symmetric Matrices/Orthogonality Constraints.pdf",
     "Symmetric Matrices/Constrained Optimization.md",
     "Symmetric Matrices/Orthogonality Constraints.md",
+    "Symmetric Matrices/pics/Constrained Optimization-1.png",
     "Constrained Optimization-4.png",
     "Constrained Optimization-3.png",
     "Constrained Optimization-2.png",
