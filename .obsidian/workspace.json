@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md",
+                "file": "Symmetric Matrices/Constrained Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md",
+                "file": "Symmetric Matrices/Constrained Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md",
+                "file": "Symmetric Matrices/Constrained Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md"
+                "file": "Symmetric Matrices/Constrained Optimization.md"
               }
             }
           },
@@ -159,9 +159,11 @@
   },
   "active": "4cbefa509a52315e",
   "lastOpenFiles": [
-    "pdf/Symmetric Matrices/Singular Values.pdf",
     "Symmetric Matrices/Quadratic Surfaces.md",
+    "Symmetric Matrices/Constrained Optimization.md",
+    "Untitled.canvas",
     "Symmetric Matrices/Singular Values.md",
+    "pdf/Symmetric Matrices/Singular Values.pdf",
     "README.md",
     "Symmetric Matrices/Symmetric Matrices.md",
     "Symmetric Matrices/Orthogonal Diagonalization.md",
@@ -186,7 +188,6 @@
     "Orthogonality/Formulas.md",
     "pdf/Orthogonality/Formulas.pdf",
     "Orthogonality/Projections.md",
-    "pdf/Orthogonality/Projections.pdf",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Orthogonality.md",
@@ -204,7 +205,6 @@
     "Orthogonality/pics/Dot Products and Length.png",
     "Symmetric Matrices/pics/Spectral Decomposition-1.png",
     "2023-11-17.md",
-    "Determinants and Eigenvalues/Eigen Things.md",
-    "Untitled.canvas"
+    "Determinants and Eigenvalues/Eigen Things.md"
   ]
 }
