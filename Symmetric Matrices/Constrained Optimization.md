@@ -12,4 +12,7 @@ $$
 \end{aligned}
 $$
 Note: $||\vec{x}||^2=1$ because that is what we stated in the problem.
-So the max value of $Q$ is
+So the max value of $Q$ is 1.
+More accurately, $\text{max}\{Q(\vec{c}) : ||\vec{x}|| = 1 \} = 9,$ and max occurs at $\vec{x} = \begin{bmatrix} \pm 1 \\ 0 \\ 0 \end{bmatrix}$.
+If we minimize $Q$, $\text{min}\{Q(\vec{c}) : ||\vec{x}|| = 1 \} = 3,$ and min occurs at $\vec{x} = \begin{bmatrix} 0 \\ 0 \\ \pm 1 \end{bmatrix}$.
+Notice that the minimum and maximum values of $Q$ were the eigenvalues of $A$, and the corresponding eigenvectors gave their locations.
