@@ -15,7 +15,7 @@ Note: $||\vec{x}||^2=1$ because that is what we stated in the problem.
 So the max value of $Q$ is 1.
 More accurately, $\text{max}\{Q(\vec{c}) : ||\vec{x}|| = 1 \} = 9,$ and max occurs at $\vec{x} = \begin{bmatrix} \pm 1 \\ 0 \\ 0 \end{bmatrix}$.
 If we minimize $Q$, $\text{min}\{Q(\vec{c}) : ||\vec{x}|| = 1 \} = 3,$ and min occurs at $\vec{x} = \begin{bmatrix} 0 \\ 0 \\ \pm 1 \end{bmatrix}$.
-Notice that the minimum and maximum values of $Q$ were the eigenvalues of $A$, and the corresponding eigenvectors gave their locations.
+Notice that the minimum and maximum values of $Q$ were the eigenvalues of $A$, and the corresponding normalized eigenvectors gave their locations.
 
 >[!Theorem]+ Constrained Optimization
 >If $Q=x^TAx$, $A$ is a real $n \times n$ symmetric matrix, with eigenvalues
@@ -30,6 +30,6 @@ Notice that the minimum and maximum values of $Q$ were the eigenvalues of $A$, a
 
 
 # Repeated Eigenvalue
-If we have repeated eigenvalues then, the min and max values are found using the same prosses. The locations are the span of all the eigenvectors of the corresponding min or max eigenvalue.
+If we have repeated eigenvalues then, the min and max values are found using the same prosses. The locations are the span of all the normalized eigenvectors of the corresponding min or max eigenvalue.
 
 
