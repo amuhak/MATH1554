@@ -30,4 +30,6 @@ Notice that the minimum and maximum values of $Q$ were the eigenvalues of $A$, a
 
 
 # Repeated Eigenvalue
-If we have repeated eigenvalues then, the min and max values are found using the same prosses. The locations are the span of all the eigenvectors of the corresponding min or max eigenvalue. 
+If we have repeated eigenvalues then, the min and max values are found using the same prosses. The locations are the span of all the eigenvectors of the corresponding min or max eigenvalue.
+
+
