@@ -1,4 +1,4 @@
-# An example
+# An example when $||x||=1$
 We have a unit sphere $1=x_1^2+x_2^2+x_3^2=||x||^2$. We wish to optimize $Q=9x_1^2+4x_2^2+3x_3^2$. To find the largest and smallest value of $Q$. It can be graphed as follows: 
 ![[Constrained Optimization.png|300]]
 We wish to maximize $Q$. 
@@ -29,5 +29,4 @@ Notice that the minimum and maximum values of $Q$ were the eigenvalues of $A$, a
 >>![[Constrained Optimization-1.png]]
 
 
-
-
+# Repeated Eigenvalue
