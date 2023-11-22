@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md",
+                "file": "Symmetric Matrices/Symmetric Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md",
+                "file": "Symmetric Matrices/Symmetric Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md",
+                "file": "Symmetric Matrices/Symmetric Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md"
+                "file": "Symmetric Matrices/Symmetric Matrices.md"
               }
             }
           },
@@ -159,10 +159,12 @@
   },
   "active": "df9913212568aa80",
   "lastOpenFiles": [
-    "Symmetric Matrices/Constrained Optimization.md",
     "Symmetric Matrices/Singular Values.md",
-    "Symmetric Matrices/Quadratic Surfaces.md",
     "Symmetric Matrices/Orthogonality Constraints.md",
+    "Symmetric Matrices/Constrained Optimization.md",
+    "Symmetric Matrices/Orthogonal Diagonalization.md",
+    "Symmetric Matrices/Symmetric Matrices.md",
+    "Symmetric Matrices/Quadratic Surfaces.md",
     "Symmetric Matrices/pics/Pasted image 20231122163201.png",
     "pdf/Symmetric Matrices/Orthogonality Constraints.pdf",
     "Symmetric Matrices/pics/Constrained Optimization-1.png",
@@ -175,11 +177,8 @@
     "pdf/Symmetric Matrices/Constrained Optimization.pdf",
     "Symmetric Matrices/pics/Constrained Optimization.png",
     "Untitled.canvas",
-    "Symmetric Matrices/Singular Values.md",
     "pdf/Symmetric Matrices/Singular Values.pdf",
     "README.md",
-    "Symmetric Matrices/Symmetric Matrices.md",
-    "Symmetric Matrices/Orthogonal Diagonalization.md",
     "Symmetric Matrices/Spectral Decomposition.md",
     "Symmetric Matrices/Quadratic Forms.md",
     "Symmetric Matrices/Change of Variable.md",
