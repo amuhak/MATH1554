@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b18000ae391095d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonality/Fundamental Subspaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "851596dd9fb9080b",
             "type": "leaf",
             "state": {
@@ -183,10 +195,17 @@
   },
   "active": "df9913212568aa80",
   "lastOpenFiles": [
+    "Singular Vectors-4.png",
+    "Singular Vectors-3.png",
+    "Symmetric Matrices/Singular Values.md",
+    "Symmetric Matrices/Singular Vectors.md",
+    "Singular Vectors-2.png",
+    "Orthogonality/Fundamental Subspaces.md",
+    "Singular Vectors-1.png",
+    "pdf/Symmetric Matrices/Singular Vectors.pdf",
+    "Singular Vectors.png",
     "Symmetric Matrices/Formulas.md",
     "Symmetric Matrices/Orthogonality Constraints.md",
-    "Symmetric Matrices/Singular Vectors.md",
-    "Symmetric Matrices/Singular Values.md",
     "Singular Values.png",
     "Symmetric Matrices/Constrained Optimization.md",
     "Symmetric Matrices/Symmetric Matrices.md",
@@ -198,10 +217,8 @@
     "Constrained Optimization-4.png",
     "Constrained Optimization-3.png",
     "Constrained Optimization-2.png",
-    "Constrained Optimization-2.png",
     "Orthogonality/Formulas.md",
     "pdf/Symmetric Matrices/Constrained Optimization.pdf",
-    "Symmetric Matrices/pics/Constrained Optimization.png",
     "Untitled.canvas",
     "pdf/Symmetric Matrices/Singular Values.pdf",
     "README.md",
@@ -219,15 +236,11 @@
     "Orthogonality/QR Factorization.md",
     "pdf/Orthogonality/QR Factorization.pdf",
     "Orthogonality/Gram-Schmidt Process.md",
-    "pdf/Orthogonality/Gram-Schmidt Process.pdf",
     "Orthogonality/Orthogonal Matrices.md",
     "Orthogonality/Projections.md",
     "Orthogonality/Orthogonal Sets.md",
-    "Orthogonality/Fundamental Subspaces.md",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Dot Products and Length.md",
-    "Vocabulary.md",
-    "Symmetric Matrices/pics/Symmetric Matrices.png",
-    "Determinants and Eigenvalues/Diagonal Matrices.md"
+    "Vocabulary.md"
   ]
 }

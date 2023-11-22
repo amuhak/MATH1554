@@ -3,11 +3,17 @@
 >$$\{ \vec{v}_{r+1},\vec{v}_{r+2},\dots,\vec{v}_{n} \}$$
 >is an orthogonal basis for $\text{Nul}A$, and the set
 >$$\{ \vec{v_1},\vec{v_2},\dots,\vec{v_r} \}$$
->is an orthogonal basis for $\text{Row}A$, and $\text{rank}A$ $r$.
+>is an orthogonal basis for $\text{Row}A$, and $\text{Rank}A = r$.
 >>[!important]- Proof
+>>![[Singular Vectors.png]]
+>>
+>>![[Singular Vectors-1.png]]
+
+Using the same assumptions as above, it can be shown that,
+$$\{ A\vec{v_1},A\vec{v_2},\dots,A\vec{v_r} \}$$
+is an orthogonal basis for $\text{Col}A.$
+>[!important]- Proof
+>![[Singular Vectors-2.png]]
 
 
-
-
-
-
+![[Singular Vectors-3.png]]![[Singular Vectors-4.png]]
