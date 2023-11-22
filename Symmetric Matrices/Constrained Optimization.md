@@ -19,8 +19,15 @@ Notice that the minimum and maximum values of $Q$ were the eigenvalues of $A$, a
 
 >[!Theorem]+ Constrained Optimization
 >If $Q=x^TAx$, $A$ is a real $n \times n$ symmetric matrix, with eigenvalues
->$$\lambda_1 \qe \lambda_2 \dots \qe \lambda_n $$
+>$$\lambda_1 \ge \lambda_2 \dots \ge \lambda_n $$
 >and associated normalized eigenvectors
 >$$ u_1,u_2,\dots,u_n$$
 >Also, $||x||=1$
->Then max value of $Q$
+>Then max value of $Q(x)=\lambda_1$ attained at $\pm u_1$
+>Then min value of $Q(x)=\lambda_n$ attained at $\pm u_n$
+>>[!important]- Proof
+>>![[Constrained Optimization-1.png]]
+
+
+
+
