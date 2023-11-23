@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "edef7342fe2d34c2",
+            "id": "24c228664db84db7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symmetric Matrices/SVD.md",
-                "mode": "preview",
+                "file": "Symmetric Matrices/Quadratic Forms.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "A^TA",
+                "query": "\\b{",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,14 +170,20 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "edef7342fe2d34c2",
+  "active": "df9913212568aa80",
   "lastOpenFiles": [
-    "Symmetric Matrices/Singular Vectors.md",
-    "Symmetric Matrices/SVD.md",
+    "Symmetric Matrices/Quadratic Forms.md",
+    "Orthogonality/Mean-Deviation Form.md",
+    "Symmetric Matrices/Symmetric Matrices.md",
     "Symmetric Matrices/Orthogonal Diagonalization.md",
+    "Symmetric Matrices/Spectral Decomposition.md",
+    "Symmetric Matrices/Change of Variable.md",
+    "Symmetric Matrices/Quadratic Surfaces.md",
+    "Symmetric Matrices/Singular Values.md",
+    "Symmetric Matrices/SVD.md",
+    "Symmetric Matrices/Singular Vectors.md",
     "Singular Vectors-4.png",
     "Singular Vectors-3.png",
-    "Symmetric Matrices/Singular Values.md",
     "Singular Vectors-2.png",
     "Orthogonality/Fundamental Subspaces.md",
     "Singular Vectors-1.png",
@@ -187,8 +193,6 @@
     "Symmetric Matrices/Orthogonality Constraints.md",
     "Singular Values.png",
     "Symmetric Matrices/Constrained Optimization.md",
-    "Symmetric Matrices/Symmetric Matrices.md",
-    "Symmetric Matrices/Quadratic Surfaces.md",
     "Symmetric Matrices/pics/Pasted image 20231122163201.png",
     "pdf/Symmetric Matrices/Orthogonality Constraints.pdf",
     "Symmetric Matrices/pics/Constrained Optimization-1.png",
@@ -199,12 +203,8 @@
     "Untitled.canvas",
     "pdf/Symmetric Matrices/Singular Values.pdf",
     "README.md",
-    "Symmetric Matrices/Spectral Decomposition.md",
-    "Symmetric Matrices/Quadratic Forms.md",
-    "Symmetric Matrices/Change of Variable.md",
     "pdf/Symmetric Matrices/Change of Variable.pdf",
     "pdf/Symmetric Matrices/Quadratic Surfaces.pdf",
-    "Orthogonality/Mean-Deviation Form.md",
     "pdf/Orthogonality/Mean-Deviation Form.pdf",
     "Orthogonality/Deviation.md",
     "pdf/Orthogonality/Deviation.pdf",
