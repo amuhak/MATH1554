@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Symmetric Matrices/Quadratic Forms.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,6 +172,9 @@
   "active": "df9913212568aa80",
   "lastOpenFiles": [
     "Symmetric Matrices/Quadratic Forms.md",
+    "Orthogonality/Projections.md",
+    "Orthogonality/Formulas.md",
+    "Symmetric Matrices/SVD.md",
     "Orthogonality/Mean-Deviation Form.md",
     "Symmetric Matrices/Symmetric Matrices.md",
     "Symmetric Matrices/Orthogonal Diagonalization.md",
@@ -180,7 +182,6 @@
     "Symmetric Matrices/Change of Variable.md",
     "Symmetric Matrices/Quadratic Surfaces.md",
     "Symmetric Matrices/Singular Values.md",
-    "Symmetric Matrices/SVD.md",
     "Symmetric Matrices/Singular Vectors.md",
     "Singular Vectors-4.png",
     "Singular Vectors-3.png",
@@ -198,7 +199,6 @@
     "Symmetric Matrices/pics/Constrained Optimization-1.png",
     "Constrained Optimization-4.png",
     "Constrained Optimization-3.png",
-    "Orthogonality/Formulas.md",
     "pdf/Symmetric Matrices/Constrained Optimization.pdf",
     "Untitled.canvas",
     "pdf/Symmetric Matrices/Singular Values.pdf",
@@ -214,7 +214,6 @@
     "pdf/Orthogonality/QR Factorization.pdf",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/Orthogonal Matrices.md",
-    "Orthogonality/Projections.md",
     "Orthogonality/Orthogonal Sets.md",
     "Orthogonality/Orthogonality.md",
     "Orthogonality/Dot Products and Length.md",
