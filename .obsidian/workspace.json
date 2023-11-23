@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Symmetric Matrices/Singular Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db822af896ea604c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Symmetric Matrices/SVD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -158,25 +170,27 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "df9913212568aa80",
+  "active": "db822af896ea604c",
   "lastOpenFiles": [
     "Symmetric Matrices/Singular Vectors.md",
     "Symmetric Matrices/SVD.md",
+    "Symmetric Matrices/Singular Values.md",
+    "Symmetric Matrices/Constrained Optimization.md",
+    "Symmetric Matrices/Orthogonality Constraints.md",
+    "Symmetric Matrices/Quadratic Forms.md",
+    "Symmetric Matrices/Change of Variable.md",
     "Symmetric Matrices/Formulas.md",
     "pdf/Symmetric Matrices/SVD.pdf",
     "SVD-1.png",
     "SVD.png",
     "Orthogonality/Orthogonal Matrices.md",
-    "Symmetric Matrices/Quadratic Forms.md",
     "Orthogonality/Projections.md",
     "Orthogonality/Formulas.md",
     "Orthogonality/Mean-Deviation Form.md",
     "Symmetric Matrices/Symmetric Matrices.md",
     "Symmetric Matrices/Orthogonal Diagonalization.md",
     "Symmetric Matrices/Spectral Decomposition.md",
-    "Symmetric Matrices/Change of Variable.md",
     "Symmetric Matrices/Quadratic Surfaces.md",
-    "Symmetric Matrices/Singular Values.md",
     "Singular Vectors-4.png",
     "Singular Vectors-3.png",
     "Singular Vectors-2.png",
@@ -184,9 +198,7 @@
     "Singular Vectors-1.png",
     "pdf/Symmetric Matrices/Singular Vectors.pdf",
     "Singular Vectors.png",
-    "Symmetric Matrices/Orthogonality Constraints.md",
     "Singular Values.png",
-    "Symmetric Matrices/Constrained Optimization.md",
     "Symmetric Matrices/pics/Pasted image 20231122163201.png",
     "pdf/Symmetric Matrices/Orthogonality Constraints.pdf",
     "Symmetric Matrices/pics/Constrained Optimization-1.png",

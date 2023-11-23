@@ -8,7 +8,7 @@
 >
 >>[!question]- Geometric Interpretation
 >>![[SVD-1.png]]
-
+$\newcommand\b[1]{\begin{bmatrix}#1\end{bmatrix}}$ 
 # Computing 
 Suppose $A$ is $m \times n$ and has rank $r$.
 1. Compute the squared singular values of $A^TA,\sigma_i^2$, and construct $\Sigma$.
@@ -33,7 +33,7 @@ $$
 \vec{u_4} &= \b{0\\0\\0\\1} \\
 \end{aligned}
 $$
-You may note that $\vec{u_3},\vec{u_4}$ are arbitrary, and this is true. They are any orthonormal vectors to $\vec{u_1},\vec{u_2}$.
+You may note that $\vec{u_3},\vec{u_4}$ are arbitrary, and this is true. They are any orthonormal vectors to $\vec{u_1},\vec{u_2}$ due to $\text{Rank}A=2$.
 $$
 \boxed{
 A=
@@ -42,3 +42,4 @@ A=
 \b{0&1\\1&0}
 }
 $$
+Note: For finding $U \in \mathbb{R}^m$ if we have the vectors in $\text{Col} A$, and they are not enough to make an $m \times m$ matrix, then we will create any arbitrary vectors that are orthonormal to the vectors that you already have. Then we will run the [[Gram-Schmidt Process]] on these newly found vectors. All the vectors must be normalized at the end.

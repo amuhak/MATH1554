@@ -17,3 +17,5 @@ is an orthogonal basis for $\text{Col}A.$
 
 
 ![[Singular Vectors-3.png]]![[Singular Vectors-4.png]]
+- Right Singular Vectors are the eigenvectors of $A^TA$ 
+- Left Singular Vectors are the basis for $\text{Col}A$
