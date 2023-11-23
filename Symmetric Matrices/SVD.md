@@ -18,3 +18,5 @@ $$\vec{u_i}=\frac{1}{\sigma_i}A\vec{v_i}, \quad \quad i=1,2,\dots,r$$
 If necessary, extend the set $\{ \vec{u_i} \}$ to form an orthonormal basis for $\mathbb{R}^m$ and use the basis to form $U$.
 
 # Example
+Find the SVD of $A=\b{2&0\\0&-3\\0&0\\0&0}$.
+$A^TA=\b{4&0\\0&9}, \lambda_1=9, \lambda_2=4$ 
