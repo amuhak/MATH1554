@@ -13,49 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symmetric Matrices/Singular Vectors.md",
+                "file": "Symmetric Matrices/SVD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b18000ae391095d0",
+            "id": "edef7342fe2d34c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthogonality/Fundamental Subspaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "851596dd9fb9080b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symmetric Matrices/Orthogonality Constraints.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd51e6119c2b655c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symmetric Matrices/Formulas.md",
-                "mode": "source",
+                "file": "Symmetric Matrices/SVD.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Matrices/Singular Vectors.md",
+                "file": "Symmetric Matrices/SVD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Matrices/Singular Vectors.md",
+                "file": "Symmetric Matrices/SVD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetric Matrices/Singular Vectors.md"
+                "file": "Symmetric Matrices/SVD.md"
               }
             }
           },
@@ -193,12 +170,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "df9913212568aa80",
+  "active": "edef7342fe2d34c2",
   "lastOpenFiles": [
+    "Symmetric Matrices/Singular Vectors.md",
+    "Symmetric Matrices/SVD.md",
+    "Symmetric Matrices/Orthogonal Diagonalization.md",
     "Singular Vectors-4.png",
     "Singular Vectors-3.png",
     "Symmetric Matrices/Singular Values.md",
-    "Symmetric Matrices/Singular Vectors.md",
     "Singular Vectors-2.png",
     "Orthogonality/Fundamental Subspaces.md",
     "Singular Vectors-1.png",
@@ -209,14 +188,12 @@
     "Singular Values.png",
     "Symmetric Matrices/Constrained Optimization.md",
     "Symmetric Matrices/Symmetric Matrices.md",
-    "Symmetric Matrices/Orthogonal Diagonalization.md",
     "Symmetric Matrices/Quadratic Surfaces.md",
     "Symmetric Matrices/pics/Pasted image 20231122163201.png",
     "pdf/Symmetric Matrices/Orthogonality Constraints.pdf",
     "Symmetric Matrices/pics/Constrained Optimization-1.png",
     "Constrained Optimization-4.png",
     "Constrained Optimization-3.png",
-    "Constrained Optimization-2.png",
     "Orthogonality/Formulas.md",
     "pdf/Symmetric Matrices/Constrained Optimization.pdf",
     "Untitled.canvas",
