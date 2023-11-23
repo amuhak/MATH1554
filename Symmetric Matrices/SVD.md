@@ -20,4 +20,25 @@ If necessary, extend the set $\{ \vec{u_i} \}$ to form an orthonormal basis for 
 # Example
 Find the SVD of $A=\b{2&0\\0&-3\\0&0\\0&0}$.
 $A^TA=\b{4&0\\0&9}, \lambda_1=9, \lambda_2=4, \sigma_1=3 ,\sigma_2=2$
-So, $$\Sigma = \b{3&0\\0&2\\0&0\\0&0}$$
+So, $$\boxed{\Sigma = \b{3&0\\0&2\\0&0\\0&0}}$$
+Now find the right-singular vectors (i.e. eigenvectors of $A^TA$) for $V$,
+$$\vec{v_1}=\b{0\\1} \quad \quad \vec{v_2} = \b{1\\0}$$
+Hence, $$\boxed{V=\b{0&1\\1&0}}$$
+Finally find $U$ using the left-singular vectors (i.e. orthonormal basis for $\text{Col}A$)
+$$
+\begin{aligned}
+\vec{u_1} &= \b{0\\-1\\0\\0}\\
+\vec{u_2} &= \b{1\\0\\0\\0} \\
+\vec{u_3} &= \b{0\\0\\1\\0} \\
+\vec{u_4} &= \b{0\\0\\0\\1} \\
+\end{aligned}
+$$
+You may note that $\vec{u_3},\vec{u_4}$ are arbitrary, and this is true. They are any orthonormal vectors to $\vec{u_1},\vec{u_2}$.
+$$
+\boxed{
+A=
+\b{0&1&0&0\\-1&0&0&0\\0&0&1&0\\0&0&0&-1}
+\b{3&0\\0&2\\0&0\\0&0}
+\b{0&1\\1&0}
+}
+$$
