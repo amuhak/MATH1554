@@ -19,4 +19,5 @@ If necessary, extend the set $\{ \vec{u_i} \}$ to form an orthonormal basis for 
 
 # Example
 Find the SVD of $A=\b{2&0\\0&-3\\0&0\\0&0}$.
-$A^TA=\b{4&0\\0&9}, \lambda_1=9, \lambda_2=4$ 
+$A^TA=\b{4&0\\0&9}, \lambda_1=9, \lambda_2=4, \sigma_1=3 ,\sigma_2=2$
+So, $$\Sigma = \b{3&0\\0&2\\0&0\\0&0}$$
