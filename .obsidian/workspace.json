@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -159,13 +159,13 @@
   },
   "active": "fa108770ad4bc73c",
   "lastOpenFiles": [
+    "README.md",
     "Symmetric Matrices/SVD.md",
     "Symmetric Matrices/Condition Number.md",
     "pdf/SVD.pdf",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Symmetric Matrices/Orthogonal Diagonalization.md",
     "Symmetric Matrices/Singular Vectors.md",
-    "README.md",
     "Vocabulary.md",
     "Symmetric Matrices/pics/SVD.png",
     "Symmetric Matrices/pics/Singular Values.png",
