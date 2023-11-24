@@ -11,12 +11,8 @@
             "id": "fa108770ad4bc73c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vocabulary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,14 +152,14 @@
   },
   "active": "fa108770ad4bc73c",
   "lastOpenFiles": [
-    "README.md",
     "Symmetric Matrices/SVD.md",
     "Symmetric Matrices/Condition Number.md",
+    "Vocabulary.md",
+    "README.md",
     "pdf/SVD.pdf",
     "Matrix Algebra/Homogeneous Coordinates.md",
     "Symmetric Matrices/Orthogonal Diagonalization.md",
     "Symmetric Matrices/Singular Vectors.md",
-    "Vocabulary.md",
     "Symmetric Matrices/pics/SVD.png",
     "Symmetric Matrices/pics/Singular Values.png",
     "Symmetric Matrices/Singular Values.md",
