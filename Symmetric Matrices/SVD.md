@@ -24,7 +24,7 @@ So, $$\boxed{\Sigma = \b{3&0\\0&2\\0&0\\0&0}}$$
 Now find the right-singular vectors (i.e. eigenvectors of $A^TA$) for $V$,
 $$\vec{v_1}=\b{0\\1} \quad \quad \vec{v_2} = \b{1\\0}$$
 Hence, $$\boxed{V=\b{0&1\\1&0}}$$
-Finally find $U$ using the left-singular vectors (i.e. orthonormal basis for $\text{Col}A$)
+Finally find $U$ using the left-singular vectors (i.e. orthonormal basis for $\text{Col}A$). This can be found by normalizing $A\vec{v_i}$.
 $$
 \begin{aligned}
 \vec{u_1} &= \b{0\\-1\\0\\0}\\
