@@ -21,10 +21,20 @@ We must notice that $\vec{u_i}\vec{u_i}^T$ is an $n \times n$ matrix, assuming t
 > $$\boxed{A=\lambda_1\vec{u_1}\vec{u_1}^T+\lambda_2\vec{u_2}\vec{u_2}^T+\dots+\lambda_n\vec{u_n}\vec{u_n}^T=\sum_{i=1}^n{\lambda_i\vec{u_i}\vec{u_i}^T}} $$
 
 # Example
-![[Spectral Decomposition.png]]
+![[Symmetric Matrices/pics/Spectral Decomposition.png]]
 
 # Properties
 - $\lambda_n\vec{u_n}\vec{u_n}^T$ will be $n \times n$ and have a Rank of 1.
 >[!extra]- Approximation
 >![[Spectral Decomposition-1.png]]
+
+# Using The [[SVD]]
+$$
+A = \sum_{i=1}^{r} {\sigma_i \vec{u}_i \vec{v}_i}
+$$
+$\vec{u}_i, \vec{v}_i$ are the $i^\text{th}$ columns of $U$ and $V$ respectively. $\sigma_i$ is the [[Singular Values]].
+>[!example]-
+>![[Spectral Decomposition-2.png]]
+
+
 

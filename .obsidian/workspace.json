@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eff6b931942ce6a1",
+        "id": "de77e86d8fa1a76e",
         "type": "tabs",
         "children": [
           {
-            "id": "df9913212568aa80",
+            "id": "fa108770ad4bc73c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symmetric Matrices/Singular Values.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,38 +157,41 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "df9913212568aa80",
+  "active": "52cda0946c10db9b",
   "lastOpenFiles": [
-    "Symmetric Matrices/Singular Vectors.md",
+    "Vocabulary.md",
+    "Symmetric Matrices/pics/SVD.png",
+    "Symmetric Matrices/pics/Singular Values.png",
+    "Symmetric Matrices/Condition Number.md",
     "Symmetric Matrices/SVD.md",
+    "Symmetric Matrices/Singular Vectors.md",
+    "Symmetric Matrices/Singular Values.md",
+    "Symmetric Matrices/Orthogonality Constraints.md",
+    "Symmetric Matrices/Constrained Optimization.md",
     "Symmetric Matrices/Quadratic Surfaces.md",
     "Symmetric Matrices/Change of Variable.md",
-    "Symmetric Matrices/Spectral Decomposition.md",
-    "Symmetric Matrices/Singular Values.md",
-    "Symmetric Matrices/Constrained Optimization.md",
-    "Symmetric Matrices/Orthogonality Constraints.md",
     "Symmetric Matrices/Quadratic Forms.md",
     "Symmetric Matrices/Formulas.md",
+    "Symmetric Matrices/Spectral Decomposition.md",
+    "Symmetric Matrices/Orthogonal Diagonalization.md",
+    "Symmetric Matrices/Symmetric Matrices.md",
+    "Symmetric Matrices/pics/Spectral Decomposition-2.png",
+    "pdf/Symmetric Matrices/Condition Number.pdf",
     "pdf/Symmetric Matrices/SVD.pdf",
-    "SVD-1.png",
-    "SVD.png",
+    "Symmetric Matrices/pics/SVD-1.png",
     "Orthogonality/Orthogonal Matrices.md",
     "Orthogonality/Projections.md",
     "Orthogonality/Formulas.md",
     "Orthogonality/Mean-Deviation Form.md",
-    "Symmetric Matrices/Symmetric Matrices.md",
-    "Symmetric Matrices/Orthogonal Diagonalization.md",
-    "Singular Vectors-4.png",
-    "Singular Vectors-3.png",
-    "Singular Vectors-2.png",
+    "Symmetric Matrices/pics/Singular Vectors-4.png",
+    "Symmetric Matrices/pics/Singular Vectors-3.png",
+    "Symmetric Matrices/pics/Singular Vectors-2.png",
     "Orthogonality/Fundamental Subspaces.md",
-    "Singular Vectors-1.png",
+    "Symmetric Matrices/pics/Singular Vectors-1.png",
     "pdf/Symmetric Matrices/Singular Vectors.pdf",
-    "Singular Vectors.png",
-    "Singular Values.png",
+    "Symmetric Matrices/pics/Singular Vectors.png",
     "Symmetric Matrices/pics/Pasted image 20231122163201.png",
     "pdf/Symmetric Matrices/Orthogonality Constraints.pdf",
-    "Symmetric Matrices/pics/Constrained Optimization-1.png",
     "pdf/Symmetric Matrices/Constrained Optimization.pdf",
     "Untitled.canvas",
     "pdf/Symmetric Matrices/Singular Values.pdf",
@@ -200,11 +202,9 @@
     "Orthogonality/Deviation.md",
     "pdf/Orthogonality/Deviation.pdf",
     "Orthogonality/Least Squares.md",
-    "pdf/Orthogonality/Least Squares.pdf",
     "Orthogonality/QR Factorization.md",
     "Orthogonality/Gram-Schmidt Process.md",
     "Orthogonality/Orthogonal Sets.md",
-    "Orthogonality/Orthogonality.md",
-    "Orthogonality/Dot Products and Length.md"
+    "Orthogonality/Orthogonality.md"
   ]
 }

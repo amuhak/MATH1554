@@ -43,3 +43,10 @@ A=
 }
 $$
 Note: For finding $U \in \mathbb{R}^m$ if we have the vectors in $\text{Col} A$, and they are not enough to make an $m \times m$ matrix, then we will create any arbitrary vectors that are orthonormal to the vectors that you already have. Then we will run the [[Gram-Schmidt Process]] on these newly found vectors. All the vectors must be normalized at the end.
+
+# Properties of $V$ and $U$
+For $i \le r = \text{Rank} A$ 
+- $\vec{v_1},\dots,\vec{v_r}$ is an orthonormal basis for $\text{Row}A$.
+- $\vec{v_{r+1}},\dots,\vec{v_n}$ is an orthonormal basis for $\text{Nul}A$.
+- $\vec{u_1},\dots,\vec{u_r}$ is an orthonormal basis for $\text{Col}A$.
+- $\vec{u_{r+1}},\dots,\vec{u_m}$ is an orthonormal basis for $\text{Nul}A^T$.

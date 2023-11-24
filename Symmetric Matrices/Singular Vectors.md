@@ -11,11 +11,12 @@
 
 Using the same assumptions as above, it can be shown that,
 $$\{ A\vec{v_1},A\vec{v_2},\dots,A\vec{v_r} \}$$
+or
+$$\{ \vec{u_1},\vec{u_2},\dots,\vec{u_r} \}$$
 is an orthogonal basis for $\text{Col}A.$
 >[!important]- Proof
 >![[Singular Vectors-2.png]]
 
-
 ![[Singular Vectors-3.png]]![[Singular Vectors-4.png]]
-- Right Singular Vectors are the eigenvectors of $A^TA$ 
 - Left Singular Vectors are the basis for $\text{Col}A$
+- Right Singular Vectors are the eigenvectors of $A^TA$ 
