@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\b{",
+                "query": "reader",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,14 +157,18 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "52cda0946c10db9b",
+  "active": "fa108770ad4bc73c",
   "lastOpenFiles": [
+    "Symmetric Matrices/SVD.md",
+    "Symmetric Matrices/Condition Number.md",
+    "pdf/SVD.pdf",
+    "Matrix Algebra/Homogeneous Coordinates.md",
+    "Symmetric Matrices/Orthogonal Diagonalization.md",
+    "Symmetric Matrices/Singular Vectors.md",
+    "README.md",
     "Vocabulary.md",
     "Symmetric Matrices/pics/SVD.png",
     "Symmetric Matrices/pics/Singular Values.png",
-    "Symmetric Matrices/Condition Number.md",
-    "Symmetric Matrices/SVD.md",
-    "Symmetric Matrices/Singular Vectors.md",
     "Symmetric Matrices/Singular Values.md",
     "Symmetric Matrices/Orthogonality Constraints.md",
     "Symmetric Matrices/Constrained Optimization.md",
@@ -173,7 +177,6 @@
     "Symmetric Matrices/Quadratic Forms.md",
     "Symmetric Matrices/Formulas.md",
     "Symmetric Matrices/Spectral Decomposition.md",
-    "Symmetric Matrices/Orthogonal Diagonalization.md",
     "Symmetric Matrices/Symmetric Matrices.md",
     "Symmetric Matrices/pics/Spectral Decomposition-2.png",
     "pdf/Symmetric Matrices/Condition Number.pdf",
@@ -195,16 +198,12 @@
     "pdf/Symmetric Matrices/Constrained Optimization.pdf",
     "Untitled.canvas",
     "pdf/Symmetric Matrices/Singular Values.pdf",
-    "README.md",
     "pdf/Symmetric Matrices/Change of Variable.pdf",
     "pdf/Symmetric Matrices/Quadratic Surfaces.pdf",
     "pdf/Orthogonality/Mean-Deviation Form.pdf",
     "Orthogonality/Deviation.md",
-    "pdf/Orthogonality/Deviation.pdf",
     "Orthogonality/Least Squares.md",
     "Orthogonality/QR Factorization.md",
-    "Orthogonality/Gram-Schmidt Process.md",
-    "Orthogonality/Orthogonal Sets.md",
-    "Orthogonality/Orthogonality.md"
+    "Orthogonality/Gram-Schmidt Process.md"
   ]
 }
