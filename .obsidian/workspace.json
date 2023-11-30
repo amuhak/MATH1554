@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "de77e86d8fa1a76e",
+        "id": "1d47c45ba0ef42fb",
         "type": "tabs",
         "children": [
           {
-            "id": "fa108770ad4bc73c",
+            "id": "4d74a770421deff7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reader",
+                "query": "\\b{",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cab22d8107e0989",
@@ -150,53 +149,54 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "fa108770ad4bc73c",
+  "active": "4d74a770421deff7",
   "lastOpenFiles": [
+    "Orthogonality/Least Squares.md",
     "Symmetric Matrices/SVD.md",
-    "Symmetric Matrices/Condition Number.md",
+    "Symmetric Matrices/Quadratic Forms.md",
+    "Orthogonality/QR Factorization.md",
+    "Orthogonality/Gram-Schmidt Process.md",
+    "Orthogonality/Projections.md",
     "Vocabulary.md",
-    "README.md",
-    "pdf/SVD.pdf",
-    "Matrix Algebra/Homogeneous Coordinates.md",
+    "Determinants and Eigenvalues/Google Page Rank.md",
+    "Determinants and Eigenvalues/PCP Decomposition.md",
+    "Determinants and Eigenvalues/Similar Matrices.md",
+    "Determinants and Eigenvalues/Eigen Things.md",
+    "Determinants and Eigenvalues/Diagonal Matrices.md",
+    "Determinants and Eigenvalues/Markov Chains.md",
+    "Symmetric Matrices/Constrained Optimization.md",
+    "Linear Systems/Matrix Vector Product.md",
+    "Linear Systems/Linear Independence.md",
+    "Linear Systems/Linear Combinations.md",
+    "Linear Systems/Parametric Vector Form.md",
+    "Linear Systems/Matrix Addition and Scalar Multiplication.md",
+    "Linear Systems/Row Reduction Algorithm.md",
+    "Linear Systems/Span.md",
+    "Linear Systems/Row Operations.md",
+    "Linear Systems/Vectors in R.md",
     "Symmetric Matrices/Orthogonal Diagonalization.md",
-    "Symmetric Matrices/Singular Vectors.md",
+    "Symmetric Matrices/Spectral Decomposition.md",
+    "Symmetric Matrices/Change of Variable.md",
+    "Symmetric Matrices/pics/animation.gif",
+    "pdf/SVD.pdf",
     "Symmetric Matrices/pics/SVD.png",
     "Symmetric Matrices/pics/Singular Values.png",
-    "Symmetric Matrices/Singular Values.md",
-    "Symmetric Matrices/Orthogonality Constraints.md",
-    "Symmetric Matrices/Constrained Optimization.md",
-    "Symmetric Matrices/Quadratic Surfaces.md",
-    "Symmetric Matrices/Change of Variable.md",
-    "Symmetric Matrices/Quadratic Forms.md",
-    "Symmetric Matrices/Formulas.md",
-    "Symmetric Matrices/Spectral Decomposition.md",
-    "Symmetric Matrices/Symmetric Matrices.md",
     "Symmetric Matrices/pics/Spectral Decomposition-2.png",
     "pdf/Symmetric Matrices/Condition Number.pdf",
     "pdf/Symmetric Matrices/SVD.pdf",
     "Symmetric Matrices/pics/SVD-1.png",
-    "Orthogonality/Orthogonal Matrices.md",
-    "Orthogonality/Projections.md",
-    "Orthogonality/Formulas.md",
-    "Orthogonality/Mean-Deviation Form.md",
     "Symmetric Matrices/pics/Singular Vectors-4.png",
     "Symmetric Matrices/pics/Singular Vectors-3.png",
     "Symmetric Matrices/pics/Singular Vectors-2.png",
-    "Orthogonality/Fundamental Subspaces.md",
     "Symmetric Matrices/pics/Singular Vectors-1.png",
     "pdf/Symmetric Matrices/Singular Vectors.pdf",
     "Symmetric Matrices/pics/Singular Vectors.png",
-    "Symmetric Matrices/pics/Pasted image 20231122163201.png",
     "pdf/Symmetric Matrices/Orthogonality Constraints.pdf",
     "pdf/Symmetric Matrices/Constrained Optimization.pdf",
     "Untitled.canvas",
     "pdf/Symmetric Matrices/Singular Values.pdf",
     "pdf/Symmetric Matrices/Change of Variable.pdf",
     "pdf/Symmetric Matrices/Quadratic Surfaces.pdf",
-    "pdf/Orthogonality/Mean-Deviation Form.pdf",
-    "Orthogonality/Deviation.md",
-    "Orthogonality/Least Squares.md",
-    "Orthogonality/QR Factorization.md",
-    "Orthogonality/Gram-Schmidt Process.md"
+    "pdf/Orthogonality/Mean-Deviation Form.pdf"
   ]
 }
