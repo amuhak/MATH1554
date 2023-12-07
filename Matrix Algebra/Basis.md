@@ -15,7 +15,7 @@ x_2\begin{bmatrix} 3 \\ 1 \\ 0 \\ 0 \end{bmatrix}+x_3\begin{bmatrix} 5 \\ 0 \\ 1
 \text{The basis for the null space of }H &= \boxed{\left\{ \begin{bmatrix} 3 \\ 1 \\ 0 \\ 0 \end{bmatrix},\begin{bmatrix} 5 \\ 0 \\ 1 \\ 0 \end{bmatrix},\begin{bmatrix} -7 \\ 0 \\ 0 \\ 1 \end{bmatrix} \right\}}
 \end{aligned}
 $$
-This is the basis of the null space of $H$ due to the equation being $x_1 - 3x_2 - 5x_3 + 7x_4 = \color{Red}{0}$.
+This is the basis of the null space of $H$ due to the equation being $x_1 - 3x_2 - 5x_3 + 7x_4 = \boxed{0}$.
 
 # Basis of the Null Space
 

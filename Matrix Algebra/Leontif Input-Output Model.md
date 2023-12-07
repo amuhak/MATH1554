@@ -1,4 +1,3 @@
-#Leontif
 A Leontif Input-Output Model is a model that describes a economy whos' parts need resources to provide resources. 
 
 $C$ is the consumption matrix. 

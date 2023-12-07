@@ -1,4 +1,4 @@
-We can compute the average,$\bar{x}$, of the $x$-values, and introduce a new variable ${x}_*=x-\bar{x}$.
+We can compute the average, $\bar{x}$, of the $x$-values, and introduce a new variable ${x}_*=x-\bar{x}$.
 
 |x|2|5|7|8|
 |-|-|-|-|-|
