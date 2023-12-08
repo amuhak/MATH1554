@@ -11,7 +11,7 @@ $$
 $A^TA$ is always [[Symmetric Matrices|symmetric]]. After acknowledging that we can realizes that is a [[Constrained Optimization]] problem. $||\vec{v}||=1$ being the constraint. 
 We will simply use the largest eigenvalue of $A^TA$ to find the largest value for $||A\vec{v}||^2$. The location of this will simply be the corresponding normalized eigenvector. 
 
-The min value can be found using a simpler method. 
+The min value can be found using a similar method. 
 
 Calling singular values $\sigma_1 \ge \sigma_2 \ge \dots \ge \sigma_n$ we can say that the $\sigma_1$ is the max value of $||A\vec{v}||$ and $\sigma_n$ is the min value.
 
