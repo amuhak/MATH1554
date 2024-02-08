@@ -14,7 +14,8 @@ $$
 \det(A)&=(a_{1,1})(\det \left(A_{1,1}\right)) - (a_{1,2})(\det \left(A_{1,2}\right))\\
 \det(A)&=(a)\left(d\right) - (b)\left(c\right)\\
 \det(A)&=ad-bc
-\end{aligned}$$
+\end{aligned}
+$$
 
 # Using a [[Cofactors|Cofactor]]
 The determinant of a matrix $A$ can be computed down any row or column of the matrix.
