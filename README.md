@@ -4,7 +4,7 @@ The most important part of MATH 1554 linear algebra is calculating the output ve
 
 For [GT dual enrolment](https://admission.gatech.edu/dual-enrollment/) students: [Join the discord](https://discord.gg/gt-dual-enrollment-753230080699793559)
 
-[There is now a website. Click this](https://amuhak.github.io/MATH1554-web/) or copy-paste: https://amuhak.github.io/MATH1554-web/
+[There is now a website. Click this](https://amuhak.github.io/MATH1554-web/) or copy-paste: https://math1554.amuhak.com/
 
 ***
 # Contribute
